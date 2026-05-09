@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { BrowserRouter, Routes, Route, useNavigate, useLocation } from 'react-router-dom';
 import { Home, BarChart2, BookOpen, Settings } from 'lucide-react';
 import { hasOnboarded } from './lib/storage';
+import InstallPrompt from './components/InstallPrompt';
 
 import LandingPage from './screens/LandingPage';
 import BibleStudiesScreen from './screens/BibleStudiesScreen';
@@ -109,6 +110,7 @@ export default function App() {
       <div style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
         <AppRoutes />
       </div>
+      <InstallPrompt />
     </BrowserRouter>
   );
 }
