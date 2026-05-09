@@ -13,7 +13,7 @@ export const PURITY_DAYS_SERIES1 = [
       },
       {
         type: 'encouragement',
-        content: 'Jesus didn\'t say "blessed are the rule-followers" or "blessed are the ones who white-knuckle their way through temptation." He said blessed are the pure in heart. This is about the inside -- who you are when no one is watching. And the reward isn\'t a trophy or a pat on the back. It\'s God Himself. Purity isn\'t a list of things you don\'t do. It\'s a heart that wants Jesus more than anything else.',
+        content: 'Jesus says you are blessed when we have a pure heart. To be blessed is to be happy and here, Jesus is saying "happy are those who have a pure heart". You see, it\'s not about rules or looking like you\'ve got it all together. It\'s about who you are on the inside, when no one is watching. Purity isn\'t about what you don\'t do, it\'s a heart that wants the joy of Jesus more than the pleasure of impurity.',
       },
       { type: 'question', question: 'When you think about purity, does it feel like a burden or a gift? Why?' },
       { type: 'question', question: 'What would it look like for your heart -- not just your actions -- to be pure?' },
@@ -35,7 +35,7 @@ export const PURITY_DAYS_SERIES1 = [
       },
       {
         type: 'encouragement',
-        content: 'Jesus didn\'t soften this. He went straight to the heart. Lust isn\'t just a physical problem -- it\'s a worship problem. When you lust, you\'re treating another person as an object for your pleasure instead of an image-bearer of God. And here\'s what Piper says that cuts deep: lust is a failure to treasure Christ above all things. The battle for purity is won or lost in what you treasure. Jesus is better than anything lust promises.',
+        content: 'Jesus speaks boldly about lust. He says lust isn\'t just a physical problem, it\'s a worship problem. When you lust, you\'re treating someone as an object for your pleasure, not as a child of God. John Piper says: lust is a failure to treasure Christ above all things. The battle for purity is won or lost in what you treasure. Jesus is better than anything lust promises.',
       },
       { type: 'question', question: 'When are you most vulnerable to temptation -- what time, place, or emotional state?' },
       { type: 'question', question: 'How does giving in to lust affect your relationship with God and with others?' },
@@ -57,7 +57,7 @@ export const PURITY_DAYS_SERIES1 = [
       },
       {
         type: 'encouragement',
-        content: 'Paul doesn\'t say fight it. He says flee. There\'s a reason for that. Some battles aren\'t won by standing your ground -- they\'re won by running. And notice why: your body is a temple of the Holy Spirit. Jesus bought you with His blood. You belong to Him. That changes everything. You\'re not just trying to be a good person. You\'re honoring the God who lives in you.',
+        content: 'Paul\'s charge isn\'t to fight against lust. Probably because he was well aware of the likelihood of winning that fight. Instead, Paul calls you to flee, to run for your life because it depends on it. This you can do because God\'s given you the Holy Spirit, He bought you with the blood of Jesus and desires your purity even more than you do. This changes everything. You don\'t have to fight to be a good person, you can use the power inside of you to be who God has called you to be.',
       },
       { type: 'question', question: 'What is a situation you need to "flee" from right now, not just manage?' },
       { type: 'question', question: 'How does knowing the Holy Spirit lives in you change how you see your body and your choices?' },
@@ -79,7 +79,7 @@ export const PURITY_DAYS_SERIES1 = [
       },
       {
         type: 'encouragement',
-        content: 'You can\'t just empty your mind of junk and expect it to stay clean. You have to replace it with something better. The world is constantly feeding you a vision of what a man is -- and it\'s a lie. Jesus offers a different vision: a man who is strong enough to be self-controlled, secure enough to not need approval, and free enough to love others without using them. That vision only gets into your head through the Word. Fill your mind with truth, and the lies lose their grip.',
+        content: 'Your mind isn\'t simply renewed because you wish it to be. If you fill your mind with junk, then junk is what you get. Garbage in - Garbage out. If you renew your mind with the Word of God, then holiness is what you get. Purity in - Purity out. The world works effortlessly to fill your mind with a vision of what a man is and it\'s a lie. Jesus shows us that a man can be strong enough to be self-controlled, secure enough to not need everyone\'s approval, and free enough to love others without using them. So, fill your mind with truth and the lies will flee from you.',
       },
       { type: 'question', question: 'What is the world\'s version of manhood telling you about sex and purity?' },
       { type: 'question', question: 'What truth from Scripture do you need to replace that lie with?' },
@@ -101,7 +101,7 @@ export const PURITY_DAYS_SERIES1 = [
       },
       {
         type: 'encouragement',
-        content: 'You will fail. That\'s not an excuse -- it\'s the truth. And when you do, the enemy will tell you that you\'re too far gone, that God is done with you, that you might as well give up. Don\'t believe him. Jesus went to the cross knowing every sin you would ever commit -- including the ones you\'re most ashamed of. His blood is enough. Confession isn\'t crawling back to God in defeat. It\'s running back to a Father who already sees you coming and is ready to restore you. Get up. Keep going.',
+        content: 'You will fail. Plain and simple. That\'s not an excuse, it\'s the truth. And when you do, the enemy will tell you that you\'re too far gone, you\'ve wasted your efforts, and you have to start over at the beginning. He\'ll tell you that God\'s done with you and you should just give up. Don\'t believe him. Jesus knew every sin you\'d ever commit and still went to the cross to save you. His blood is enough. Confession isn\'t crawling back to God in defeat, it\'s running back to a Father who loves you and is ready to restore you. Get up. Keep going.',
       },
       { type: 'question', question: 'Is there a failure you\'re still carrying shame over that you haven\'t brought to Jesus?' },
       { type: 'question', question: 'Why is it sometimes harder to accept forgiveness than to earn it?' },
@@ -126,7 +126,7 @@ export const PURITY_DAYS_SERIES2 = [
       },
       {
         type: 'encouragement',
-        content: 'David made a covenant with his eyes. He decided in advance what he would and wouldn\'t look at. That\'s not legalism -- that\'s wisdom. Your eyes and ears are gateways to your heart. What you consume shapes what you desire. And what you desire shapes who you become. Jesus said if your eye causes you to sin, deal with it radically (Matthew 5:29). He\'s not being dramatic. He\'s saying: take this seriously. Your soul is worth more than whatever you\'re letting in.',
+        content: 'You\'re at war. It\'s a war for your joy, your peace, your faith. Paul says you\'ve got the most powerful weapons to fight this war. The Word of God, Prayer, the Holy Spirit. Every thought that comes against the knowledge of God, every lie, fantasy, and accusation can be taken prisoner. This doesn\'t mean the thoughts won\'t come, it essentially guarantees they will. But you don\'t need to obey them. You can take every thought captive. Bring it to Christ and let him deal with it.',
       },
       { type: 'question', question: 'What are you regularly consuming -- shows, music, social media -- that is feeding lust rather than faith?' },
       { type: 'question', question: 'What would it look like to make a "covenant with your eyes" this week?' },
@@ -148,7 +148,7 @@ export const PURITY_DAYS_SERIES2 = [
       },
       {
         type: 'encouragement',
-        content: 'You become like the people you spend the most time with. That\'s not a clich -- it\'s Scripture. The guys around you are either pulling you toward Christ or away from Him. That doesn\'t mean you only hang out with perfect Christians. Jesus ate with sinners. But your closest circle -- the guys you talk to every day, the ones who know your struggles -- those relationships need to be ones where Jesus is welcomed, not mocked. Proverbs says iron sharpens iron. Find guys who make you sharper.',
+        content: 'Solomon says something really clear here: "Above ALL else". This isn\'t just something we do along with everything else, it\'s actually the most important of all we do. "Above all else, guard your heart". Guard the gates. Set up sentinels of scripture, prayer, and accountability. Not because you\'re afraid, but because you know the enemy is coming for you and you won\'t be caught with a weak entry point to your heart. After all, "everything flows from it". So guard what you see and hear. What you feed grows. What you starve dies.',
       },
       { type: 'question', question: 'Do your closest friends know about your commitment to purity? Do they support it or undermine it?' },
       { type: 'question', question: 'Is there a friendship that consistently pulls you away from Jesus? What do you need to do about it?' },
@@ -170,7 +170,7 @@ export const PURITY_DAYS_SERIES2 = [
       },
       {
         type: 'encouragement',
-        content: 'Paul\'s instruction is simple and radical: treat women like sisters. Not objects. Not conquests. Not entertainment. Sisters. Every woman you encounter -- at school, online, anywhere -- is an image-bearer of God. She has a father, maybe brothers, a story. Jesus died for her just as He died for you. The way you look at women, talk about them, and treat them is a direct reflection of how seriously you take the gospel. Purity isn\'t just about what you don\'t do. It\'s about seeing people the way Jesus sees them.',
+        content: 'Something happens when you bring your sin into the light. Sin thrives in secrecy, telling a trusted friend or mentor extinguishes its power. Shame loses its grip, the lie that you\'re the only one who struggles loses its power, and grace is experienced in real time when you step out in honesty before your brothers in Christ. You need them. You need them to pray over you, share truth with you, and never let you quit.',
       },
       { type: 'question', question: 'How does viewing women as image-bearers of God change the way you think about them?' },
       { type: 'question', question: 'In what areas -- online, in conversation, in your thoughts -- do you need to change how you see women?' },
@@ -192,7 +192,7 @@ export const PURITY_DAYS_SERIES2 = [
       },
       {
         type: 'encouragement',
-        content: 'God never puts you in a situation where sin is your only option. Every single time you are tempted, there is a door marked "exit." The question is whether you\'re looking for it. The enemy wants you to feel trapped -- like you have no choice, like this is just who you are. That\'s a lie. Jesus defeated sin and death. That same power lives in you through the Holy Spirit. You are not a slave to your desires. You are free. But freedom has to be chosen.',
+        content: 'The righteous man isn\'t the one who never falls. He\'s the one who keeps getting up. That\'s the difference. The enemy wants you to believe that falling means you\'re done, that you\'re not really a Christian, that you might as well give up. Don\'t believe him. Jesus knew you would fall when He went to the cross. He went anyway. Your failures don\'t surprise Him. What He\'s watching for is whether you\'ll get back up and come back to Him. Get up. Keep going.',
       },
       { type: 'question', question: 'Think of a recent time you gave in to temptation. Where was the "way out" that you didn\'t take?' },
       { type: 'question', question: 'What makes it hard to look for the exit when temptation hits?' },
@@ -214,7 +214,7 @@ export const PURITY_DAYS_SERIES2 = [
       },
       {
         type: 'encouragement',
-        content: 'Here\'s the thing about purity that nobody tells you: you can\'t do it alone. Willpower runs out. Accountability helps, but it\'s not enough. What you need is the Holy Spirit. When you trust in Jesus, God\'s Spirit literally lives inside you. He is the power source. Walking in the Spirit means staying close to Jesus -- through prayer, through the Word, through community. When you do that, the desires of the flesh lose their grip. Not because you\'re stronger, but because He is.',
+        content: 'Purity doesn\'t happen over night. Nothing worth doing ever does. Failing is only half the danger, giving up early is the other half. Starting to wonder if this is all worth it. Paul reminds us to keep going because there\'s something good coming. The work you\'re doing now, the boundaries you\'re setting, the habits you\'re forming, the battles you\'re fighting, it\'s all producing something great. You may not see it today, but you will. Stay in it.',
       },
       { type: 'question', question: 'What does "walking in the Spirit" look like practically in your daily life?' },
       { type: 'question', question: 'When you struggle with purity, are you trying to fight it in your own strength or leaning on the Holy Spirit?' },
@@ -239,7 +239,7 @@ export const PURITY_DAYS_SERIES3 = [
       },
       {
         type: 'encouragement',
-        content: 'Compromise never stays small. It always grows. One look leads to another. One conversation leads further. Sin has a momentum to it -- and sexual sin especially. Paul says God\'s will for you is sanctification: being set apart, made holy, becoming more like Jesus. That process gets derailed every time you choose to compromise. It\'s not just about the moment. It\'s about the man you\'re becoming. Every choice you make today is shaping who you\'ll be tomorrow.',
+        content: 'This changes everything. You\'re not primarily a sinner trying to be good. You are a child of God who is learning to live like one. You don\'t fight sin to earn God\'s love. You fight sin because you already have it. You\'re not trying to become someone God accepts. You\'re living out who you already are. That\'s a completely different motivation, and it\'s the only one that actually works long-term.',
       },
       { type: 'question', question: 'Where in your life are you making small compromises that you\'re telling yourself don\'t matter?' },
       { type: 'question', question: 'How does compromise in purity affect other areas of your life -- your focus, your confidence, your relationship with God?' },
@@ -261,7 +261,7 @@ export const PURITY_DAYS_SERIES3 = [
       },
       {
         type: 'encouragement',
-        content: 'You don\'t belong to yourself. That sounds offensive until you understand what it means. Jesus paid for you with His life. His blood. His death on a Roman cross. That\'s the price. And because of that, your body isn\'t yours to do whatever you want with -- it\'s His. But here\'s the thing: He\'s not a tyrant demanding obedience. He\'s a Savior who loves you completely. When you honor God with your body, you\'re not losing freedom. You\'re living the way you were designed to live -- and that\'s where true freedom is found.',
+        content: 'Jesus didn\'t just forgive your sin. He took it into His own body on the cross. Every act of lust, every sin, every failure, he carried it. And He did it so that you could be free from sin and live for righteousness. That\'s the gospel. Not just forgiveness, but transformation. The cross removes the debt of your sin and progressively makes you more and more like Christ.',
       },
       { type: 'question', question: 'How does the reality of the cross -- Jesus dying for you -- change how you think about your body and your choices?' },
       { type: 'question', question: 'In what ways are you treating your body as if it belongs to you rather than to God?' },
@@ -283,7 +283,7 @@ export const PURITY_DAYS_SERIES3 = [
       },
       {
         type: 'encouragement',
-        content: 'Job lived thousands of years before the internet, and he still had to make a covenant with his eyes. You live in a world that has made lust available 24/7, in your pocket, with infinite scroll. The temptation is real and it\'s relentless. But so is the grace of Jesus. You\'re not fighting this battle in your own strength. The same Jesus who resisted every temptation in the wilderness is interceding for you right now (Hebrews 7:25). You are not alone in this. But you do have to decide -- in advance -- what you will and won\'t look at.',
+        content: 'Paul doesn\'t say \'try harder not to sin.\' That only works for so long. Instead, he says "walk by the Spirit". There\'s a difference. Trying harder is all about your willpower, and your willpower will eventually run out. Walking by the Spirit is staying connected to our Father who loves you. It\'s prayer, Scripture, community, worship. It\'s all the things that keep you engaged with God. When you\'re walking with the Spirit, the desires of the flesh lose their power. Not because you\'re stronger, but because He is.',
       },
       { type: 'question', question: 'What specific online situations or platforms are the biggest temptation for you?' },
       { type: 'question', question: 'What practical barriers can you put in place -- filters, accountability software, removing apps -- to protect yourself?' },
@@ -305,7 +305,7 @@ export const PURITY_DAYS_SERIES3 = [
       },
       {
         type: 'encouragement',
-        content: 'There\'s a difference between conviction and shame, and you need to know it. Conviction says: "What you did was wrong -- come back to Jesus." Shame says: "You are what you did -- you\'re too far gone." Conviction comes from the Holy Spirit and leads to repentance and restoration. Shame comes from the enemy and leads to hiding and hopelessness. If you\'ve trusted in Jesus, Romans 8:1 is your reality: no condemnation. None. Not a little. Not "except for that one thing." None. Don\'t let shame keep you from the Father who is ready to restore you.',
+        content: 'Job made a covenant. Not in the heat of the moment when he needed to make a decision to give in or stay pure, but before it ever happened. I\'ve been guilty of trying to live in the moment and practice purity "when I need to". That\'s a losing strategy. The battle is lost before it starts. Don\'t wait until emotions are high and willpower is low. Decide now to keep your eyes pure no matter what.',
       },
       { type: 'question', question: 'Are you currently carrying shame about something rather than bringing it to Jesus in confession?' },
       { type: 'question', question: 'How do you tell the difference between the Holy Spirit convicting you and the enemy shaming you?' },
@@ -327,7 +327,7 @@ export const PURITY_DAYS_SERIES3 = [
       },
       {
         type: 'encouragement',
-        content: 'Paul says offering your body to God is worship. Not just singing on Sunday -- your body, your daily choices, your eyes, your hands, your mind. All of it is worship. And notice the motivation: "in view of God\'s mercy." You don\'t pursue purity to earn God\'s love. You pursue it because you already have it. The cross is the reason. Mercy is the fuel. When you choose purity, you\'re not performing for God -- you\'re responding to what He\'s already done. That changes everything about why you fight.',
+        content: 'David wrote this after committing adultery with Bathsheba and then having her husband killed to cover it up. But he didn\'t merely ask God to forgive him, he asked God to fix the problem, his heart. David understood it\'s not about doing, but about being. That\'s the prayer. Not \'help me do better.\' But \'create in me.\' Doing depends on you. Creating a new heart depends on Him.',
       },
       { type: 'question', question: 'How does seeing purity as an act of worship -- not rule-following -- change your motivation?' },
       { type: 'question', question: 'In what ways is your daily life an act of worship or an act of self-worship right now?' },
@@ -352,7 +352,7 @@ export const PURITY_DAYS_SERIES4 = [
       },
       {
         type: 'encouragement',
-        content: 'Paul tells Timothy -- a young man -- to set an example in purity. Not someday when he\'s older. Now. The choices you make at 15, 16, 17 are forming the man you\'ll be at 25 and 35. Purity isn\'t just about avoiding regret. It\'s about building a life that honors God and serves others well. The man who learns to control himself now will be a better husband, a better father, a better leader. You\'re not just fighting for today. You\'re playing the long game.',
+        content: 'You were not made to go through life alone. God designed you to need other men, not just for fun, but for sharpening. Iron sharpens iron. Ever see iron sharpening iron? It requires friction. Real accountability isn\'t comfortable. It asks hard questions. It doesn\'t let you off the hook. It tells you the truth when you don\'t want to hear it. But it also stands with you, prays for you, and doesn\'t walk away when you fail. Find that kind of brother and be that kind of brother.',
       },
       { type: 'question', question: 'What kind of man do you want to be at 25? How do your choices today either build toward that or tear it down?' },
       { type: 'question', question: 'Who is watching you -- younger brothers, friends, guys at school -- who might be influenced by how you live?' },
@@ -374,7 +374,7 @@ export const PURITY_DAYS_SERIES4 = [
       },
       {
         type: 'encouragement',
-        content: 'Sin thrives in darkness and dies in the light. James doesn\'t say confess to God only -- he says confess to each other. There is something powerful that happens when you say out loud to another person: "I\'m struggling with this." The shame loses its power. You stop fighting alone. And you find out you\'re not the only one. Chan says it plainly: we were never meant to do this alone. The church -- your brothers in Christ -- is part of how God heals you. Vulnerability isn\'t weakness. It\'s the bravest thing you can do.',
+        content: 'Paul\'s words are simple yet widely impactful: treat younger women as sisters. Not as objects. Not as missions to accomplish. Not as entertainment. As sisters. Treat them with the same care, respect, and protection you\'d want for your own sister. Purity isn\'t just about what you don\'t do. It\'s about how you see others. When you look at a girl, do you see a sister made in the image of God, or do you see something for your own pleasure? The way you see others shapes the way you treat them.',
       },
       { type: 'question', question: 'Do you have someone in your life you can be completely honest with about your struggles? If not, why not?' },
       { type: 'question', question: 'What is the fear that keeps you from confessing to another person?' },
@@ -396,7 +396,7 @@ export const PURITY_DAYS_SERIES4 = [
       },
       {
         type: 'encouragement',
-        content: 'Lust promises to satisfy a real hunger -- for connection, for significance, for pleasure. But it never delivers. You always come back thirsty. Jesus said He is the living water. The hunger underneath your temptation is real -- but the thing you\'re reaching for isn\'t the right thing. Piper says it like this: the battle for purity is ultimately a battle for joy. You don\'t fight lust by hating pleasure -- you fight it by finding something better. And there is nothing better than Jesus.',
+        content: 'Lust promises to satisfy a real hunger for connection, significance, and pleasure, but it never really satisfies. You always come back thirsty. Jesus said He is the living water. The desire for connection, significance, and pleasure are real, but lust doesn\'t have the ability to meet these desires fully. Piper says it like this: the battle for purity is ultimately a battle for joy. You don\'t fight lust by hating pleasure, you fight it by finding something better. And there is nothing better than Jesus.',
       },
       { type: 'question', question: 'What deeper need -- connection, comfort, significance, escape -- is underneath your temptation toward lust?' },
       { type: 'question', question: 'How have you tried to fill that need with things other than Jesus? How has that worked out?' },
@@ -418,7 +418,7 @@ export const PURITY_DAYS_SERIES4 = [
       },
       {
         type: 'encouragement',
-        content: 'Jesus didn\'t die to make you a slightly better version of a slave. He died to set you free. Paul says stand firm in that freedom -- don\'t go back. Some of you have been fighting this battle so long you\'ve started to believe you\'ll never be free. That\'s a lie. The same power that raised Jesus from the dead is at work in you (Romans 8:11). Freedom isn\'t the absence of temptation. It\'s the ability to say no to it. And that ability comes from Christ, not from you. You are not your sin. You are who Jesus says you are.',
+        content: 'Jesus didn\'t die so that you\'d be a slave to sin. He died to free you from the slavery of it. Paul calls us to stand firm in that freedom saying "don\'t go back!" You might have been fighting this battle for so long you\'re beginning to think it\'ll never end. That\'s not true. The power of Christ lives in you. Freedom isn\'t the absence of temptation, it\'s the ability to say no to it. That ability comes from Christ in you, your hope of glory.',
       },
       { type: 'question', question: 'Do you actually believe freedom from this struggle is possible for you? Why or why not?' },
       { type: 'question', question: 'What would your life look like -- your relationship with God, your confidence, your relationships -- if you were walking in freedom?' },
@@ -440,7 +440,7 @@ export const PURITY_DAYS_SERIES4 = [
       },
       {
         type: 'encouragement',
-        content: 'This is the whole thing right here. Throw off what hinders you. Run with perseverance. And fix your eyes on Jesus. Not on your performance. Not on your failures. Not on what other people think. On Jesus. He is the pioneer -- He ran this race first and finished it. He is the perfecter -- He will finish what He started in you. You are going to stumble. You are going to have hard days. But you keep getting up. You keep running. You keep your eyes on Him. That is what faithfulness looks like. Not perfection. Perseverance.',
+        content: 'This is the crux of everything. Throw off what hinders you. Run with perseverance, fix your eyes on Jesus. Not on your performance, not on your perfection or your failures. Not on what other people think. Fix your eyes on Jesus. He is the pioneer. He ran this race first and finished it. He is the perfecter. He will finish what He started in you. You are going to stumble. You are going to have hard days. But you keep getting up. You keep running. You keep your eyes on Him. That is what faithfulness looks like. Not perfection, rather, perseverance.',
       },
       { type: 'question', question: 'What is the biggest thing that "hinders" you in your pursuit of purity right now?' },
       { type: 'question', question: 'What does it mean practically to "fix your eyes on Jesus" when you\'re in the middle of a hard moment?' },
