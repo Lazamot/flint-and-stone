@@ -34,7 +34,7 @@ export default function TopicScreen() {
       {/* Header */}
       <div style={{ padding: '16px 16px 0', flexShrink: 0 }}>
         <button
-          onClick={() => navigate('/')}
+          onClick={() => navigate('/devotions')}
           style={{ display: 'flex', alignItems: 'center', gap: 6, color: 'var(--text-muted)', fontSize: 14, marginBottom: 16, background: 'none', border: 'none', cursor: 'pointer' }}
         >
           <ArrowLeft size={18} />
@@ -73,7 +73,7 @@ export default function TopicScreen() {
                           alert(`Complete Day ${d.day - 1} first to unlock this day.`);
                           return;
                         }
-                        navigate(`/devotional/${topic.id}/${d.day}`);
+                        navigate(`/devotions/devotional/${topic.id}/${d.day}`);
                       }}
                       style={{
                         background: 'var(--surface)',
