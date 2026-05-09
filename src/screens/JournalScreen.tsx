@@ -22,9 +22,9 @@ export default function JournalScreen() {
 
   const handleShare = async (entry: DayAnswers) => {
     const lines = entry.answers.map((qa, i) => `Q${i + 1}: ${qa.question}\nA: ${qa.answer || '(no answer)'}`).join('\n\n');
-    const text = `Flint & Stone -- ${entry.topicTitle} Day ${entry.day}: ${entry.dayTitle}\n${formatDate(entry.completedAt)}\n\n${lines}`;
+    const text = `Flint & Stone -- ${entry.topicTitle} Day ${entry.day}: ${entry.dayTitle}\n${formatDate(entry.completedAt)}\n\n${lines}\n\n—\nFlint & Stone | Daily devotional for men\nflintandstonedevo.com`;
     if (navigator.share) {
-      await navigator.share({ text, title: 'My Reflections' }).catch(() => {});
+      await navigator.share({ text, title: 'My Reflections — Flint & Stone' }).catch(() => {});
     } else {
       await navigator.clipboard.writeText(text).catch(() => {});
       alert('Copied to clipboard!');

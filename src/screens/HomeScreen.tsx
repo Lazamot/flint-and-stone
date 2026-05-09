@@ -42,9 +42,9 @@ export default function HomeScreen() {
   }, [loadData]);
 
   const handleShareVerse = async () => {
-    const text = `"${verse.text}"\n-- ${verse.reference}\n\nShared from Flint and Stone`;
+    const text = `"${verse.text}"\n\n— ${verse.reference}\n\nFlint & Stone | Daily devotional for men\nflintandstonedevo.com`;
     if (navigator.share) {
-      await navigator.share({ text, title: 'Verse of the Day' }).catch(() => {});
+      await navigator.share({ text, title: 'Verse of the Day — Flint & Stone' }).catch(() => {});
     } else {
       await navigator.clipboard.writeText(text).catch(() => {});
       alert('Verse copied to clipboard!');
