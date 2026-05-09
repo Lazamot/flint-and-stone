@@ -44,6 +44,7 @@ body {
   margin: 0 auto;
   position: relative;
   overflow: hidden;
+  padding-top: env(safe-area-inset-top, 0px);
 }
 
 button {
