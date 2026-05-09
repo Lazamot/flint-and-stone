@@ -1,11 +1,7 @@
 import { useState, useEffect } from 'react';
+import { Share2 } from 'lucide-react';
 import { MERGED_TOPICS } from '../data/merged-topics';
 import { getProgress, getStreak, getMentor, getAllAnswers } from '../lib/storage';
-
-const TOPIC_ICONS: Record<string, string> = {
-  purity: '', strength: '', identity: '', brotherhood: '', anger: '',
-  integrity: '', discipline: '', fear: '', forgiveness: '', leadership: '',
-};
 
 export default function ProgressScreen() {
   const [progressMap, setProgressMap] = useState<Record<string, number>>({});
@@ -28,6 +24,37 @@ export default function ProgressScreen() {
   const totalDays = MERGED_TOPICS.reduce((s, t) => s + t.days.length, 0);
   const completedDays = Object.values(progressMap).reduce((s, v) => s + v, 0);
   const overallPct = Math.round((completedDays / totalDays) * 100);
+
+  const buildStatsText = () => {
+    const topicLines = MERGED_TOPICS.map((topic) => {
+      const done = progressMap[topic.id] ?? 0;
+      const total = topic.days.length;
+      const pct = Math.round((done / total) * 100);
+      const status = done === total ? 'Complete' : `${done}/${total} days (${pct}%)`;
+      return `  ${topic.title}: ${status}`;
+    }).join('\n');
+
+    return (
+      `Flint & Stone — My Progress\n` +
+      `${'─'.repeat(28)}\n` +
+      `Days completed: ${completedDays} of ${totalDays} (${overallPct}%)\n` +
+      `Current streak: ${streak.current} day${streak.current !== 1 ? 's' : ''}\n` +
+      `Best streak: ${streak.longest} day${streak.longest !== 1 ? 's' : ''}\n` +
+      `Reflections written: ${totalAnswers}\n\n` +
+      `By Topic:\n${topicLines}\n\n` +
+      `flintandstonedevo.com`
+    );
+  };
+
+  const handleShareStats = async () => {
+    const text = buildStatsText();
+    if (navigator.share) {
+      await navigator.share({ text, title: 'My Flint & Stone Progress' }).catch(() => {});
+    } else {
+      await navigator.clipboard.writeText(text).catch(() => {});
+      alert('Stats copied to clipboard!');
+    }
+  };
 
   const handleShareAll = () => {
     const answers = getAllAnswers();
@@ -91,11 +118,10 @@ export default function ProgressScreen() {
             return (
               <div key={topic.id} className="card" style={{ borderColor: isComplete ? 'var(--success)' : 'var(--border)' }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 8 }}>
-                  <span style={{ fontSize: 20 }}>{TOPIC_ICONS[topic.id] ?? ''}</span>
                   <div style={{ flex: 1 }}>
                     <p style={{ fontSize: 14, fontWeight: 700 }}>{topic.title}</p>
                     <p style={{ fontSize: 11, color: isComplete ? 'var(--success)' : 'var(--text-muted)' }}>
-                      {isComplete ? 'v Complete!' : `${done} / ${total} days`}
+                      {isComplete ? '✓ Complete' : `${done} / ${total} days`}
                     </p>
                   </div>
                   <p style={{ fontSize: 13, fontWeight: 800, color: isComplete ? 'var(--success)' : 'var(--primary)' }}>{pct}%</p>
@@ -108,10 +134,16 @@ export default function ProgressScreen() {
           })}
         </div>
 
-        {/* Send to mentor */}
-        <button className="btn-secondary" onClick={handleShareAll} style={{ marginBottom: 8 }}>
-           {mentorName ? `Send All to ${mentorName}` : 'Send All to Mentor'}
-        </button>
+        {/* Action buttons */}
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 10, marginBottom: 8 }}>
+          <button className="btn-primary" onClick={handleShareStats}>
+            <Share2 size={16} />
+            Share My Stats
+          </button>
+          <button className="btn-secondary" onClick={handleShareAll}>
+            {mentorName ? `Send All Reflections to ${mentorName}` : 'Send All Reflections to Mentor'}
+          </button>
+        </div>
       </div>
     </div>
   );
