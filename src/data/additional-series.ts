@@ -7,7 +7,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 6,
       title: "Anger and Relationships",
       cards: [
-        { type: "verse", content: "\"A hot-tempered person stirs up conflict, but the one who is patient calms a quarrel.\"\n\n-- Proverbs 15:18" },
+        { type: "verse", content: "\"A hot-tempered person stirs up conflict, but the one who is patient calms a quarrel.\"\n\n-- Proverbs 15:18 (NIV)" },
         { type: "encouragement", content: "Solomon says the hot-tempered man stirs up conflict and the patient man calms it. Your anger doesn't just affect you -- it affects everyone around you. The man who is quick to anger is the man who leaves a trail of damaged relationships. The man who is patient is the man who brings peace into a room. Jesus was the most patient person who ever lived. He endured insults, betrayal, and false accusation without losing His composure. That patience is available to you through the Spirit." },
         { type: "question", question: "How does your anger affect the people closest to you?" },
         { type: "question", question: "Are you someone who stirs up conflict or calms it?" },
@@ -20,7 +20,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 7,
       title: "The Anger of God",
       cards: [
-        { type: "verse", content: "\"The Lord is compassionate and gracious, slow to anger, abounding in love.\"\n\n-- Psalm 103:8" },
+        { type: "verse", content: "\"The Lord is compassionate and gracious, slow to anger, abounding in love.\"\n\n-- Psalm 103:8 (NIV)" },
         { type: "encouragement", content: "God gets angry. The Bible is full of His anger at injustice, at sin, at the destruction of His people. But notice how David describes Him: slow to anger, abounding in love. God's anger is always in service of His love. He is angry at what destroys the people He loves. And He is patient -- slow to anger, giving time for repentance. That's the model for righteous anger: slow, purposeful, in service of love, never out of control." },
         { type: "question", question: "How does God's anger being 'slow' and 'in service of love' challenge how you express anger?" },
         { type: "question", question: "What would it look like for your anger to be in service of love rather than self-protection?" },
@@ -33,7 +33,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 8,
       title: "Anger and Justice",
       cards: [
-        { type: "verse", content: "\"Learn to do right; seek justice. Defend the oppressed. Take up the cause of the fatherless; plead the case of the widow.\"\n\n-- Isaiah 1:17" },
+        { type: "verse", content: "\"Learn to do right; seek justice. Defend the oppressed. Take up the cause of the fatherless; plead the case of the widow.\"\n\n-- Isaiah 1:17 (NIV)" },
         { type: "encouragement", content: "God commands His people to seek justice. There is a righteous anger that fuels the pursuit of justice -- anger at oppression, at abuse, at the exploitation of the vulnerable. That anger is not a sin. It's a reflection of God's own heart. Jesus was angry when He saw the temple turned into a marketplace that excluded the poor. He was angry when His disciples turned children away. Let your anger be directed at injustice, not at your own wounded pride." },
         { type: "question", question: "Are there injustices in the world that make you angry? What are they?" },
         { type: "question", question: "How can your anger at injustice be channeled into action rather than just emotion?" },
@@ -46,7 +46,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 9,
       title: "When You've Hurt Someone with Your Anger",
       cards: [
-        { type: "verse", content: "\"Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you, leave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift.\"\n\n-- Matthew 5:23-24" },
+        { type: "verse", content: "\"Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you, leave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift.\"\n\n-- Matthew 5:23-24 (NIV)" },
         { type: "encouragement", content: "Jesus says if you remember someone has something against you -- go be reconciled first. Before worship, before prayer, before anything else -- go make it right. The man who has hurt someone with his anger and does nothing about it is the man who is carrying a weight that will crush him. Reconciliation requires humility. It requires owning what you did without excuses. It's hard. But it's the path to freedom." },
         { type: "question", question: "Is there someone you've hurt with your anger who you need to go to and make it right?" },
         { type: "question", question: "What makes it hard to apologize and seek reconciliation?" },
@@ -59,7 +59,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 10,
       title: "The Long Game with Anger",
       cards: [
-        { type: "verse", content: "\"Better a patient person than a warrior, one with self-control than one who takes a city.\"\n\n-- Proverbs 16:32" },
+        { type: "verse", content: "\"Better a patient person than a warrior, one with self-control than one who takes a city.\"\n\n-- Proverbs 16:32 (NIV)" },
         { type: "encouragement", content: "Solomon says self-control is more powerful than military conquest. The man who can control his anger is stronger than the man who can defeat an army. This is the long game. You don't transform your anger in a day. It's a slow, steady work of the Spirit -- learning your triggers, doing the heart work, practicing patience, choosing forgiveness. But the man who wins this battle is the man who is free. And the people around him are safe." },
         { type: "question", question: "What progress have you made in managing your anger over the past year?" },
         { type: "question", question: "What is the 'long game' with anger -- what does victory look like for you?" },
@@ -72,7 +72,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 11,
       title: "Anger and Your Father",
       cards: [
-        { type: "verse", content: "\"Fathers, do not embitter your children, or they will become discouraged.\"\n\n-- Colossians 3:21" },
+        { type: "verse", content: "\"Fathers, do not embitter your children, or they will become discouraged.\"\n\n-- Colossians 3:21 (NIV)" },
         { type: "encouragement", content: "Paul warns fathers not to embitter their children. Uncontrolled anger in a father is one of the most damaging forces in a family. It produces fear, shame, and discouragement in children. And it's often passed down -- the angry father produces the angry son. But the cycle can be broken. In Christ, you are a new creation. The patterns you inherited are not your destiny. The Holy Spirit can transform your anger and make you a father who gives life rather than fear." },
         { type: "question", question: "How did your father's anger (or lack of it) shape you?" },
         { type: "question", question: "What patterns of anger do you see in yourself that you don't want to pass on?" },
@@ -85,7 +85,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 12,
       title: "Anger and Disappointment",
       cards: [
-        { type: "verse", content: "\"Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.\"\n\n-- Proverbs 13:12" },
+        { type: "verse", content: "\"Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.\"\n\n-- Proverbs 13:12 (NIV)" },
         { type: "encouragement", content: "Solomon says hope deferred makes the heart sick. A lot of anger is really disappointment -- unmet expectations, hopes that didn't come through, promises that were broken. The man who is angry at God is often the man whose hopes have been deferred. That's not a sin -- it's honest. Bring your disappointment to God. He can handle it. The Psalms are full of men who were angry and disappointed with God. They brought it to Him. And He met them there." },
         { type: "question", question: "Is there disappointment underneath some of your anger -- with God, with others, with yourself?" },
         { type: "question", question: "What hopes have been deferred in your life that have made your heart sick?" },
@@ -98,7 +98,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 13,
       title: "Anger and Pride",
       cards: [
-        { type: "verse", content: "\"Pride goes before destruction, a haughty spirit before a fall.\"\n\n-- Proverbs 16:18" },
+        { type: "verse", content: "\"Pride goes before destruction, a haughty spirit before a fall.\"\n\n-- Proverbs 16:18 (NIV)" },
         { type: "encouragement", content: "A lot of anger is rooted in pride. Someone didn't respect you. Someone didn't treat you the way you deserved. Someone got something you wanted. Wounded pride is one of the most common triggers for sinful anger. The antidote to pride-driven anger is humility -- the accurate view of yourself before God. Jesus, the King of the universe, was insulted, mocked, and spit on. He didn't retaliate. Not because He was weak, but because He was secure. Security is the antidote to pride-driven anger." },
         { type: "question", question: "How often is your anger rooted in wounded pride?" },
         { type: "question", question: "What does it look like to be secure enough in your identity that insults don't trigger you?" },
@@ -111,7 +111,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 14,
       title: "Anger and Stress",
       cards: [
-        { type: "verse", content: "\"Cast all your anxiety on him because he cares for you.\"\n\n-- 1 Peter 5:7" },
+        { type: "verse", content: "\"Cast all your anxiety on him because he cares for you.\"\n\n-- 1 Peter 5:7 (NIV)" },
         { type: "encouragement", content: "Stress is one of the most common triggers for anger. When you're overwhelmed, under pressure, exhausted, or anxious -- your fuse gets shorter. Peter says cast your anxiety on God because He cares for you. The man who is carrying his stress alone is the man who will eventually explode. The man who brings his stress to God regularly is the man who has a release valve. Prayer is not just spiritual discipline -- it's practical stress management." },
         { type: "question", question: "How does stress affect your anger?" },
         { type: "question", question: "What are the main sources of stress in your life right now?" },
@@ -124,7 +124,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 15,
       title: "Anger and Boundaries",
       cards: [
-        { type: "verse", content: "\"If it is possible, as far as it depends on you, live at peace with everyone.\"\n\n-- Romans 12:18" },
+        { type: "verse", content: "\"If it is possible, as far as it depends on you, live at peace with everyone.\"\n\n-- Romans 12:18 (NIV)" },
         { type: "encouragement", content: "Paul says as far as it depends on you, live at peace. That phrase 'as far as it depends on you' is important. You can't control other people. You can control yourself. Sometimes the most loving thing you can do is set a clear boundary -- not in anger, but in peace. The man who has no boundaries is the man who eventually explodes. The man who has clear, loving boundaries is the man who can stay at peace. Jesus set boundaries. He withdrew from crowds. He said no. He protected His time and energy." },
         { type: "question", question: "Are there relationships in your life where you need to set clearer boundaries?" },
         { type: "question", question: "What is the difference between setting a boundary in anger and setting one in peace?" },
@@ -137,7 +137,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 16,
       title: "Anger and Forgiveness of Self",
       cards: [
-        { type: "verse", content: "\"As far as the east is from the west, so far has he removed our transgressions from us.\"\n\n-- Psalm 103:12" },
+        { type: "verse", content: "\"As far as the east is from the west, so far has he removed our transgressions from us.\"\n\n-- Psalm 103:12 (NIV)" },
         { type: "encouragement", content: "Some men are angrier at themselves than at anyone else. They can't forgive themselves for past failures, past sins, past mistakes. They carry a constant low-grade rage directed inward. But God has removed your transgressions as far as the east is from the west. If God has forgiven you, who are you to not forgive yourself? Self-condemnation is not humility -- it's a failure to accept what Jesus did on the cross. Receive the forgiveness He offers." },
         { type: "question", question: "Are you angrier at yourself than at others? What are you not forgiving yourself for?" },
         { type: "question", question: "What is the difference between healthy conviction and destructive self-condemnation?" },
@@ -150,7 +150,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 17,
       title: "Anger and Patience with Others",
       cards: [
-        { type: "verse", content: "\"Be completely humble and gentle; be patient, bearing with one another in love.\"\n\n-- Ephesians 4:2" },
+        { type: "verse", content: "\"Be completely humble and gentle; be patient, bearing with one another in love.\"\n\n-- Ephesians 4:2 (NIV)" },
         { type: "encouragement", content: "Paul says bear with one another in love. That word 'bearing' means carrying a weight. Patience with other people is carrying the weight of their imperfections without dropping them. Everyone you know is broken in some way. Everyone you love will disappoint you. The question is whether you can bear with them in love. Jesus bore with His disciples for three years -- their slowness, their arguments, their failures. He didn't give up on them. That's the model." },
         { type: "question", question: "Who in your life is hardest for you to be patient with?" },
         { type: "question", question: "What does it look like to 'bear with' someone in love rather than just tolerate them?" },
@@ -163,7 +163,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 18,
       title: "Anger and the Holy Spirit",
       cards: [
-        { type: "verse", content: "\"But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.\"\n\n-- Galatians 5:22-23" },
+        { type: "verse", content: "\"But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.\"\n\n-- Galatians 5:22-23 (NIV)" },
         { type: "encouragement", content: "Self-control is a fruit of the Spirit. That means it's not something you produce by trying harder -- it's something the Spirit produces in you as you stay connected to Jesus. The man who is trying to control his anger through willpower alone will eventually fail. The man who is walking in the Spirit, staying connected to Jesus, being filled daily -- that man will see the fruit of self-control growing in his life. You can't manufacture it. You can cultivate the conditions for it." },
         { type: "question", question: "Are you trying to control your anger through willpower, or through walking in the Spirit?" },
         { type: "question", question: "What does it mean practically to 'walk in the Spirit' in the context of anger?" },
@@ -176,7 +176,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 19,
       title: "Anger and the Gospel",
       cards: [
-        { type: "verse", content: "\"But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.\"\n\n-- Romans 5:8" },
+        { type: "verse", content: "\"But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.\"\n\n-- Romans 5:8 (NIV)" },
         { type: "encouragement", content: "God had every right to be angry at you. You sinned against Him. You rejected Him. You went your own way. And while you were still in that state -- while you were still a sinner -- Christ died for you. That's the gospel. And that gospel is the most powerful force for transforming your anger. When you understand how much you've been forgiven, it becomes possible to forgive others. When you understand how patient God has been with you, it becomes possible to be patient with others." },
         { type: "question", question: "How does the gospel -- God forgiving you while you were still a sinner -- change how you respond to others?" },
         { type: "question", question: "Is there someone you're angry at who needs the same grace God gave you?" },
@@ -189,7 +189,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 20,
       title: "The Man You're Becoming",
       cards: [
-        { type: "verse", content: "\"And we all, who with unveiled faces contemplate the Lord's glory, are being transformed into his image with ever-increasing glory, which comes from the Lord, who is the Spirit.\"\n\n-- 2 Corinthians 3:18" },
+        { type: "verse", content: "\"And we all, who with unveiled faces contemplate the Lord's glory, are being transformed into his image with ever-increasing glory, which comes from the Lord, who is the Spirit.\"\n\n-- 2 Corinthians 3:18 (NIV)" },
         { type: "encouragement", content: "You are being transformed into the image of Jesus. That transformation includes your anger. The man you're becoming is not the man who never gets angry -- it's the man who gets angry at the right things, in the right way, at the right time. Slow to anger. Quick to forgive. Patient with others. Righteous in his indignation. That man is not who you are yet. But he's who you're becoming. The Spirit is at work. Don't give up." },
         { type: "question", question: "How has this series changed how you think about anger?" },
         { type: "question", question: "What is the most significant thing you've learned about your anger?" },
@@ -205,7 +205,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 6,
       title: "The Friend Who Sticks Closer Than a Brother",
       cards: [
-        { type: "verse", content: "\"A man of many companions may come to ruin, but there is a friend who sticks closer than a brother.\"\n\n-- Proverbs 18:24" },
+        { type: "verse", content: "\"A man of many companions may come to ruin, but there is a friend who sticks closer than a brother.\"\n\n-- Proverbs 18:24 (NIV)" },
         { type: "encouragement", content: "Solomon distinguishes between many companions and the friend who sticks closer than a brother. You can have a lot of acquaintances and still be deeply alone. What you need is the friend who sticks -- who shows up when things fall apart, who doesn't disappear when you fail, who is still there at 2am. Jesus is that friend. He said 'I will never leave you or forsake you.' And He calls you to be that kind of friend to others." },
         { type: "question", question: "Do you have a friend who sticks closer than a brother? Or do you have many companions but no deep friendship?" },
         { type: "question", question: "What does it take to build that kind of friendship?" },
@@ -218,7 +218,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 7,
       title: "Speaking Truth in Love",
       cards: [
-        { type: "verse", content: "\"Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ.\"\n\n-- Ephesians 4:15" },
+        { type: "verse", content: "\"Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ.\"\n\n-- Ephesians 4:15 (NIV)" },
         { type: "encouragement", content: "Paul says speak the truth in love. Not truth without love -- that's harshness. Not love without truth -- that's flattery. Truth in love. The brother who loves you enough to tell you the truth is one of the greatest gifts in your life. And being that brother for someone else is one of the most loving things you can do. Jesus always spoke truth in love. He was direct without being cruel, honest without being harsh. That's the model." },
         { type: "question", question: "Do you have brothers who speak truth to you in love? Do you receive it well?" },
         { type: "question", question: "Are you willing to speak truth to a brother when he needs to hear it?" },
@@ -231,7 +231,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 8,
       title: "Forgiveness in Brotherhood",
       cards: [
-        { type: "verse", content: "\"Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.\"\n\n-- Colossians 3:13" },
+        { type: "verse", content: "\"Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.\"\n\n-- Colossians 3:13 (NIV)" },
         { type: "encouragement", content: "Paul says forgive as the Lord forgave you. That's the standard: unconditional, undeserved, costly. Brotherhood will produce conflict. Brothers will let you down, say the wrong thing, fail you. The question is what you do with it. The man who holds grudges destroys his friendships. The man who forgives builds something lasting. Jesus forgave people who were killing Him. That's the model. Brotherhood without forgiveness doesn't last." },
         { type: "question", question: "Is there a brother you're holding unforgiveness toward?" },
         { type: "question", question: "What makes it hard to forgive a friend who has let you down?" },
@@ -244,7 +244,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 9,
       title: "Brotherhood in the Hard Times",
       cards: [
-        { type: "verse", content: "\"A friend loves at all times, and a brother is born for a time of adversity.\"\n\n-- Proverbs 17:17" },
+        { type: "verse", content: "\"A friend loves at all times, and a brother is born for a time of adversity.\"\n\n-- Proverbs 17:17 (NIV)" },
         { type: "encouragement", content: "Solomon says a brother is born for a time of adversity. The real test of brotherhood is not the good times -- it's the hard times. The friend who shows up when things fall apart, who doesn't disappear when you're struggling, who sits with you in the darkness -- that's the brother. Jesus showed up for His disciples in their darkest moments. He appeared to them after the resurrection when they were hiding in fear. He showed up for Thomas in his doubt. That's brotherhood." },
         { type: "question", question: "Who has shown up for you in a hard time? Have you thanked them?" },
         { type: "question", question: "Are you the kind of friend who shows up in adversity, or do you tend to disappear?" },
@@ -257,7 +257,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 10,
       title: "Brotherhood and Encouragement",
       cards: [
-        { type: "verse", content: "\"Therefore encourage one another and build each other up, just as in fact you are doing.\"\n\n-- 1 Thessalonians 5:11" },
+        { type: "verse", content: "\"Therefore encourage one another and build each other up, just as in fact you are doing.\"\n\n-- 1 Thessalonians 5:11 (NIV)" },
         { type: "encouragement", content: "Paul says encourage one another and build each other up. The word 'encourage' literally means to put courage into someone. Brotherhood is about giving each other courage for the journey. The man who is surrounded by brothers who believe in him, who speak life over him, who remind him of who he is in Christ -- that man is going to go further than the man who is alone. Be that brother. Give courage generously." },
         { type: "question", question: "Who in your life needs encouragement right now?" },
         { type: "question", question: "When did someone's encouragement make a real difference in your life?" },
@@ -270,7 +270,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 11,
       title: "Brotherhood and Accountability for Purity",
       cards: [
-        { type: "verse", content: "\"Flee the evil desires of youth and pursue righteousness, faith, love and peace, along with those who call on the Lord out of a pure heart.\"\n\n-- 2 Timothy 2:22" },
+        { type: "verse", content: "\"Flee the evil desires of youth and pursue righteousness, faith, love and peace, along with those who call on the Lord out of a pure heart.\"\n\n-- 2 Timothy 2:22 (NIV)" },
         { type: "encouragement", content: "Paul tells Timothy to flee evil desires -- but notice the second part: pursue righteousness along with those who call on the Lord. You don't flee alone. You run together. Brotherhood is one of the most powerful tools in the fight for purity. The man who is fighting alone is the man who is most vulnerable. The man who has brothers who know his struggle, who check in, who pray for him -- that man has a fighting chance. You need brothers in this fight." },
         { type: "question", question: "Do you have brothers who know your specific struggles with purity?" },
         { type: "question", question: "What keeps you from being honest with other men about these struggles?" },
@@ -283,7 +283,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 12,
       title: "Brotherhood and Shared Mission",
       cards: [
-        { type: "verse", content: "\"After this the Lord appointed seventy-two others and sent them out two by two ahead of him to every town and place where he was about to go.\"\n\n-- Luke 10:1" },
+        { type: "verse", content: "\"After this the Lord appointed seventy-two others and sent them out two by two ahead of him to every town and place where he was about to go.\"\n\n-- Luke 10:1 (NIV)" },
         { type: "encouragement", content: "Jesus sent His disciples out two by two. Not alone -- together. There's something about shared mission that deepens brotherhood. When you're working toward something together, fighting for something together, serving together -- the bond goes deeper. The men who have been through something together have a different kind of brotherhood. Find a mission to pursue with your brothers. Serve together. Fight together. Build something together." },
         { type: "question", question: "Do you have brothers who share a mission with you -- something you're working toward together?" },
         { type: "question", question: "How does shared mission deepen brotherhood?" },
@@ -296,7 +296,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 13,
       title: "Brotherhood and Mentorship",
       cards: [
-        { type: "verse", content: "\"And the things you have heard me say in the presence of many witnesses entrust to reliable people who will also be qualified to teach others.\"\n\n-- 2 Timothy 2:2" },
+        { type: "verse", content: "\"And the things you have heard me say in the presence of many witnesses entrust to reliable people who will also be qualified to teach others.\"\n\n-- 2 Timothy 2:2 (NIV)" },
         { type: "encouragement", content: "Paul tells Timothy to invest in reliable men who will invest in others. That's four generations of brotherhood in one verse. Brotherhood is not just horizontal -- it's also vertical. You need older men who pour into you, and you need to pour into younger men. The man who has a mentor and is being a mentor is the man who is fully engaged in the brotherhood. Jesus invested three years in twelve men. That investment changed the world." },
         { type: "question", question: "Do you have an older man who mentors you and speaks into your life?" },
         { type: "question", question: "Is there a younger man you could invest in and pour into?" },
@@ -309,7 +309,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 14,
       title: "Brotherhood and Prayer",
       cards: [
-        { type: "verse", content: "\"Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by my Father in heaven. For where two or three gather in my name, there am I with them.\"\n\n-- Matthew 18:19-20" },
+        { type: "verse", content: "\"Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by my Father in heaven. For where two or three gather in my name, there am I with them.\"\n\n-- Matthew 18:19-20 (NIV)" },
         { type: "encouragement", content: "Jesus says where two or three gather in His name, He is there. There's something powerful about praying together. The man who prays alone is powerful. The man who prays with brothers is more powerful. Brotherhood should include prayer -- not just hanging out, not just doing activities together, but actually praying together. Jesus prayed with His disciples. He invited them into His prayer life. That's the model." },
         { type: "question", question: "Do you pray with your brothers, or is prayer something you only do alone?" },
         { type: "question", question: "What would it look like to make prayer a regular part of your brotherhood?" },
@@ -322,7 +322,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 15,
       title: "Brotherhood and Conflict",
       cards: [
-        { type: "verse", content: "\"If your brother or sister sins, go and point out their fault, just between the two of you. If they listen to you, you have won them over.\"\n\n-- Matthew 18:15" },
+        { type: "verse", content: "\"If your brother or sister sins, go and point out their fault, just between the two of you. If they listen to you, you have won them over.\"\n\n-- Matthew 18:15 (NIV)" },
         { type: "encouragement", content: "Jesus gives a clear process for conflict in brotherhood: go directly to the person, just between the two of you. Not gossip, not passive aggression, not avoidance -- direct, private, honest conversation. Most friendships are destroyed not by conflict but by the failure to handle conflict well. The man who can go directly to his brother, speak the truth in love, and work through it -- that man builds lasting brotherhood." },
         { type: "question", question: "How do you typically handle conflict in friendships -- do you go directly, or do you avoid?" },
         { type: "question", question: "Is there a conflict with a brother that you've been avoiding?" },
@@ -335,7 +335,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 16,
       title: "Brotherhood and Celebration",
       cards: [
-        { type: "verse", content: "\"Rejoice with those who rejoice; mourn with those who mourn.\"\n\n-- Romans 12:15" },
+        { type: "verse", content: "\"Rejoice with those who rejoice; mourn with those who mourn.\"\n\n-- Romans 12:15 (NIV)" },
         { type: "encouragement", content: "Paul says rejoice with those who rejoice. Brotherhood is not just about showing up in the hard times -- it's about celebrating in the good times. The man who can genuinely celebrate his brother's success without jealousy is the man who has a secure identity. The man who mourns with his brother in loss is the man who has real love. Both are essential. Brotherhood covers the full range of human experience." },
         { type: "question", question: "Are you able to genuinely celebrate your brothers' successes without jealousy?" },
         { type: "question", question: "Are you present with your brothers in their losses and grief?" },
@@ -348,7 +348,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 17,
       title: "Brotherhood and Generosity",
       cards: [
-        { type: "verse", content: "\"All the believers were together and had everything in common. They sold property and possessions to give to anyone who had need.\"\n\n-- Acts 2:44-45" },
+        { type: "verse", content: "\"All the believers were together and had everything in common. They sold property and possessions to give to anyone who had need.\"\n\n-- Acts 2:44-45 (NIV)" },
         { type: "encouragement", content: "The early church shared everything. That's radical. Brotherhood in the early church was not just emotional support -- it was material generosity. The man who has more than he needs and his brother has less than he needs -- that's a problem that brotherhood is supposed to solve. Generosity is one of the marks of genuine community. Jesus gave everything. Brotherhood is a reflection of that generosity." },
         { type: "question", question: "Are you generous with your brothers -- with your time, your resources, your energy?" },
         { type: "question", question: "What would it look like to have the kind of community described in Acts 2?" },
@@ -361,7 +361,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 18,
       title: "Brotherhood and Vulnerability",
       cards: [
-        { type: "verse", content: "\"Wounds from a friend can be trusted, but an enemy multiplies kisses.\"\n\n-- Proverbs 27:6" },
+        { type: "verse", content: "\"Wounds from a friend can be trusted, but an enemy multiplies kisses.\"\n\n-- Proverbs 27:6 (NIV)" },
         { type: "encouragement", content: "Solomon says wounds from a friend can be trusted. The friend who tells you the hard truth is more trustworthy than the enemy who flatters you. Real brotherhood requires vulnerability -- the willingness to be known, to be challenged, to be wounded by truth. The man who is never vulnerable never experiences real brotherhood. He has companions but not brothers. Vulnerability is the price of real community. It's worth it." },
         { type: "question", question: "How vulnerable are you with your brothers? Do they really know you?" },
         { type: "question", question: "What is the cost of never being vulnerable? What do you miss out on?" },
@@ -374,7 +374,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 19,
       title: "Brotherhood and the Long Haul",
       cards: [
-        { type: "verse", content: "\"Jonathan became one in spirit with David, and he loved him as himself.\"\n\n-- 1 Samuel 18:1" },
+        { type: "verse", content: "\"Jonathan became one in spirit with David, and he loved him as himself.\"\n\n-- 1 Samuel 18:1 (NIV)" },
         { type: "encouragement", content: "Jonathan and David's friendship is one of the greatest in the Bible. Jonathan loved David as himself. He protected him, sacrificed for him, and remained faithful even when it cost him everything. That kind of brotherhood doesn't happen overnight. It's built over years of showing up, being honest, going through hard things together. The long-haul brotherhood is one of the greatest gifts a man can have. Invest in it." },
         { type: "question", question: "Do you have a friendship that has lasted through hard seasons and years?" },
         { type: "question", question: "What does it take to build a Jonathan-and-David kind of friendship?" },
@@ -387,7 +387,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 20,
       title: "The Brotherhood Jesus Builds",
       cards: [
-        { type: "verse", content: "\"By this everyone will know that you are my disciples, if you love one another.\"\n\n-- John 13:35" },
+        { type: "verse", content: "\"By this everyone will know that you are my disciples, if you love one another.\"\n\n-- John 13:35 (NIV)" },
         { type: "encouragement", content: "Jesus says the world will know you are His disciples by how you love one another. Brotherhood is not just good for you -- it's a witness to the world. When men love each other with the love of Christ -- honest, sacrificial, forgiving, loyal -- it's a picture of the gospel. The world is watching. The brotherhood you build is not just for your benefit. It's a testimony to the reality of Jesus. Build it well." },
         { type: "question", question: "How does your brotherhood reflect the love of Christ to the world around you?" },
         { type: "question", question: "How has this series changed how you think about brotherhood?" },
@@ -403,7 +403,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 6,
       title: "The Discipline of Prayer",
       cards: [
-        { type: "verse", content: "\"Very early in the morning, while it was still dark, Jesus got up, left the house and went off to a solitary place, where he prayed.\"\n\n-- Mark 1:35" },
+        { type: "verse", content: "\"Very early in the morning, while it was still dark, Jesus got up, left the house and went off to a solitary place, where he prayed.\"\n\n-- Mark 1:35 (NIV)" },
         { type: "encouragement", content: "Jesus was the busiest person who ever lived -- healing the sick, teaching crowds, training disciples. And He got up before dawn to pray. If the Son of God needed to start His day in prayer, you definitely do. Prayer is not a spiritual add-on. It's the source. The disciplined man doesn't pray when he feels like it -- he prays because he knows he needs it. Discipline in prayer is what separates the man who talks about God from the man who actually walks with Him." },
         { type: "question", question: "What does your prayer life actually look like right now?" },
         { type: "question", question: "What keeps you from praying consistently -- busyness, distraction, or a lack of belief that it matters?" },
@@ -416,7 +416,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 7,
       title: "The Discipline of the Word",
       cards: [
-        { type: "verse", content: "\"All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work.\"\n\n-- 2 Timothy 3:16-17" },
+        { type: "verse", content: "\"All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work.\"\n\n-- 2 Timothy 3:16-17 (NIV)" },
         { type: "encouragement", content: "Paul says Scripture equips you for every good work. Not some good works -- every good work. The man who is in the Word consistently is the man who knows what's true, who can recognize lies, who has the resources to face any situation. Jesus quoted Scripture in the wilderness when He was tempted. He knew it deeply because He had lived in it. The discipline of daily Bible reading isn't about checking a box. It's about staying connected to the voice of God." },
         { type: "question", question: "How consistent is your Bible reading right now? What gets in the way?" },
         { type: "question", question: "What is one book of the Bible you want to read through this year?" },
@@ -429,7 +429,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 8,
       title: "The Discipline of Fasting",
       cards: [
-        { type: "verse", content: "\"When you fast, do not look somber as the hypocrites do... But when you fast, put oil on your head and wash your face, so that it will not be obvious to others that you are fasting.\"\n\n-- Matthew 6:16-17" },
+        { type: "verse", content: "\"When you fast, do not look somber as the hypocrites do... But when you fast, put oil on your head and wash your face, so that it will not be obvious to others that you are fasting.\"\n\n-- Matthew 6:16-17 (NIV)" },
         { type: "encouragement", content: "Jesus said 'when you fast' -- not 'if you fast.' He assumed His followers would fast. Fasting is one of the most countercultural disciplines available to you. It trains your body to serve your spirit rather than the other way around. It's a declaration that you need God more than food. It sharpens your prayer and your focus. You don't have to fast from food -- you can fast from social media, entertainment, or anything that has become a crutch. The point is to create space for God." },
         { type: "question", question: "Have you ever fasted? What was your experience?" },
         { type: "question", question: "What is something you're dependent on that you could fast from to create space for God?" },
@@ -442,7 +442,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 9,
       title: "The Discipline of Sabbath",
       cards: [
-        { type: "verse", content: "\"Remember the Sabbath day by keeping it holy.\"\n\n-- Exodus 20:8" },
+        { type: "verse", content: "\"Remember the Sabbath day by keeping it holy.\"\n\n-- Exodus 20:8 (NIV)" },
         { type: "encouragement", content: "God commanded rest. Not suggested it -- commanded it. The Sabbath is a discipline of trust: you're saying 'God, I believe the world will keep turning without me working for one day.' In a culture that glorifies hustle, rest is a radical act of faith. Jesus rested. He withdrew from the crowds. He slept. He celebrated at weddings. The man who never rests is the man who secretly believes everything depends on him. It doesn't. Take a day off. Trust God with the rest." },
         { type: "question", question: "Do you practice Sabbath -- a genuine day of rest? If not, why not?" },
         { type: "question", question: "What would a real Sabbath look like for you -- what would you stop doing, and what would you do instead?" },
@@ -455,7 +455,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 10,
       title: "The Discipline of Solitude",
       cards: [
-        { type: "verse", content: "\"But Jesus often withdrew to lonely places and prayed.\"\n\n-- Luke 5:16" },
+        { type: "verse", content: "\"But Jesus often withdrew to lonely places and prayed.\"\n\n-- Luke 5:16 (NIV)" },
         { type: "encouragement", content: "Jesus regularly withdrew from the crowds to be alone with the Father. Solitude was not a luxury for Him -- it was a necessity. In solitude, you hear God's voice more clearly. You get perspective on what actually matters. You stop being shaped by the noise of everyone else's opinions and start being shaped by God. The man who is never alone with God is the man who is always being shaped by something else. Solitude is where your soul gets recalibrated." },
         { type: "question", question: "How much time do you spend in genuine solitude -- not just alone, but quiet before God?" },
         { type: "question", question: "What happens to your soul when you go too long without solitude?" },
@@ -468,7 +468,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 11,
       title: "Consistency Over Intensity",
       cards: [
-        { type: "verse", content: "\"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\"\n\n-- Galatians 6:9" },
+        { type: "verse", content: "\"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\"\n\n-- Galatians 6:9 (NIV)" },
         { type: "encouragement", content: "The enemy of discipline is not laziness -- it's inconsistency. Most men can be intense for a week. Few men can be consistent for a year. The harvest Paul talks about comes from sustained, ordinary faithfulness -- not from occasional bursts of effort. Jesus was consistent. He prayed every day. He taught every day. He served every day. The disciples who changed the world weren't the most talented -- they were the most consistent. Show up every day, even when it's boring." },
         { type: "question", question: "Are you more prone to intensity or consistency in your disciplines?" },
         { type: "question", question: "What discipline have you started and stopped multiple times? What keeps breaking the streak?" },
@@ -481,7 +481,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 12,
       title: "The Discipline of Generosity",
       cards: [
-        { type: "verse", content: "\"Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.\"\n\n-- 2 Corinthians 9:7" },
+        { type: "verse", content: "\"Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.\"\n\n-- 2 Corinthians 9:7 (NIV)" },
         { type: "encouragement", content: "Generosity is a discipline -- it doesn't come naturally to most people. Paul says give what you've decided in your heart, not reluctantly. That means plan it in advance. The disciplined giver doesn't give what's left over; he gives first and lives on the rest. Jesus gave everything. He commended the widow who gave her last two coins. Generosity is a muscle -- the more you exercise it, the stronger it gets. And it's one of the most powerful antidotes to materialism and anxiety." },
         { type: "question", question: "Is giving a discipline in your life, or is it something you do when you feel like it?" },
         { type: "question", question: "What percentage of what you earn do you give away? Are you satisfied with that?" },
@@ -494,7 +494,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 13,
       title: "Accountability in Discipline",
       cards: [
-        { type: "verse", content: "\"Plans fail for lack of counsel, but with many advisers they succeed.\"\n\n-- Proverbs 15:22" },
+        { type: "verse", content: "\"Plans fail for lack of counsel, but with many advisers they succeed.\"\n\n-- Proverbs 15:22 (NIV)" },
         { type: "encouragement", content: "You are more likely to maintain discipline when someone else knows about it. That's not weakness -- it's wisdom. Solomon says plans succeed with many advisers. The man who tries to build discipline entirely alone is fighting with one hand tied behind his back. Accountability doesn't mean someone policing you. It means someone walking with you, asking the hard questions, celebrating the wins, and helping you get back up when you fall." },
         { type: "question", question: "Do you have someone who holds you accountable in your key disciplines?" },
         { type: "question", question: "What discipline would be easier to maintain if someone else knew about it?" },
@@ -507,7 +507,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 14,
       title: "Discipline and Grace",
       cards: [
-        { type: "verse", content: "\"For it is God who works in you to will and to act in order to fulfill his good purpose.\"\n\n-- Philippians 2:13" },
+        { type: "verse", content: "\"For it is God who works in you to will and to act in order to fulfill his good purpose.\"\n\n-- Philippians 2:13 (NIV)" },
         { type: "encouragement", content: "Here's the paradox: discipline is your responsibility, but it's also God's work in you. Paul says it's God who works in you to will and to act. You're not building discipline by sheer willpower. You're cooperating with what God is already doing. That means when you fail -- and you will -- you don't give up. You repent, receive grace, and start again. Discipline is not about being perfect. It's about getting back up. Grace is not an excuse to be lazy. It's the fuel that keeps you going." },
         { type: "question", question: "Do you tend to rely too much on willpower, or do you use grace as an excuse to be undisciplined?" },
         { type: "question", question: "How does knowing God is working in you change how you approach your disciplines?" },
@@ -520,7 +520,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 15,
       title: "The Disciplined Mind",
       cards: [
-        { type: "verse", content: "\"We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ.\"\n\n-- 2 Corinthians 10:5" },
+        { type: "verse", content: "\"We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ.\"\n\n-- 2 Corinthians 10:5 (NIV)" },
         { type: "encouragement", content: "Paul says take every thought captive. That's an aggressive image -- you're not just passively hoping good thoughts show up. You're actively pursuing and capturing the thoughts that don't align with truth. The disciplined mind doesn't let every thought run free. It evaluates: is this true? Is this from God? Is this building me up or tearing me down? Jesus was the most mentally disciplined person who ever lived. He knew the Word, recognized lies, and refused to let the enemy's arguments take root." },
         { type: "question", question: "What kinds of thoughts do you most struggle to take captive?" },
         { type: "question", question: "How does knowing Scripture help you evaluate and capture your thoughts?" },
@@ -533,7 +533,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 16,
       title: "Discipline in Relationships",
       cards: [
-        { type: "verse", content: "\"Do not be deceived: God cannot be mocked. A man reaps what he sows.\"\n\n-- Galatians 6:7" },
+        { type: "verse", content: "\"Do not be deceived: God cannot be mocked. A man reaps what he sows.\"\n\n-- Galatians 6:7 (NIV)" },
         { type: "encouragement", content: "You reap what you sow -- including in relationships. The man who is disciplined in how he treats people -- who is consistent, kind, honest, and present -- will reap deep, lasting relationships. The man who is careless, inconsistent, and self-focused will reap shallow, broken ones. Discipline in relationships means showing up when you said you would, following through on commitments, and investing consistently even when it's not exciting. Relationships are built by small, consistent acts of faithfulness." },
         { type: "question", question: "Are you disciplined in how you invest in your relationships?" },
         { type: "question", question: "What relationship in your life needs more consistent investment from you?" },
@@ -546,7 +546,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 17,
       title: "Discipline and Calling",
       cards: [
-        { type: "verse", content: "\"I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.\"\n\n-- Philippians 3:14" },
+        { type: "verse", content: "\"I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.\"\n\n-- Philippians 3:14 (NIV)" },
         { type: "encouragement", content: "Paul presses on toward a goal. Discipline without a goal is just suffering. You need to know what you're training for. Paul's goal was the prize of knowing Christ and being conformed to Him. That goal gave him the motivation to endure everything. What is your goal? What are you disciplining yourself toward? The man who knows his calling has a reason to get up early, to say no to distraction, to push through difficulty. Discipline is the road. Calling is the destination." },
         { type: "question", question: "What is the goal you're disciplining yourself toward? Is it clear?" },
         { type: "question", question: "How does having a clear calling or purpose change your motivation for discipline?" },
@@ -559,7 +559,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 18,
       title: "Discipline When You Don't Feel Like It",
       cards: [
-        { type: "verse", content: "\"For our light and momentary troubles are achieving for us an eternal glory that far outweighs them all.\"\n\n-- 2 Corinthians 4:17" },
+        { type: "verse", content: "\"For our light and momentary troubles are achieving for us an eternal glory that far outweighs them all.\"\n\n-- 2 Corinthians 4:17 (NIV)" },
         { type: "encouragement", content: "Paul calls his troubles 'light and momentary' -- and he was talking about beatings, shipwrecks, and imprisonment. His ability to minimize his suffering wasn't denial. It was perspective. He could see the eternal weight of glory on the other side. That perspective is what gets you out of bed when you don't feel like it. The discipline you're building now is achieving something eternal. It's shaping you into the man God is calling you to be. That's worth the discomfort." },
         { type: "question", question: "What discipline do you most struggle to maintain when you don't feel like it?" },
         { type: "question", question: "How does an eternal perspective change how you feel about short-term discomfort?" },
@@ -572,7 +572,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 19,
       title: "Finishing Strong",
       cards: [
-        { type: "verse", content: "\"I have fought the good fight, I have finished the race, I have kept the faith.\"\n\n-- 2 Timothy 4:7" },
+        { type: "verse", content: "\"I have fought the good fight, I have finished the race, I have kept the faith.\"\n\n-- 2 Timothy 4:7 (NIV)" },
         { type: "encouragement", content: "Paul finished. That's the goal. Not to start well, not to be impressive in the middle, but to finish. Discipline is what gets you to the finish line. The man who is disciplined in his twenties becomes the man who finishes strong in his sixties. Every habit you build now, every discipline you practice today, is an investment in the man you'll be in ten, twenty, thirty years. Jesus finished. He said 'It is finished' from the cross. He didn't quit. Neither should you." },
         { type: "question", question: "Are you building disciplines now that will help you finish strong later?" },
         { type: "question", question: "What does 'finishing well' look like for you -- in your faith, your family, your work?" },
@@ -585,7 +585,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 20,
       title: "Discipline as Worship",
       cards: [
-        { type: "verse", content: "\"Therefore, I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God -- this is your true and proper worship.\"\n\n-- Romans 12:1" },
+        { type: "verse", content: "\"Therefore, I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God -- this is your true and proper worship.\"\n\n-- Romans 12:1 (NIV)" },
         { type: "encouragement", content: "Paul says offering your body as a living sacrifice is your true and proper worship. Discipline is not just self-improvement. It's worship. When you get up early to pray, when you train your body, when you guard your time, when you keep your commitments -- you're offering yourself to God. That's worship. Not just singing on Sunday -- living every day as an act of surrender to God. The disciplined life is the worshipful life. It says: God, I am yours. Use me." },
         { type: "question", question: "How does seeing discipline as worship change your motivation for it?" },
         { type: "question", question: "What disciplines in your life are acts of worship -- offerings to God?" },
@@ -601,7 +601,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 6,
       title: "Courage in Uncertainty",
       cards: [
-        { type: "verse", content: "\"Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.\"\n\n-- Proverbs 3:5-6" },
+        { type: "verse", content: "\"Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.\"\n\n-- Proverbs 3:5-6 (NIV)" },
         { type: "encouragement", content: "Uncertainty is one of the most common sources of fear. You don't know what's going to happen, and that's terrifying. Solomon says trust in the Lord -- not in your ability to figure it out. Lean not on your own understanding. God doesn't always give you a map. He gives you a guide. Jesus didn't tell His disciples exactly what was going to happen -- He told them to follow Him. Courage in uncertainty means trusting the Guide even when you can't see the path." },
         { type: "question", question: "What uncertainty in your life is producing the most fear right now?" },
         { type: "question", question: "What does it look like to 'lean not on your own understanding' in that situation?" },
@@ -614,7 +614,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 7,
       title: "Courage to Be Different",
       cards: [
-        { type: "verse", content: "\"Do not conform to the pattern of this world, but be transformed by the renewing of your mind.\"\n\n-- Romans 12:2" },
+        { type: "verse", content: "\"Do not conform to the pattern of this world, but be transformed by the renewing of your mind.\"\n\n-- Romans 12:2 (NIV)" },
         { type: "encouragement", content: "Being different takes courage. The pressure to conform -- to go along with the crowd, to laugh at the wrong things, to stay silent when you should speak -- is enormous. Paul says don't conform. Be transformed. Jesus was radically different from everyone around Him. He didn't fit the mold of what people expected a Messiah to be. He wasn't afraid to be misunderstood, rejected, or mocked. The man who has the courage to be different -- to live by a different set of values -- is the man who changes the world." },
         { type: "question", question: "Where do you feel the most pressure to conform to the world's pattern?" },
         { type: "question", question: "What would it look like to be genuinely different in your school, team, or friend group?" },
@@ -627,7 +627,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 8,
       title: "Courage to Speak Up",
       cards: [
-        { type: "verse", content: "\"For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes.\"\n\n-- Romans 1:16" },
+        { type: "verse", content: "\"For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes.\"\n\n-- Romans 1:16 (NIV)" },
         { type: "encouragement", content: "Paul says he is not ashamed of the gospel. That's a statement of courage. The gospel is offensive to the world -- it says everyone is a sinner, that Jesus is the only way, that you need to be saved. Sharing your faith takes courage. But Paul says it's the power of God for salvation. Your words, empowered by the Spirit, can change someone's eternity. You don't have to have all the answers. You just have to be willing to speak." },
         { type: "question", question: "Are you ashamed of the gospel in any context -- at school, with friends, at work?" },
         { type: "question", question: "What holds you back from talking about your faith with others?" },
@@ -640,7 +640,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 9,
       title: "Courage After Failure",
       cards: [
-        { type: "verse", content: "\"Though he may stumble, he will not fall, for the Lord upholds him with his hand.\"\n\n-- Psalm 37:24" },
+        { type: "verse", content: "\"Though he may stumble, he will not fall, for the Lord upholds him with his hand.\"\n\n-- Psalm 37:24 (NIV)" },
         { type: "encouragement", content: "Failure is one of the biggest sources of fear. Not just the fear of failing, but the fear after failure -- the shame, the self-doubt, the 'what if I fail again?' God says the righteous man may stumble, but he won't fall. The Lord upholds him. Peter denied Jesus three times. He wept bitterly. And then Jesus found him, restored him, and gave him a mission. Failure is not the end of your story. It's often the beginning of the most important chapter." },
         { type: "question", question: "What failure in your life has made you most afraid to try again?" },
         { type: "question", question: "How does knowing God upholds you when you stumble change how you respond to failure?" },
@@ -653,7 +653,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 10,
       title: "The Fear of God",
       cards: [
-        { type: "verse", content: "\"The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding.\"\n\n-- Proverbs 9:10" },
+        { type: "verse", content: "\"The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding.\"\n\n-- Proverbs 9:10 (NIV)" },
         { type: "encouragement", content: "The fear of the Lord is not terror -- it's reverence. It's the recognition that God is holy, powerful, and worthy of your complete allegiance. Solomon says this fear is the beginning of wisdom. When you fear God rightly, you stop fearing everything else. The man who stands in awe of God is not easily intimidated by people, circumstances, or failure. Jesus lived in complete reverence for the Father. That reverence gave Him the freedom to be fearless about everything else." },
         { type: "question", question: "What does it mean to 'fear the Lord' -- how is it different from being afraid of God?" },
         { type: "question", question: "How does a right fear of God change how you handle other fears?" },
@@ -666,7 +666,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 11,
       title: "Courage in Suffering",
       cards: [
-        { type: "verse", content: "\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\"\n\n-- James 1:2-3" },
+        { type: "verse", content: "\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\"\n\n-- James 1:2-3 (NIV)" },
         { type: "encouragement", content: "James says consider it joy when you face trials. Not fake joy -- real joy, rooted in what you know trials produce. Suffering requires courage. The courage to keep going when it's hard, to trust God when you can't see His hand, to hold on when everything in you wants to quit. Jesus faced the ultimate suffering with courage. He went to the cross knowing what was coming. That courage is available to you through the Spirit. Suffering is not wasted. It's producing something." },
         { type: "question", question: "What trial are you currently facing that requires courage to endure?" },
         { type: "question", question: "How does knowing trials produce perseverance change how you face them?" },
@@ -679,7 +679,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 12,
       title: "Courage to Ask for Help",
       cards: [
-        { type: "verse", content: "\"Is anyone among you in trouble? Let them pray. Is anyone happy? Let them sing songs of praise. Is anyone among you sick? Let them call the elders of the church to pray over them.\"\n\n-- James 5:13-14" },
+        { type: "verse", content: "\"Is anyone among you in trouble? Let them pray. Is anyone happy? Let them sing songs of praise. Is anyone among you sick? Let them call the elders of the church to pray over them.\"\n\n-- James 5:13-14 (NIV)" },
         { type: "encouragement", content: "James says when you're in trouble -- pray. When you're sick -- call the elders. In other words, ask for help. This is one of the hardest things for men to do. We're trained to handle things ourselves, to not need anyone, to appear strong. But James says asking for help is the right response to trouble. Jesus asked His disciples to pray with Him in the garden. He didn't face His darkest hour alone. Neither should you." },
         { type: "question", question: "Is it easy or hard for you to ask for help? Why?" },
         { type: "question", question: "What are you currently going through that you've been trying to handle alone?" },
@@ -692,7 +692,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 13,
       title: "Courage to Forgive",
       cards: [
-        { type: "verse", content: "\"But I tell you, love your enemies and pray for those who persecute you.\"\n\n-- Matthew 5:44" },
+        { type: "verse", content: "\"But I tell you, love your enemies and pray for those who persecute you.\"\n\n-- Matthew 5:44 (NIV)" },
         { type: "encouragement", content: "Jesus says love your enemies. That's one of the most courageous things He ever asked. It's easy to love people who love you back. It takes courage to love someone who has hurt you, betrayed you, or treated you unjustly. Forgiveness is not weakness -- it's one of the strongest things a man can do. Jesus forgave the people who were crucifying Him while they were doing it. That's the standard. You can't do that in your own strength. But you can do it in His." },
         { type: "question", question: "Is there someone you need to forgive that you've been avoiding because it feels too hard?" },
         { type: "question", question: "What would it look like to pray for someone who has hurt you?" },
@@ -705,7 +705,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 14,
       title: "Courage to Change",
       cards: [
-        { type: "verse", content: "\"Repent, for the kingdom of heaven has come near.\"\n\n-- Matthew 4:17" },
+        { type: "verse", content: "\"Repent, for the kingdom of heaven has come near.\"\n\n-- Matthew 4:17 (NIV)" },
         { type: "encouragement", content: "Jesus' first public message was a call to repentance -- to change direction. Repentance requires courage. It means admitting you've been wrong, turning around, and going a different way. Most men know they need to change something. The fear of change -- the comfort of the familiar, the uncertainty of the new -- keeps them stuck. But Jesus says the kingdom is near. God's way is better than your way. Change is not a threat. It's an invitation." },
         { type: "question", question: "What do you know you need to change that you've been avoiding?" },
         { type: "question", question: "What makes change so hard? What are you afraid of losing?" },
@@ -718,7 +718,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 15,
       title: "Courage in Prayer",
       cards: [
-        { type: "verse", content: "\"Let us then approach God's throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.\"\n\n-- Hebrews 4:16" },
+        { type: "verse", content: "\"Let us then approach God's throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.\"\n\n-- Hebrews 4:16 (NIV)" },
         { type: "encouragement", content: "The writer of Hebrews says approach God's throne with confidence. Not timidity, not groveling, not hoping God is in a good mood -- confidence. Why? Because Jesus is your high priest. He has gone before you. He knows what you're facing because He faced it too. You have access to God through Jesus. That access is the foundation of courageous prayer. You're not bothering God. You're coming to a Father who loves you and a throne of grace that has exactly what you need." },
         { type: "question", question: "Do you pray with confidence or with timidity? What does that reveal about how you see God?" },
         { type: "question", question: "What would it look like to approach God's throne with boldness in your current situation?" },
@@ -731,7 +731,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 16,
       title: "Courage to Lead",
       cards: [
-        { type: "verse", content: "\"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.\"\n\n-- Joshua 1:9" },
+        { type: "verse", content: "\"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.\"\n\n-- Joshua 1:9 (NIV)" },
         { type: "encouragement", content: "God told Joshua to be strong and courageous four times in one chapter. Leadership requires courage -- the courage to make decisions, to take responsibility, to go first, to stand alone when necessary. Joshua was terrified. He was stepping into Moses' shoes and leading a nation into enemy territory. God's answer wasn't a battle plan. It was a promise: I will be with you. That's still the answer for every man called to lead. You don't have to be fearless. You have to be willing." },
         { type: "question", question: "Where are you called to lead right now -- a team, a family, a friend group?" },
         { type: "question", question: "What is the biggest fear you have about leading?" },
@@ -744,7 +744,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 17,
       title: "Courage to Trust God's Timing",
       cards: [
-        { type: "verse", content: "\"Wait for the Lord; be strong and take heart and wait for the Lord.\"\n\n-- Psalm 27:14" },
+        { type: "verse", content: "\"Wait for the Lord; be strong and take heart and wait for the Lord.\"\n\n-- Psalm 27:14 (NIV)" },
         { type: "encouragement", content: "Waiting requires courage. It's easy to act -- it's hard to wait. David says wait for the Lord, be strong, take heart. Waiting on God is not passive -- it's an active choice to trust His timing over your own. Jesus waited thirty years before His public ministry began. He didn't rush the Father's timeline. The man who can wait on God -- who doesn't force the door, who doesn't take matters into his own hands prematurely -- that man is displaying enormous courage and faith." },
         { type: "question", question: "What are you waiting on God for right now? How are you handling the wait?" },
         { type: "question", question: "What is the temptation to act prematurely rather than wait on God?" },
@@ -757,7 +757,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 18,
       title: "Courage to Be Honest",
       cards: [
-        { type: "verse", content: "\"Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ.\"\n\n-- Ephesians 4:15" },
+        { type: "verse", content: "\"Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ.\"\n\n-- Ephesians 4:15 (NIV)" },
         { type: "encouragement", content: "Honesty requires courage. It's easier to tell people what they want to hear, to stay silent when you should speak, to go along to get along. Paul says speak the truth in love. Jesus was the most honest person who ever lived -- and He spoke truth even when it cost Him. He told the Pharisees they were whitewashed tombs. He told the rich young ruler to sell everything. He told Peter he was thinking like Satan. He loved people too much to just make them feel good." },
         { type: "question", question: "Where are you most tempted to be dishonest to avoid conflict or discomfort?" },
         { type: "question", question: "What is the difference between courage and cruelty when speaking the truth?" },
@@ -770,7 +770,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 19,
       title: "Courage to Keep Going",
       cards: [
-        { type: "verse", content: "\"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\"\n\n-- Galatians 6:9" },
+        { type: "verse", content: "\"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\"\n\n-- Galatians 6:9 (NIV)" },
         { type: "encouragement", content: "The hardest courage is the courage to keep going when you're tired, when you can't see results, when it feels like nothing is working. Paul says don't give up -- there's a harvest coming. Jesus endured the cross for the joy set before Him. He kept going through betrayal, abandonment, torture, and death. The courage to keep going is not dramatic. It's quiet. It's showing up again tomorrow. It's refusing to quit. That's the courage God honors." },
         { type: "question", question: "Where are you most tempted to give up right now?" },
         { type: "question", question: "What harvest are you hoping for that makes it worth continuing?" },
@@ -783,7 +783,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 20,
       title: "Fearless in Christ",
       cards: [
-        { type: "verse", content: "\"I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.\"\n\n-- John 16:33" },
+        { type: "verse", content: "\"I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.\"\n\n-- John 16:33 (NIV)" },
         { type: "encouragement", content: "Jesus doesn't promise you a trouble-free life. He promises you peace in the middle of trouble -- because He has overcome the world. That's the foundation of fearlessness. Not that nothing bad will happen, but that the One who is with you has already won. The resurrection is the ultimate proof: death itself couldn't hold Jesus. Whatever you're afraid of -- failure, rejection, suffering, death -- Jesus has overcome it. Take heart. He has overcome the world." },
         { type: "question", question: "How does Jesus' victory over the world change how you face your fears?" },
         { type: "question", question: "What fear has been most present in your life during this series?" },
@@ -799,7 +799,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 6,
       title: "When They Don't Deserve It",
       cards: [
-        { type: "verse", content: "\"But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.\"\n\n-- Romans 5:8" },
+        { type: "verse", content: "\"But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.\"\n\n-- Romans 5:8 (NIV)" },
         { type: "encouragement", content: "Christ died for you while you were still a sinner. Not after you cleaned up. Not after you deserved it. While you were still in rebellion. That's the model for forgiveness. You forgive not because the other person deserves it, but because God forgave you when you didn't deserve it. The person who hurt you may never apologize. They may never change. They may not even know you're struggling. You forgive anyway -- not for their sake, but because of what God has done for you." },
         { type: "question", question: "Is there someone you're waiting to forgive until they apologize or change?" },
         { type: "question", question: "How does God's forgiveness of you 'while you were still a sinner' change the standard?" },
@@ -812,7 +812,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 7,
       title: "Forgiveness and Anger",
       cards: [
-        { type: "verse", content: "\"In your anger do not sin: Do not let the sun go down while you are still angry, and do not give the devil a foothold.\"\n\n-- Ephesians 4:26-27" },
+        { type: "verse", content: "\"In your anger do not sin: Do not let the sun go down while you are still angry, and do not give the devil a foothold.\"\n\n-- Ephesians 4:26-27 (NIV)" },
         { type: "encouragement", content: "Paul doesn't say don't be angry. He says don't sin in your anger. Anger is a natural response to being wronged. Jesus was angry in the temple. He overturned tables. Anger at injustice is appropriate. But unresolved anger becomes bitterness, and bitterness gives the devil a foothold. The goal is not to suppress your anger but to process it honestly -- with God, and with the person if possible -- and then release it. Don't let the sun go down on it." },
         { type: "question", question: "How do you typically handle anger -- do you suppress it, explode, or process it?" },
         { type: "question", question: "Is there anger in your life that has become bitterness?" },
@@ -825,7 +825,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 8,
       title: "Forgiveness in Marriage and Dating",
       cards: [
-        { type: "verse", content: "\"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.\"\n\n-- Ephesians 4:32" },
+        { type: "verse", content: "\"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.\"\n\n-- Ephesians 4:32 (NIV)" },
         { type: "encouragement", content: "The closest relationships require the most forgiveness. In marriage or dating, you will be hurt -- and you will hurt. The question is not whether forgiveness will be needed, but whether you'll give it. Paul says be kind, compassionate, forgiving -- just as God forgave you. The man who can't forgive his wife or girlfriend is the man who has forgotten how much he's been forgiven. A marriage built on grace is a marriage that can survive anything." },
         { type: "question", question: "How easy or hard is it for you to forgive in your closest relationships?" },
         { type: "question", question: "Is there a pattern of unforgiveness or keeping score in your relationship?" },
@@ -838,7 +838,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 9,
       title: "Forgiveness and Reconciliation",
       cards: [
-        { type: "verse", content: "\"If it is possible, as far as it depends on you, live at peace with everyone.\"\n\n-- Romans 12:18" },
+        { type: "verse", content: "\"If it is possible, as far as it depends on you, live at peace with everyone.\"\n\n-- Romans 12:18 (NIV)" },
         { type: "encouragement", content: "Paul says as far as it depends on you, live at peace. That qualifier is important. Reconciliation requires two people. You can forgive someone and still not be reconciled with them -- because they're not willing, or because it's not safe, or because they're not in your life. Forgiveness is always possible. Reconciliation is not always possible or wise. Your job is to do your part -- to forgive, to be willing to reconcile, to live at peace as far as it depends on you. The rest is between them and God." },
         { type: "question", question: "Is there a relationship where you've confused forgiveness with reconciliation?" },
         { type: "question", question: "What does 'as far as it depends on you' mean in a specific broken relationship in your life?" },
@@ -851,7 +851,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 10,
       title: "The Seventy Times Seven",
       cards: [
-        { type: "verse", content: "\"Then Peter came to Jesus and asked, 'Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?' Jesus answered, 'I tell you, not seven times, but seventy-seven times.'\" -- Matthew 18:21-22" },
+        { type: "verse", content: "\"Then Peter came to Jesus and asked, 'Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?' Jesus answered, 'I tell you, not seven times, but seventy-seven times.'\" -- Matthew 18:21-22 (NIV)" },
         { type: "encouragement", content: "Peter thought seven times was generous. Jesus said seventy-seven times -- meaning there's no limit. Forgiveness is not a one-time event. It's a practice. The same person may hurt you again and again. The same memory may resurface. You may have to choose forgiveness for the same wound dozens of times. That's not weakness -- that's what it looks like to follow Jesus. He forgives you every time you come to Him. He's asking you to extend the same grace." },
         { type: "question", question: "Is there a wound you've had to forgive multiple times? How do you handle it when it resurfaces?" },
         { type: "question", question: "What does it mean that forgiveness is a practice, not a one-time decision?" },
@@ -864,7 +864,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 11,
       title: "Forgiveness and Justice",
       cards: [
-        { type: "verse", content: "\"Do not take revenge, my dear friends, but leave room for God's wrath, for it is written: 'It is mine to avenge; I will repay,' says the Lord.\"\n\n-- Romans 12:19" },
+        { type: "verse", content: "\"Do not take revenge, my dear friends, but leave room for God's wrath, for it is written: 'It is mine to avenge; I will repay,' says the Lord.\"\n\n-- Romans 12:19 (NIV)" },
         { type: "encouragement", content: "Forgiveness doesn't mean injustice is okay. It means you're handing the case to God rather than taking it into your own hands. God is just. He will deal with what was done to you. You don't have to be the enforcer. Releasing someone to God's justice is one of the most powerful acts of faith you can perform. It says: I trust that God sees what happened, that He cares about justice, and that He will handle it better than I can." },
         { type: "question", question: "Do you struggle with forgiveness because it feels like letting someone off the hook?" },
         { type: "question", question: "How does trusting God's justice make it possible to release your need for revenge?" },
@@ -877,7 +877,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 12,
       title: "Forgiveness and Healing",
       cards: [
-        { type: "verse", content: "\"He heals the brokenhearted and binds up their wounds.\"\n\n-- Psalm 147:3" },
+        { type: "verse", content: "\"He heals the brokenhearted and binds up their wounds.\"\n\n-- Psalm 147:3 (NIV)" },
         { type: "encouragement", content: "Forgiveness opens the door to healing, but it doesn't automatically produce it. Healing takes time. God heals the brokenhearted -- He binds up wounds. That's a process, not an event. You may forgive someone and still feel the pain for a long time afterward. That's okay. Forgiveness is the decision; healing is the journey. Don't confuse the two. And don't give up on healing just because it's taking longer than you expected. God is at work." },
         { type: "question", question: "Is there a wound in your life that you've forgiven but that still needs healing?" },
         { type: "question", question: "What is the difference between forgiveness and healing?" },
@@ -890,7 +890,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 13,
       title: "Forgiveness and Freedom",
       cards: [
-        { type: "verse", content: "\"So if the Son sets you free, you will be free indeed.\"\n\n-- John 8:36" },
+        { type: "verse", content: "\"So if the Son sets you free, you will be free indeed.\"\n\n-- John 8:36 (NIV)" },
         { type: "encouragement", content: "Jesus sets you free. Unforgiveness is a prison -- you're locked in a cell with the person who hurt you, replaying what they did, letting them live rent-free in your head. Forgiveness is the key that unlocks the cell. Not for them -- for you. The man who forgives is the man who walks out of the prison. The man who refuses to forgive stays locked in. Jesus came to set captives free. That includes the captivity of bitterness and unforgiveness." },
         { type: "question", question: "In what ways has unforgiveness kept you imprisoned?" },
         { type: "question", question: "What would freedom from bitterness feel like in your life?" },
@@ -903,7 +903,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 14,
       title: "Forgiving the Church",
       cards: [
-        { type: "verse", content: "\"And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together, as some are in the habit of doing, but encouraging one another.\"\n\n-- Hebrews 10:24-25" },
+        { type: "verse", content: "\"And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together, as some are in the habit of doing, but encouraging one another.\"\n\n-- Hebrews 10:24-25 (NIV)" },
         { type: "encouragement", content: "Many men have been hurt by the church -- by a pastor, a community, a hypocrite, a bad experience. That pain is real. But the church is still the body of Christ. Imperfect, yes. Sometimes deeply flawed. But still His. The writer of Hebrews says don't give up meeting together. The answer to a bad church experience is not to abandon the church -- it's to forgive, to find a healthy community, and to keep showing up. Jesus didn't give up on His people. Don't give up on His church." },
         { type: "question", question: "Have you been hurt by the church? How has that affected your faith and community?" },
         { type: "question", question: "What does it look like to forgive an institution or a community, not just an individual?" },
@@ -916,7 +916,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 15,
       title: "Forgiveness and Confession",
       cards: [
-        { type: "verse", content: "\"Therefore confess your sins to each other and pray for each other so that you may be healed.\"\n\n-- James 5:16" },
+        { type: "verse", content: "\"Therefore confess your sins to each other and pray for each other so that you may be healed.\"\n\n-- James 5:16 (NIV)" },
         { type: "encouragement", content: "Confession is the other side of forgiveness. You need to receive forgiveness, but you also need to give it -- and sometimes that means confessing where you've been the one who hurt someone else. James says confess your sins to each other. There's healing in that. The man who can say 'I was wrong, I hurt you, I'm sorry' is the man who is walking in integrity and humility. And that confession opens the door for the other person to forgive -- and for both of you to be healed." },
         { type: "question", question: "Is there someone you need to confess to and ask forgiveness from?" },
         { type: "question", question: "What makes confession so hard? What are you afraid of?" },
@@ -929,7 +929,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 16,
       title: "Forgiveness and Generational Patterns",
       cards: [
-        { type: "verse", content: "\"The Lord is compassionate and gracious, slow to anger, abounding in love. He will not always accuse, nor will he harbor his anger forever.\"\n\n-- Psalm 103:8-9" },
+        { type: "verse", content: "\"The Lord is compassionate and gracious, slow to anger, abounding in love. He will not always accuse, nor will he harbor his anger forever.\"\n\n-- Psalm 103:8-9 (NIV)" },
         { type: "encouragement", content: "Unforgiveness runs in families. The angry father raises an angry son. The bitter mother raises a bitter daughter. The patterns of unforgiveness get passed down unless someone breaks them. You can be the one who breaks the cycle. By forgiving what was done to you, you stop passing the wound on to the next generation. God is compassionate and slow to anger -- He doesn't harbor His anger forever. You can reflect that character in your family." },
         { type: "question", question: "What patterns of unforgiveness or bitterness do you see in your family?" },
         { type: "question", question: "How has unforgiveness been passed down to you?" },
@@ -942,7 +942,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 17,
       title: "Forgiveness and Trust",
       cards: [
-        { type: "verse", content: "\"A person's wisdom yields patience; it is to one's glory to overlook an offense.\"\n\n-- Proverbs 19:11" },
+        { type: "verse", content: "\"A person's wisdom yields patience; it is to one's glory to overlook an offense.\"\n\n-- Proverbs 19:11 (NIV)" },
         { type: "encouragement", content: "Forgiveness and trust are not the same thing. You can forgive someone and still not trust them -- because trust is earned and forgiveness is given. Solomon says it's wise and glorious to overlook an offense. But wisdom also means not putting yourself back in a situation where you'll be hurt again by someone who hasn't changed. Forgiveness is unconditional. Trust is conditional. Knowing the difference protects you and honors the other person." },
         { type: "question", question: "Have you confused forgiveness with trust in any relationship?" },
         { type: "question", question: "What does it look like to forgive someone while also maintaining appropriate boundaries?" },
@@ -955,7 +955,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 18,
       title: "Forgiveness and Prayer",
       cards: [
-        { type: "verse", content: "\"And when you stand praying, if you hold anything against anyone, forgive them, so that your Father in heaven may forgive you your sins.\"\n\n-- Mark 11:25" },
+        { type: "verse", content: "\"And when you stand praying, if you hold anything against anyone, forgive them, so that your Father in heaven may forgive you your sins.\"\n\n-- Mark 11:25 (NIV)" },
         { type: "encouragement", content: "Jesus connects forgiveness and prayer directly. When you stand to pray, if you're holding something against someone, deal with it first. Unforgiveness blocks your prayer life. Not because God is punishing you, but because bitterness creates a barrier in your heart. The man who prays with a clean heart -- who has forgiven and been forgiven -- is the man whose prayers are unhindered. Forgiveness is not just relational. It's spiritual. It clears the channel between you and God." },
         { type: "question", question: "Is there unforgiveness in your heart that might be affecting your prayer life?" },
         { type: "question", question: "How does Jesus connect forgiveness and prayer in this verse?" },
@@ -968,7 +968,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 19,
       title: "The Prodigal Son",
       cards: [
-        { type: "verse", content: "\"But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.\"\n\n-- Luke 15:20" },
+        { type: "verse", content: "\"But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.\"\n\n-- Luke 15:20 (NIV)" },
         { type: "encouragement", content: "The father in this parable is God. He sees his son coming from a long way off -- meaning he was watching for him. He runs. He throws his arms around him. He doesn't wait for the apology to be finished. He doesn't make him earn his way back. He restores him completely. That's how God treats you when you come back to Him. And that's the model for how you treat the people in your life who have failed you. Run toward them. Restore them. That's the character of God." },
         { type: "question", question: "How does the father's response in this parable challenge how you respond to people who have wronged you?" },
         { type: "question", question: "Is there someone in your life who needs you to run toward them rather than wait for them to earn their way back?" },
@@ -981,7 +981,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 20,
       title: "A Life of Forgiveness",
       cards: [
-        { type: "verse", content: "\"Get rid of all bitterness, rage and anger, brawling and slander, along with every form of malice. Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.\"\n\n-- Ephesians 4:31-32" },
+        { type: "verse", content: "\"Get rid of all bitterness, rage and anger, brawling and slander, along with every form of malice. Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.\"\n\n-- Ephesians 4:31-32 (NIV)" },
         { type: "encouragement", content: "Paul lays it out clearly: get rid of bitterness, rage, anger, slander, malice. Replace it with kindness, compassion, forgiveness. The standard is 'just as in Christ God forgave you.' That's the highest possible standard -- and it's only possible because of what God has done for you. You can't manufacture this kind of forgiveness. It flows from understanding how much you've been forgiven. The man who lives this way is the man who reflects the character of God to everyone around him." },
         { type: "question", question: "What bitterness, rage, or anger do you still need to get rid of?" },
         { type: "question", question: "How has this series changed how you think about forgiveness?" },
@@ -997,7 +997,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 6,
       title: "Your Identity Is Not Your Performance",
       cards: [
-        { type: "verse", content: "\"For it is by grace you have been saved, through faith -- and this is not from yourselves, it is the gift of God -- not by works, so that no one can boast.\"\n\n-- Ephesians 2:8-9" },
+        { type: "verse", content: "\"For it is by grace you have been saved, through faith -- and this is not from yourselves, it is the gift of God -- not by works, so that no one can boast.\"\n\n-- Ephesians 2:8-9 (NIV)" },
         { type: "encouragement", content: "You are saved by grace, not by works. That means your standing before God is not based on your performance. This is one of the most countercultural truths in the Bible. The world says you are what you do. God says you are what He has declared you to be in Christ. The man who ties his identity to his performance will be on a constant roller coaster -- great when things go well, crushed when they don't. The man whose identity is in Christ has a foundation that doesn't move." },
         { type: "question", question: "Do you tie your identity to your performance -- your grades, your athletic ability, your reputation?" },
         { type: "question", question: "What happens to your sense of self when you fail or underperform?" },
@@ -1010,7 +1010,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 7,
       title: "Your Identity Is Not Your Past",
       cards: [
-        { type: "verse", content: "\"Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!\"\n\n-- 2 Corinthians 5:17" },
+        { type: "verse", content: "\"Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!\"\n\n-- 2 Corinthians 5:17 (NIV)" },
         { type: "encouragement", content: "If you are in Christ, you are a new creation. The old is gone. The new is here. Your past does not define you. Your worst moment is not your identity. Your most shameful failure is not who you are. Jesus makes all things new -- including you. Paul was a murderer of Christians before he became the greatest missionary who ever lived. Peter denied Jesus three times before he became the rock on which the church was built. Your past is not your destiny." },
         { type: "question", question: "Is there something in your past that you feel defines you negatively?" },
         { type: "question", question: "What does 'the old has gone, the new is here' mean for that specific thing?" },
@@ -1023,7 +1023,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 8,
       title: "Your Identity Is Not What Others Say",
       cards: [
-        { type: "verse", content: "\"Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ.\"\n\n-- Galatians 1:10" },
+        { type: "verse", content: "\"Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ.\"\n\n-- Galatians 1:10 (NIV)" },
         { type: "encouragement", content: "Paul says if you're trying to please people, you can't be a servant of Christ. Those two things are in conflict. The man who builds his identity on others' approval is the man who will do anything to keep it -- and lose himself in the process. Jesus was called a glutton, a drunkard, a friend of sinners, a blasphemer, and demon-possessed. He didn't adjust His identity based on any of it. He knew who He was because He knew whose He was." },
         { type: "question", question: "How much does others' approval or disapproval affect your sense of identity?" },
         { type: "question", question: "What would you do differently if you genuinely didn't care what people thought of you?" },
@@ -1036,7 +1036,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 9,
       title: "You Are Gifted",
       cards: [
-        { type: "verse", content: "\"We have different gifts, according to the grace given to each of us.\"\n\n-- Romans 12:6" },
+        { type: "verse", content: "\"We have different gifts, according to the grace given to each of us.\"\n\n-- Romans 12:6 (NIV)" },
         { type: "encouragement", content: "God gave you specific gifts -- not by accident, but on purpose. Your gifts are not random. They're part of how God designed you to contribute to His kingdom. The man who doesn't know his gifts is the man who is living below his potential. The man who knows his gifts and uses them for God's glory is the man who is living the life he was made for. You have something to offer that no one else can offer in exactly the same way." },
         { type: "question", question: "What gifts do you think God has given you?" },
         { type: "question", question: "Are you using those gifts, or are you hiding them?" },
@@ -1049,7 +1049,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 10,
       title: "You Are Called",
       cards: [
-        { type: "verse", content: "\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\"\n\n-- Ephesians 2:10" },
+        { type: "verse", content: "\"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\"\n\n-- Ephesians 2:10 (NIV)" },
         { type: "encouragement", content: "You are God's handiwork. The Greek word is 'poiema' -- the same root as our word 'poem.' You are God's poem. His masterpiece. And you were created to do specific good works that God prepared in advance for you. You have a calling. Not just a career -- a calling. A purpose that God designed you for before you were born. The man who discovers his calling and pursues it with everything he has is the man who is living the life he was made for." },
         { type: "question", question: "Do you have a sense of what God has called you to do?" },
         { type: "question", question: "How does knowing you were created for specific good works change how you approach your life?" },
@@ -1062,7 +1062,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 11,
       title: "Identity and Temptation",
       cards: [
-        { type: "verse", content: "\"The tempter came to him and said, 'If you are the Son of God, tell these stones to become bread.'\" -- Matthew 4:3" },
+        { type: "verse", content: "\"The tempter came to him and said, 'If you are the Son of God, tell these stones to become bread.'\" -- Matthew 4:3 (NIV)" },
         { type: "encouragement", content: "Notice how Satan attacks Jesus: 'If you are the Son of God...' He attacks His identity first. That's always the strategy. Before Satan can get you to do something wrong, he has to get you to doubt who you are. If you don't know you're a son of God, you'll look for identity in all the wrong places -- in performance, in pleasure, in other people's approval. Jesus resisted every temptation from a place of secure identity. He knew who He was. That's the foundation." },
         { type: "question", question: "How does Satan attack your identity? What lies does he tell you about who you are?" },
         { type: "question", question: "How does a secure identity in Christ make you more resistant to temptation?" },
@@ -1075,7 +1075,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 12,
       title: "Identity and Comparison",
       cards: [
-        { type: "verse", content: "\"We do not dare to classify or compare ourselves with some who commend themselves. When they measure themselves by themselves and compare themselves with themselves, they are not wise.\"\n\n-- 2 Corinthians 10:12" },
+        { type: "verse", content: "\"We do not dare to classify or compare ourselves with some who commend themselves. When they measure themselves by themselves and compare themselves with themselves, they are not wise.\"\n\n-- 2 Corinthians 10:12 (NIV)" },
         { type: "encouragement", content: "Paul says comparing yourself to others is not wise. Comparison is one of the most identity-destroying habits a man can have. When you compare yourself to someone better, you feel inadequate. When you compare yourself to someone worse, you feel proud. Neither is reality. Your identity is not relative to other people. It's rooted in what God says about you. Jesus never compared Himself to anyone. He knew who He was and what He was called to do. That's the freedom you're after." },
         { type: "question", question: "Where does comparison show up most in your life?" },
         { type: "question", question: "How does comparison affect your sense of identity and worth?" },
@@ -1088,7 +1088,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 13,
       title: "Identity and Shame",
       cards: [
-        { type: "verse", content: "\"Therefore, there is now no condemnation for those who are in Christ Jesus.\"\n\n-- Romans 8:1" },
+        { type: "verse", content: "\"Therefore, there is now no condemnation for those who are in Christ Jesus.\"\n\n-- Romans 8:1 (NIV)" },
         { type: "encouragement", content: "Shame says 'I am bad.' Guilt says 'I did something bad.' There's a difference. Guilt is appropriate -- it's the conviction that leads to repentance. Shame is a lie -- it attacks your identity rather than your behavior. God deals with guilt through forgiveness. But shame has to be replaced with truth. The truth is: there is no condemnation for those in Christ Jesus. You are not your worst moment. You are not your deepest failure. You are a son of God, fully forgiven, fully loved." },
         { type: "question", question: "Do you struggle more with guilt or with shame?" },
         { type: "question", question: "What is the difference between healthy guilt and destructive shame?" },
@@ -1101,7 +1101,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 14,
       title: "Identity and Belonging",
       cards: [
-        { type: "verse", content: "\"Consequently, you are no longer foreigners and strangers, but fellow citizens with God's people and also members of his household.\"\n\n-- Ephesians 2:19" },
+        { type: "verse", content: "\"Consequently, you are no longer foreigners and strangers, but fellow citizens with God's people and also members of his household.\"\n\n-- Ephesians 2:19 (NIV)" },
         { type: "encouragement", content: "You belong. You are not a foreigner or a stranger. You are a fellow citizen, a member of God's household. One of the deepest human needs is belonging -- the sense that you have a place, that you're wanted, that you're part of something. The world offers belonging conditionally: perform well enough, look right, fit in. God offers belonging unconditionally: you are a member of His household. That's not based on your performance. It's based on Jesus." },
         { type: "question", question: "Do you have a strong sense of belonging -- to God, to a community, to something bigger than yourself?" },
         { type: "question", question: "Where do you most struggle with feeling like you don't belong?" },
@@ -1114,7 +1114,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 15,
       title: "Identity and Purpose",
       cards: [
-        { type: "verse", content: "\"For to me, to live is Christ and to die is gain.\"\n\n-- Philippians 1:21" },
+        { type: "verse", content: "\"For to me, to live is Christ and to die is gain.\"\n\n-- Philippians 1:21 (NIV)" },
         { type: "encouragement", content: "Paul's identity and purpose were completely wrapped up in Christ. To live is Christ. Not 'to live is to be successful' or 'to live is to be happy' or 'to live is to be respected.' To live is Christ. When Christ is your identity, your purpose becomes clear: know Him, make Him known, become more like Him. Everything else flows from that. The man who knows his purpose is the man who can make decisions, set priorities, and live with direction." },
         { type: "question", question: "What is your purpose? Can you state it simply?" },
         { type: "question", question: "How does 'to live is Christ' change how you think about your goals and priorities?" },
@@ -1127,7 +1127,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 16,
       title: "Identity and Suffering",
       cards: [
-        { type: "verse", content: "\"Now if we are children, then we are heirs -- heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory.\"\n\n-- Romans 8:17" },
+        { type: "verse", content: "\"Now if we are children, then we are heirs -- heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory.\"\n\n-- Romans 8:17 (NIV)" },
         { type: "encouragement", content: "Paul says sharing in Christ's sufferings is part of being a co-heir with Him. Your identity as a son of God doesn't exempt you from suffering -- it gives you a framework for it. You are not suffering alone. You are suffering with Christ. And the suffering is producing something: glory. The man who understands his identity in Christ can face suffering without being destroyed by it. He knows who he is, whose he is, and where he's going." },
         { type: "question", question: "How does your identity in Christ give you a framework for suffering?" },
         { type: "question", question: "What suffering are you currently going through? How does being a co-heir with Christ change how you see it?" },
@@ -1140,7 +1140,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 17,
       title: "Identity and Freedom",
       cards: [
-        { type: "verse", content: "\"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.\"\n\n-- Galatians 5:1" },
+        { type: "verse", content: "\"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.\"\n\n-- Galatians 5:1 (NIV)" },
         { type: "encouragement", content: "Christ set you free. Not free to do whatever you want -- free from the slavery of sin, performance, and fear. Free to be who God made you to be. Paul says stand firm in that freedom. Don't go back to the yoke of slavery -- trying to earn God's approval, living in fear of His judgment, performing for others' acceptance. You are free. The man who knows his identity in Christ is the freest man in the room." },
         { type: "question", question: "What are you currently enslaved to -- sin, performance, fear, others' opinions?" },
         { type: "question", question: "What does freedom in Christ look like practically in your life?" },
@@ -1153,7 +1153,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 18,
       title: "Identity and Relationships",
       cards: [
-        { type: "verse", content: "\"A new command I give you: Love one another. As I have loved you, so you must love one another.\"\n\n-- John 13:34" },
+        { type: "verse", content: "\"A new command I give you: Love one another. As I have loved you, so you must love one another.\"\n\n-- John 13:34 (NIV)" },
         { type: "encouragement", content: "Jesus says love one another as I have loved you. That's the standard: Jesus-quality love. Self-giving, unconditional, costly. When your identity is secure in Christ, you can love people like this -- because you're not using them to meet your needs. The man who doesn't know who he is will use relationships to find his identity. The man who knows who he is can love others freely, without needing anything in return." },
         { type: "question", question: "How does your identity in Christ change how you relate to others?" },
         { type: "question", question: "Are there relationships where you're using people to meet your identity needs?" },
@@ -1166,7 +1166,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 19,
       title: "Identity and the Future",
       cards: [
-        { type: "verse", content: "\"Dear friends, now we are children of God, and what we will be has not yet been made known. But we know that when he appears, we shall be like him, for we shall see him as he is.\"\n\n-- 1 John 3:2" },
+        { type: "verse", content: "\"Dear friends, now we are children of God, and what we will be has not yet been made known. But we know that when he appears, we shall be like him, for we shall see him as he is.\"\n\n-- 1 John 3:2 (NIV)" },
         { type: "encouragement", content: "John says we don't know yet what we will be -- but we know we will be like Jesus. That's your destiny. Not just heaven as a place, but becoming fully like Christ. The transformation that has begun in you will be completed. The man you're becoming -- more patient, more loving, more courageous, more like Jesus -- that's the direction. And the destination is glorious. Your identity is not just who you are now. It's who you're becoming." },
         { type: "question", question: "How does knowing your destiny -- becoming fully like Christ -- change how you live today?" },
         { type: "question", question: "What aspect of Christ's character do you most want to reflect in your life?" },
@@ -1179,7 +1179,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 20,
       title: "Living from Your Identity",
       cards: [
-        { type: "verse", content: "\"I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.\"\n\n-- Galatians 2:20" },
+        { type: "verse", content: "\"I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.\"\n\n-- Galatians 2:20 (NIV)" },
         { type: "encouragement", content: "Paul says Christ lives in me. That's the ultimate identity statement. Not 'I am trying to be like Christ.' Not 'I am following Christ's example.' Christ lives in me. The life you live is lived by faith in the Son of God who loved you and gave Himself for you. That's the foundation. That's the source. That's the identity. The man who lives from this place is the most free, most secure, most purposeful man in the room. Live from who you are." },
         { type: "question", question: "What does it mean that Christ lives in you?" },
         { type: "question", question: "How has this series changed how you think about your identity?" },
@@ -1195,7 +1195,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 6,
       title: "Integrity in Small Things",
       cards: [
-        { type: "verse", content: "\"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.\"\n\n-- Luke 16:10" },
+        { type: "verse", content: "\"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.\"\n\n-- Luke 16:10 (NIV)" },
         { type: "encouragement", content: "Jesus says the small things reveal the big things. How you handle a small responsibility reveals whether you can be trusted with a large one. Integrity isn't built in the big moments -- it's built in the small, daily choices that no one notices. Showing up on time. Doing the work when no one is checking. Telling the truth when a small lie would be easier. These small choices compound over time into a reputation -- and a character." },
         { type: "question", question: "Where are you most tempted to cut corners or be dishonest in small things?" },
         { type: "question", question: "How does your faithfulness in small things reflect your readiness for larger responsibilities?" },
@@ -1208,7 +1208,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 7,
       title: "The Integrity of Your Finances",
       cards: [
-        { type: "verse", content: "\"No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.\"\n\n-- Matthew 6:24" },
+        { type: "verse", content: "\"No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.\"\n\n-- Matthew 6:24 (NIV)" },
         { type: "encouragement", content: "Jesus talked about money more than almost any other subject. Not because money is evil, but because it competes with God for your ultimate loyalty. Financial integrity means being honest about what you have, generous with what God has given you, and free from the love of money. The man who cheats on his taxes, who is stingy with his resources, who lets money drive his decisions -- that man is serving a different master. Generosity is an act of worship." },
         { type: "question", question: "Is money a source of anxiety, pride, or security for you? What does that reveal?" },
         { type: "question", question: "Are you financially honest -- in how you report, how you spend, how you give?" },
@@ -1221,7 +1221,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 8,
       title: "Digital Integrity",
       cards: [
-        { type: "verse", content: "\"I will not look with approval on anything that is vile. I hate what faithless people do; I will have no part in it.\"\n\n-- Psalm 101:3" },
+        { type: "verse", content: "\"I will not look with approval on anything that is vile. I hate what faithless people do; I will have no part in it.\"\n\n-- Psalm 101:3 (NIV)" },
         { type: "encouragement", content: "David made a covenant with his eyes -- he would not look at vile things. In the digital age, that covenant is harder to keep than ever. Your phone is a window to everything -- good and evil. Digital integrity means what you watch, what you search, what you say online is the same as what you'd do in person. The man who is kind in person but cruel online, who is pure in public but watches garbage in private -- that man has a character problem, not just a habit problem." },
         { type: "question", question: "Is there a gap between how you behave online and how you behave in person?" },
         { type: "question", question: "What do you consume digitally that you'd be embarrassed for others to see?" },
@@ -1234,7 +1234,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 9,
       title: "Integrity in Relationships",
       cards: [
-        { type: "verse", content: "\"Do to others as you would have them do to you.\"\n\n-- Luke 6:31" },
+        { type: "verse", content: "\"Do to others as you would have them do to you.\"\n\n-- Luke 6:31 (NIV)" },
         { type: "encouragement", content: "The Golden Rule is simple and devastating: treat others the way you want to be treated. Not the way they treat you. Not the way they deserve. The way you want to be treated. That means integrity in how you talk about people when they're not in the room. It means keeping confidences. It means being as kind to the person who can't help you as to the person who can. Jesus treated everyone with dignity -- the powerful and the powerless, the popular and the outcast." },
         { type: "question", question: "Do you treat people differently based on what they can do for you?" },
         { type: "question", question: "Is there someone you talk about negatively when they're not around?" },
@@ -1247,7 +1247,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 10,
       title: "Integrity and Reputation",
       cards: [
-        { type: "verse", content: "\"A good name is more desirable than great riches; to be esteemed is better than silver or gold.\"\n\n-- Proverbs 22:1" },
+        { type: "verse", content: "\"A good name is more desirable than great riches; to be esteemed is better than silver or gold.\"\n\n-- Proverbs 22:1 (NIV)" },
         { type: "encouragement", content: "Solomon says a good name is worth more than wealth. Your reputation is the sum of thousands of small choices over time. It's built slowly and lost quickly. The man who is known for his integrity -- who people trust, who keeps his word, who is the same person in every room -- that man has something money can't buy. Jesus had a reputation: He was known for truth, compassion, and consistency. People knew what they were getting with Him. What are you known for?" },
         { type: "question", question: "What are you currently known for among the people who know you best?" },
         { type: "question", question: "What reputation do you want to have in 10 years? What would you need to change to get there?" },
@@ -1260,7 +1260,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 11,
       title: "Integrity When It Costs You",
       cards: [
-        { type: "verse", content: "\"Peter replied, 'Even if all fall away on account of you, I never will.'\" -- Matthew 26:33\n\n\"But Peter followed him at a distance.\" -- Matthew 26:58" },
+        { type: "verse", content: "\"Peter replied, 'Even if all fall away on account of you, I never will.'\" -- Matthew 26:33\n\n\"But Peter followed him at a distance.\" -- Matthew 26:58 (NIV)" },
         { type: "encouragement", content: "Peter said he would never deny Jesus -- and then he did, three times. The gap between what we say we'll do and what we actually do under pressure is one of the most humbling realities of human nature. Peter's failure wasn't the end of his story. Jesus restored him. But the lesson is clear: integrity under pressure is built before the pressure comes. You don't rise to the occasion -- you fall to the level of your preparation." },
         { type: "question", question: "Have you ever said you'd do something and then failed when the moment came? What happened?" },
         { type: "question", question: "How do you prepare yourself to maintain integrity when the pressure is high?" },
@@ -1273,7 +1273,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 12,
       title: "The Integrity of Your Words",
       cards: [
-        { type: "verse", content: "\"The tongue has the power of life and death, and those who love it will eat its fruit.\"\n\n-- Proverbs 18:21" },
+        { type: "verse", content: "\"The tongue has the power of life and death, and those who love it will eat its fruit.\"\n\n-- Proverbs 18:21 (NIV)" },
         { type: "encouragement", content: "Your words have power. They can give life or bring death. Integrity in your speech means your words match your heart -- you don't say one thing and mean another. It means you don't gossip, slander, or exaggerate. It means you build people up rather than tear them down. Jesus said every careless word will be accounted for. That's a sobering standard. But it's also an invitation: imagine what your relationships would look like if every word you spoke was true, kind, and life-giving." },
         { type: "question", question: "What does your speech reveal about your character?" },
         { type: "question", question: "Is there a pattern in your words -- gossip, exaggeration, sarcasm, criticism -- that lacks integrity?" },
@@ -1286,7 +1286,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 13,
       title: "Integrity in Your Work",
       cards: [
-        { type: "verse", content: "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.\"\n\n-- Colossians 3:23" },
+        { type: "verse", content: "\"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.\"\n\n-- Colossians 3:23 (NIV)" },
         { type: "encouragement", content: "Paul says work as if you're working for Jesus. Not for your boss, not for a grade, not for recognition -- for Jesus. That transforms work ethic. The man of integrity doesn't do the minimum when no one is checking. He doesn't call in sick when he's not sick. He doesn't take credit for work he didn't do. He works with full effort because he's ultimately working for an audience of One. Your work ethic is a form of worship." },
         { type: "question", question: "Is your work ethic the same when no one is watching as when your boss or teacher is watching?" },
         { type: "question", question: "Where are you most tempted to cut corners or do the minimum?" },
@@ -1299,7 +1299,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 14,
       title: "Integrity and Temptation",
       cards: [
-        { type: "verse", content: "\"No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it.\"\n\n-- 1 Corinthians 10:13" },
+        { type: "verse", content: "\"No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it.\"\n\n-- 1 Corinthians 10:13 (NIV)" },
         { type: "encouragement", content: "God always provides a way out of temptation. Always. The question is whether you take it. Integrity means taking the way out even when the temptation is strong. Joseph ran from Potiphar's wife. Literally ran. Sometimes integrity requires physical distance from temptation. Jesus was tempted in every way you are -- and He didn't give in. Not because it wasn't hard, but because He was rooted in the Word and in His relationship with the Father. That's the model." },
         { type: "question", question: "What temptation do you most consistently fail to resist? What is the 'way out' you keep ignoring?" },
         { type: "question", question: "How does knowing Jesus was tempted but didn't sin give you hope and a model?" },
@@ -1312,7 +1312,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 15,
       title: "Integrity and Accountability",
       cards: [
-        { type: "verse", content: "\"Therefore confess your sins to each other and pray for each other so that you may be healed.\"\n\n-- James 5:16" },
+        { type: "verse", content: "\"Therefore confess your sins to each other and pray for each other so that you may be healed.\"\n\n-- James 5:16 (NIV)" },
         { type: "encouragement", content: "Integrity and accountability go together. The man who has nothing to hide doesn't fear accountability. And the man who has accountability is more likely to maintain his integrity. James says confess your sins to each other -- not just to God, but to another person. There's something about speaking your failures out loud to a trusted brother that breaks the power of secrecy. Accountability isn't about having someone police you. It's about having someone walk with you." },
         { type: "question", question: "Do you have someone who knows your real struggles and holds you accountable?" },
         { type: "question", question: "What is the difference between accountability that produces shame and accountability that produces freedom?" },
@@ -1325,7 +1325,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 16,
       title: "Integrity After Failure",
       cards: [
-        { type: "verse", content: "\"The Lord makes firm the steps of the one who delights in him; though he may stumble, he will not fall, for the Lord upholds him with his hand.\"\n\n-- Psalm 37:23-24" },
+        { type: "verse", content: "\"The Lord makes firm the steps of the one who delights in him; though he may stumble, he will not fall, for the Lord upholds him with his hand.\"\n\n-- Psalm 37:23-24 (NIV)" },
         { type: "encouragement", content: "Integrity doesn't mean never failing. It means what you do after you fail. The man of integrity doesn't hide his failure, make excuses, or give up. He owns it, repents, and gets back up. David failed catastrophically -- adultery, murder, cover-up. But he was called a man after God's own heart because of how he responded to his failure. He didn't run from God. He ran to Him. Psalm 51 is the result: one of the most honest prayers of repentance ever written." },
         { type: "question", question: "How do you typically respond to your own failures -- do you hide, make excuses, or own them?" },
         { type: "question", question: "What does it mean that God 'upholds' the man who stumbles?" },
@@ -1338,7 +1338,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 17,
       title: "Integrity in Your Thought Life",
       cards: [
-        { type: "verse", content: "\"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable -- if anything is excellent or praiseworthy -- think about such things.\"\n\n-- Philippians 4:8" },
+        { type: "verse", content: "\"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable -- if anything is excellent or praiseworthy -- think about such things.\"\n\n-- Philippians 4:8 (NIV)" },
         { type: "encouragement", content: "Paul says to fill your mind with what is true, noble, right, pure, lovely, and admirable. Integrity starts in your thought life -- before it shows up in your words and actions. What you think about shapes who you become. The man who fills his mind with garbage will eventually produce garbage. The man who fills his mind with what is good will produce good. This isn't about positive thinking -- it's about intentionally guarding what you let in." },
         { type: "question", question: "What does your thought life look like -- what do you think about most?" },
         { type: "question", question: "What are you filling your mind with that is pulling you away from integrity?" },
@@ -1351,7 +1351,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 18,
       title: "Integrity and Generosity",
       cards: [
-        { type: "verse", content: "\"Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap.\"\n\n-- Luke 6:38" },
+        { type: "verse", content: "\"Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap.\"\n\n-- Luke 6:38 (NIV)" },
         { type: "encouragement", content: "Generosity is an act of integrity -- it's putting your money where your mouth is. The man who says he trusts God but hoards everything he has is not living with integrity. Jesus gave everything. He said where your treasure is, your heart will be. Generosity reveals what you actually believe about God. The generous man is saying 'I trust that God will provide. I don't have to grip this.' That's integrity -- your actions matching your stated beliefs." },
         { type: "question", question: "Does your generosity match what you say you believe about God?" },
         { type: "question", question: "What keeps you from being more generous -- fear, habit, or a lack of trust in God?" },
@@ -1364,7 +1364,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 19,
       title: "Integrity as a Witness",
       cards: [
-        { type: "verse", content: "\"In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.\"\n\n-- Matthew 5:16" },
+        { type: "verse", content: "\"In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.\"\n\n-- Matthew 5:16 (NIV)" },
         { type: "encouragement", content: "Jesus says your integrity is a witness. When people see your good deeds -- your honesty, your faithfulness, your consistency -- they glorify God. Your life is an argument for or against the gospel. The man who claims to follow Jesus but lives without integrity does more damage to the gospel than an atheist. The man who lives with quiet, consistent integrity -- who keeps his word, treats people well, and is the same person in every room -- that man makes people curious about Jesus." },
         { type: "question", question: "Does your life make people curious about Jesus, or does it give them reasons to dismiss Him?" },
         { type: "question", question: "Who in your life is watching how you live? What are they seeing?" },
@@ -1377,7 +1377,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 20,
       title: "A Life of Integrity",
       cards: [
-        { type: "verse", content: "\"The man of integrity walks securely, but he who takes crooked paths will be found out.\"\n\n-- Proverbs 10:9" },
+        { type: "verse", content: "\"The man of integrity walks securely, but he who takes crooked paths will be found out.\"\n\n-- Proverbs 10:9 (NIV)" },
         { type: "encouragement", content: "Solomon says the man of integrity walks securely. There's a peace that comes from having nothing to hide. No double life, no secrets, no fear of being found out. That security is one of the great rewards of a life lived with integrity. Jesus walked with complete security -- He had nothing to hide, nothing to fear, nothing to prove. That's the life available to you. Not perfection, but wholeness. Not a flawless record, but a clean conscience. Walk securely." },
         { type: "question", question: "What would it feel like to have nothing to hide -- complete integrity in every area of your life?" },
         { type: "question", question: "What is the one area where you most need to close the gap between who you are and who you want to be?" },
@@ -1393,7 +1393,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 6,
       title: "The Leader's Humility",
       cards: [
-        { type: "verse", content: "\"Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.\"\n\n-- Philippians 2:3" },
+        { type: "verse", content: "\"Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.\"\n\n-- Philippians 2:3 (NIV)" },
         { type: "encouragement", content: "Paul says value others above yourself. That's humility -- not thinking less of yourself, but thinking of yourself less. The humble leader is not threatened by others' success. He doesn't need to be the smartest person in the room. He listens more than he talks. He gives credit generously. Jesus, the King of the universe, washed feet. He said the greatest among you will be your servant. Humility is not weakness in a leader -- it's one of the most powerful things a leader can display." },
         { type: "question", question: "How does pride or selfish ambition show up in your leadership?" },
         { type: "question", question: "What would it look like to value the people you lead above yourself this week?" },
@@ -1406,7 +1406,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 7,
       title: "The Leader's Communication",
       cards: [
-        { type: "verse", content: "\"Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer everyone.\"\n\n-- Colossians 4:6" },
+        { type: "verse", content: "\"Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer everyone.\"\n\n-- Colossians 4:6 (NIV)" },
         { type: "encouragement", content: "Paul says let your words be full of grace and seasoned with salt. Grace means kind, generous, encouraging. Salt means honest, substantive, worth hearing. The leader who communicates with grace and truth is the leader people want to follow. Jesus was the greatest communicator who ever lived. He used stories, questions, images. He spoke to the heart, not just the head. He was direct without being harsh, and kind without being vague. That's the model." },
         { type: "question", question: "How would the people you lead describe your communication?" },
         { type: "question", question: "Do you lean more toward grace (kind but vague) or salt (direct but harsh)? How do you find the balance?" },
@@ -1419,7 +1419,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 8,
       title: "The Leader's Decision-Making",
       cards: [
-        { type: "verse", content: "\"If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.\"\n\n-- James 1:5" },
+        { type: "verse", content: "\"If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.\"\n\n-- James 1:5 (NIV)" },
         { type: "encouragement", content: "Leaders make decisions. Some of them are hard. James says if you lack wisdom, ask God. He gives it generously. The leader who makes decisions without prayer is the leader who is relying entirely on his own understanding. Jesus made every decision in alignment with the Father. He said He only did what He saw the Father doing. That's the model: bring your decisions to God, seek wise counsel, and then act with confidence. You don't have to have all the answers. You have to be connected to the One who does." },
         { type: "question", question: "How do you currently make important decisions? Do you pray first?" },
         { type: "question", question: "What is a decision you're facing right now that you need wisdom for?" },
@@ -1432,7 +1432,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 9,
       title: "The Leader's Resilience",
       cards: [
-        { type: "verse", content: "\"We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed.\"\n\n-- 2 Corinthians 4:8-9" },
+        { type: "verse", content: "\"We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed.\"\n\n-- 2 Corinthians 4:8-9 (NIV)" },
         { type: "encouragement", content: "Paul describes the leader's life: hard pressed, perplexed, persecuted, struck down. But not crushed, not in despair, not abandoned, not destroyed. Resilience is not the absence of difficulty. It's the ability to keep going in the middle of it. Jesus was betrayed by a friend, abandoned by His disciples, falsely accused, tortured, and killed. And three days later He rose. The resurrection is the ultimate statement of resilience. The leader who follows Jesus has access to resurrection power." },
         { type: "question", question: "What difficulty or setback are you currently facing as a leader?" },
         { type: "question", question: "How does Paul's description of 'hard pressed but not crushed' resonate with your experience?" },
@@ -1445,7 +1445,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 10,
       title: "Developing Other Leaders",
       cards: [
-        { type: "verse", content: "\"And the things you have heard me say in the presence of many witnesses entrust to reliable people who will also be qualified to teach others.\"\n\n-- 2 Timothy 2:2" },
+        { type: "verse", content: "\"And the things you have heard me say in the presence of many witnesses entrust to reliable people who will also be qualified to teach others.\"\n\n-- 2 Timothy 2:2 (NIV)" },
         { type: "encouragement", content: "Paul tells Timothy to take what he's learned and invest it in reliable people who will invest it in others. That's four generations of leadership development in one verse. The greatest leaders don't just lead -- they multiply. They develop other leaders. Jesus invested three years in twelve men, and those twelve men changed the world. The leader who hoards his knowledge and authority builds a small kingdom. The leader who gives it away builds something that outlasts him." },
         { type: "question", question: "Are you investing in developing other leaders, or are you doing everything yourself?" },
         { type: "question", question: "Who is one person in your life that you could invest in and develop as a leader?" },
@@ -1458,7 +1458,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 11,
       title: "The Leader's Courage",
       cards: [
-        { type: "verse", content: "\"Be on your guard; stand firm in the faith; be courageous; be strong.\"\n\n-- 1 Corinthians 16:13" },
+        { type: "verse", content: "\"Be on your guard; stand firm in the faith; be courageous; be strong.\"\n\n-- 1 Corinthians 16:13 (NIV)" },
         { type: "encouragement", content: "Paul gives four commands in one verse: be on guard, stand firm, be courageous, be strong. Leadership requires courage. The courage to make hard decisions. The courage to have difficult conversations. The courage to go first. The courage to stand alone when necessary. Jesus was the most courageous leader who ever lived. He stood alone against the religious establishment, the political powers, and ultimately death itself. Courage is not a personality trait -- it's a choice. Choose it." },
         { type: "question", question: "What decision or conversation are you avoiding because it requires courage?" },
         { type: "question", question: "How does Paul's command to 'be courageous' apply to your leadership right now?" },
@@ -1471,7 +1471,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 12,
       title: "The Leader's Accountability",
       cards: [
-        { type: "verse", content: "\"Obey your leaders and submit to them, for they are keeping watch over your souls, as those who will have to give an account.\"\n\n-- Hebrews 13:17" },
+        { type: "verse", content: "\"Obey your leaders and submit to them, for they are keeping watch over your souls, as those who will have to give an account.\"\n\n-- Hebrews 13:17 (NIV)" },
         { type: "encouragement", content: "Leaders give an account. You are responsible for the people you lead. That's a sobering reality. It means your leadership is not just about results -- it's about souls. The people you lead are watching you, being shaped by you, following your example. Jesus took that responsibility seriously. He prayed for His disciples. He protected them. He invested in them. He said 'of those you gave me, I have lost none.' That's the standard of accountability." },
         { type: "question", question: "Are you taking seriously your responsibility for the people you lead?" },
         { type: "question", question: "Who are you accountable to in your leadership? Do you have someone who holds you to a high standard?" },
@@ -1484,7 +1484,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 13,
       title: "The Leader's Presence",
       cards: [
-        { type: "verse", content: "\"And surely I am with you always, to the very end of the age.\"\n\n-- Matthew 28:20" },
+        { type: "verse", content: "\"And surely I am with you always, to the very end of the age.\"\n\n-- Matthew 28:20 (NIV)" },
         { type: "encouragement", content: "Jesus' final words to His disciples were a promise of presence. Not a strategy, not a program, not a plan -- a promise: I am with you always. Presence is one of the most powerful things a leader can give. The leader who is physically present but mentally absent is not really there. The leader who is fully present -- who listens, who engages, who makes people feel seen -- that leader builds something deep. Jesus was fully present with everyone He encountered. The woman at the well, the blind beggar, the children. He saw people." },
         { type: "question", question: "Are you fully present with the people you lead, or are you distracted?" },
         { type: "question", question: "Who in your life needs you to be more fully present?" },
@@ -1497,7 +1497,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 14,
       title: "The Leader's Generosity",
       cards: [
-        { type: "verse", content: "\"Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap.\"\n\n-- Luke 6:38" },
+        { type: "verse", content: "\"Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap.\"\n\n-- Luke 6:38 (NIV)" },
         { type: "encouragement", content: "Generous leaders build generous cultures. The leader who hoards -- credit, resources, recognition, time -- creates a culture of scarcity. The leader who gives generously creates a culture of abundance. Jesus was the most generous person who ever lived. He gave His time, His energy, His teaching, His miracles, and ultimately His life. Generosity as a leader means giving credit to others, investing your time in people, sharing resources, and being willing to give away what you've built." },
         { type: "question", question: "Are you a generous leader -- with credit, time, resources, and recognition?" },
         { type: "question", question: "What is the culture of generosity like in the team or community you lead?" },
@@ -1510,7 +1510,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 15,
       title: "The Leader's Endurance",
       cards: [
-        { type: "verse", content: "\"Let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith.\"\n\n-- Hebrews 12:1-2" },
+        { type: "verse", content: "\"Let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith.\"\n\n-- Hebrews 12:1-2 (NIV)" },
         { type: "encouragement", content: "The writer of Hebrews says run with perseverance -- and fix your eyes on Jesus. Leadership is a long race. There will be seasons of discouragement, failure, opposition, and exhaustion. The leaders who finish well are not the most talented -- they're the most persistent. They keep fixing their eyes on Jesus. He is the pioneer and perfecter of faith. He ran the race before you. He finished. And He's the reason you can finish too." },
         { type: "question", question: "What is the most discouraging part of your leadership right now?" },
         { type: "question", question: "How does fixing your eyes on Jesus help you endure in leadership?" },
@@ -1523,7 +1523,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 16,
       title: "The Leader's Prayer Life",
       cards: [
-        { type: "verse", content: "\"One of those days Jesus went out to a mountainside to pray, and spent the night praying to God.\"\n\n-- Luke 6:12" },
+        { type: "verse", content: "\"One of those days Jesus went out to a mountainside to pray, and spent the night praying to God.\"\n\n-- Luke 6:12 (NIV)" },
         { type: "encouragement", content: "Before Jesus chose His twelve disciples -- the most important leadership decision of His ministry -- He spent the entire night in prayer. That's the model. The leader who doesn't pray is the leader who is operating on his own wisdom and strength. The leader who prays is the leader who is connected to the source of all wisdom and strength. Your prayer life is not separate from your leadership. It is the foundation of your leadership." },
         { type: "question", question: "What does your prayer life look like as a leader?" },
         { type: "question", question: "What major decisions or challenges in your leadership do you need to bring to God in prayer?" },
@@ -1536,7 +1536,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 17,
       title: "The Leader's Failure",
       cards: [
-        { type: "verse", content: "\"For though the righteous fall seven times, they rise again, but the wicked stumble when calamity strikes.\"\n\n-- Proverbs 24:16" },
+        { type: "verse", content: "\"For though the righteous fall seven times, they rise again, but the wicked stumble when calamity strikes.\"\n\n-- Proverbs 24:16 (NIV)" },
         { type: "encouragement", content: "Leaders fail. The question is what you do next. Solomon says the righteous man falls seven times and rises again. The mark of a great leader is not that he never fails -- it's that he gets back up. He owns the failure, learns from it, and keeps going. Jesus chose Peter as the leader of His church -- a man who had publicly denied Him three times. God uses broken, failed, restored people. Your failure is not disqualifying. It's often the very thing that qualifies you." },
         { type: "question", question: "How do you handle failure as a leader -- do you own it, hide it, or blame others?" },
         { type: "question", question: "What is a failure in your leadership that you've learned from?" },
@@ -1549,7 +1549,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 18,
       title: "The Leader's Legacy",
       cards: [
-        { type: "verse", content: "\"A good person leaves an inheritance for their children's children, but a sinner's wealth is stored up for the righteous.\"\n\n-- Proverbs 13:22" },
+        { type: "verse", content: "\"A good person leaves an inheritance for their children's children, but a sinner's wealth is stored up for the righteous.\"\n\n-- Proverbs 13:22 (NIV)" },
         { type: "encouragement", content: "Solomon says a good person leaves an inheritance for their grandchildren. Legacy is not just financial -- it's the values, the character, the faith, the example you leave behind. The leader who thinks about legacy leads differently. He's not just making decisions for today -- he's building something that will outlast him. Jesus built a movement that has lasted two thousand years. Not because He had great resources, but because He invested in people and in truth. What are you building that will outlast you?" },
         { type: "question", question: "What legacy are you currently building as a leader?" },
         { type: "question", question: "What do you want to be remembered for by the people you lead?" },
@@ -1562,7 +1562,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 19,
       title: "The Leader's Mission",
       cards: [
-        { type: "verse", content: "\"For the Son of Man came to seek and to save the lost.\"\n\n-- Luke 19:10" },
+        { type: "verse", content: "\"For the Son of Man came to seek and to save the lost.\"\n\n-- Luke 19:10 (NIV)" },
         { type: "encouragement", content: "Jesus knew His mission. He could state it in one sentence: seek and save the lost. That clarity of mission drove everything He did. Every healing, every teaching, every conversation was in service of that mission. The leader who knows his mission is the leader who can say no to good things in order to say yes to the best things. What is your mission? What are you ultimately leading toward? Clarity of mission is one of the greatest gifts you can give to the people you lead." },
         { type: "question", question: "Can you state your mission as a leader in one sentence?" },
         { type: "question", question: "How does clarity of mission help you make decisions and set priorities?" },
@@ -1575,7 +1575,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 20,
       title: "The Leader Jesus Calls You to Be",
       cards: [
-        { type: "verse", content: "\"I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.\"\n\n-- John 15:5" },
+        { type: "verse", content: "\"I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.\"\n\n-- John 15:5 (NIV)" },
         { type: "encouragement", content: "Jesus says apart from Him, you can do nothing. That's the most important leadership truth in this entire series. All the character, the vision, the courage, the humility -- it flows from connection to Jesus. The leader who remains in the vine bears much fruit. The leader who tries to lead in his own strength will eventually run dry. Stay connected. Pray. Read the Word. Stay in community. Remain in Jesus. That's the foundation of everything. The leader Jesus calls you to be is not a self-made man -- it's a man made by Jesus." },
         { type: "question", question: "Are you remaining in Jesus as the foundation of your leadership?" },
         { type: "question", question: "What does it look like practically to 'remain in the vine' as a leader?" },
@@ -1592,7 +1592,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 6,
       title: "Take Every Thought Captive",
       cards: [
-        { type: "verse", content: "\"We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ.\"\n\n-- 2 Corinthians 10:5" },
+        { type: "verse", content: "\"We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ.\"\n\n-- 2 Corinthians 10:5 (NIV)" },
         { type: "encouragement", content: "Your mind is a battlefield -- and Paul says you're not helpless on it. You have weapons. The Word of God, prayer, the Spirit of Christ in you. Every thought that comes against the knowledge of God -- every lie, every fantasy, every accusation -- can be taken captive. That doesn't mean it won't come. It means you don't have to obey it. You take it prisoner. You bring it to Christ. And you let Him deal with it." },
         { type: "question", question: "What is a thought pattern that keeps pulling you toward sin? What lie is underneath it?" },
         { type: "question", question: "What does it look like practically to 'take a thought captive' in the moment of temptation?" },
@@ -1605,7 +1605,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 7,
       title: "Guard Your Gates",
       cards: [
-        { type: "verse", content: "\"Above all else, guard your heart, for everything you do flows from it.\"\n\n-- Proverbs 4:23" },
+        { type: "verse", content: "\"Above all else, guard your heart, for everything you do flows from it.\"\n\n-- Proverbs 4:23 (NIV)" },
         { type: "encouragement", content: "Solomon says above all else -- not as one thing among many, but as the priority. Guard your heart. Why? Because everything flows from it. Your actions, your words, your desires -- they all start inside. The world wants to pour garbage into your heart through your eyes and ears. You have a responsibility to guard the gates. Not because you're afraid, but because you know what's at stake. What you feed grows. What you starve dies." },
         { type: "question", question: "What are you regularly letting into your heart through screens, music, or conversations?" },
         { type: "question", question: "How has what you've consumed recently shaped your thoughts or desires?" },
@@ -1618,7 +1618,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 8,
       title: "The Power of Accountability",
       cards: [
-        { type: "verse", content: "\"Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.\"\n\n-- James 5:16" },
+        { type: "verse", content: "\"Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.\"\n\n-- James 5:16 (NIV)" },
         { type: "encouragement", content: "Sin thrives in secrecy. It loses power when it's brought into the light. James doesn't say confess to a priest or to God alone -- he says confess to each other. There's something that happens in the soul when you say it out loud to another person who knows you and loves you anyway. The shame loses its grip. The lie that you're the only one loses its power. You need a brother who will tell you the truth, pray for you, and not let you quit." },
         { type: "question", question: "Is there a sin you've been keeping secret that you need to bring into the light?" },
         { type: "question", question: "Do you have someone in your life you can be completely honest with? If not, why not?" },
@@ -1631,7 +1631,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 9,
       title: "When You Fall",
       cards: [
-        { type: "verse", content: "\"For though the righteous fall seven times, they rise again, but the wicked stumble when calamity strikes.\"\n\n-- Proverbs 24:16" },
+        { type: "verse", content: "\"For though the righteous fall seven times, they rise again, but the wicked stumble when calamity strikes.\"\n\n-- Proverbs 24:16 (NIV)" },
         { type: "encouragement", content: "The righteous man isn't the one who never falls. He's the one who keeps getting up. That's the difference. The enemy wants you to believe that falling means you're done, that you're not really a Christian, that you might as well give up. Don't believe him. Jesus knew you would fall when He went to the cross. He went anyway. Your failures don't surprise Him. What He's watching for is whether you'll get back up and come back to Him. Get up." },
         { type: "question", question: "How do you typically respond after you fail -- do you run to God or away from Him?" },
         { type: "question", question: "What does it mean that the righteous man 'rises again'? What does that look like for you?" },
@@ -1644,7 +1644,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 10,
       title: "The Long Game",
       cards: [
-        { type: "verse", content: "\"And let us not grow weary of doing good, for in due season we will reap, if we do not give up.\"\n\n-- Galatians 6:9" },
+        { type: "verse", content: "\"And let us not grow weary of doing good, for in due season we will reap, if we do not give up.\"\n\n-- Galatians 6:9 (NIV)" },
         { type: "encouragement", content: "Purity isn't a sprint. It's a marathon. And the danger isn't just falling -- it's growing weary. Getting tired of fighting. Starting to wonder if it's worth it. Paul says don't give up, because there's a harvest coming. The work you're doing now -- the boundaries you're setting, the battles you're fighting, the habits you're building -- it's producing something. You may not see it yet. But you will. Stay in the fight." },
         { type: "question", question: "Are you growing weary in this fight? What is making it feel hard to keep going?" },
         { type: "question", question: "What 'harvest' are you hoping for -- what does a life of purity look like for you in 5 or 10 years?" },
@@ -1657,7 +1657,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 11,
       title: "Identity Before Behavior",
       cards: [
-        { type: "verse", content: "\"For you are all children of God through faith in Christ Jesus.\"\n\n-- Galatians 3:26" },
+        { type: "verse", content: "\"For you are all children of God through faith in Christ Jesus.\"\n\n-- Galatians 3:26 (NIV)" },
         { type: "encouragement", content: "Here's what changes everything: you are not primarily a sinner trying to be good. You are a child of God who is learning to live like one. That's not just semantics -- it changes your whole approach to purity. You don't fight sin to earn God's love. You fight sin because you already have it. You're not trying to become someone God accepts. You're living out who you already are. That's a completely different motivation. And it's the only one that actually works long-term." },
         { type: "question", question: "Do you think of yourself primarily as a sinner or as a child of God? How does that affect how you approach temptation?" },
         { type: "question", question: "How does knowing you are already loved and accepted by God change your motivation for purity?" },
@@ -1670,7 +1670,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 12,
       title: "The Cross and Your Sin",
       cards: [
-        { type: "verse", content: "\"He himself bore our sins in his body on the cross, so that we might die to sins and live for righteousness; by his wounds you have been healed.\"\n\n-- 1 Peter 2:24" },
+        { type: "verse", content: "\"He himself bore our sins in his body on the cross, so that we might die to sins and live for righteousness; by his wounds you have been healed.\"\n\n-- 1 Peter 2:24 (NIV)" },
         { type: "encouragement", content: "Jesus didn't just forgive your sin. He bore it. He took it into His own body on the cross. Every act of lust, every compromise, every failure -- He carried it. And He did it so that you could die to sin and live for righteousness. That's the gospel. Not just that you're forgiven, but that you're being transformed. The cross isn't just your get-out-of-jail-free card. It's the power source for your new life." },
         { type: "question", question: "When you think about what Jesus did on the cross for your specific sins, what do you feel?" },
         { type: "question", question: "How does the cross motivate you to fight for purity differently than just trying to follow rules?" },
@@ -1683,7 +1683,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 13,
       title: "Walking by the Spirit",
       cards: [
-        { type: "verse", content: "\"So I say, walk by the Spirit, and you will not gratify the desires of the flesh.\"\n\n-- Galatians 5:16" },
+        { type: "verse", content: "\"So I say, walk by the Spirit, and you will not gratify the desires of the flesh.\"\n\n-- Galatians 5:16 (NIV)" },
         { type: "encouragement", content: "Paul doesn't say 'try harder not to sin.' He says walk by the Spirit. There's a difference. Trying harder is white-knuckling it -- it's all about your willpower, and your willpower will eventually run out. Walking by the Spirit is staying connected to the power source. It's prayer, Scripture, community, worship -- the things that keep you plugged in to God. When you're walking with the Spirit, the desires of the flesh lose their power. Not because you're stronger, but because He is." },
         { type: "question", question: "What does 'walking by the Spirit' look like in your daily routine?" },
         { type: "question", question: "When do you feel most disconnected from the Spirit? What leads to that?" },
@@ -1696,7 +1696,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 14,
       title: "Covenant Eyes",
       cards: [
-        { type: "verse", content: "\"I made a covenant with my eyes not to look lustfully at a young woman.\"\n\n-- Job 31:1" },
+        { type: "verse", content: "\"I made a covenant with my eyes not to look lustfully at a young woman.\"\n\n-- Job 31:1 (NIV)" },
         { type: "encouragement", content: "Job made a covenant -- a binding promise -- with his own eyes. He decided in advance, before the temptation came, what he would and wouldn't look at. That's wisdom. Most guys try to make the decision in the moment, when their emotions are high and their willpower is low. That's a losing strategy. The battle is won before it starts -- in the decisions you make when you're not tempted. What covenants do you need to make?" },
         { type: "question", question: "What specific visual temptations do you need to make a covenant about?" },
         { type: "question", question: "What decisions can you make now, before temptation comes, that will make it easier to stay pure?" },
@@ -1709,7 +1709,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 15,
       title: "Pure in Heart",
       cards: [
-        { type: "verse", content: "\"Create in me a pure heart, O God, and renew a steadfast spirit within me.\"\n\n-- Psalm 51:10" },
+        { type: "verse", content: "\"Create in me a pure heart, O God, and renew a steadfast spirit within me.\"\n\n-- Psalm 51:10 (NIV)" },
         { type: "encouragement", content: "David wrote this after the worst failure of his life -- adultery with Bathsheba, and then having her husband killed to cover it up. And what does he ask for? A pure heart. Not just forgiveness for what he did, but transformation of who he is. He knows the problem isn't just his actions -- it's his heart. And he knows he can't fix his own heart. Only God can. That's the prayer. Not 'help me do better.' But 'create in me.' Let God do the work." },
         { type: "question", question: "What does it mean to have a 'pure heart' versus just clean behavior?" },
         { type: "question", question: "Is there something in your heart -- a desire, an attitude, a pattern -- that only God can change?" },
@@ -1722,7 +1722,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 16,
       title: "The Brotherhood of Accountability",
       cards: [
-        { type: "verse", content: "\"As iron sharpens iron, so one person sharpens another.\"\n\n-- Proverbs 27:17" },
+        { type: "verse", content: "\"As iron sharpens iron, so one person sharpens another.\"\n\n-- Proverbs 27:17 (NIV)" },
         { type: "encouragement", content: "You were not made to fight this battle alone. God designed you to need other men -- not just for fun, but for sharpening. Iron sharpens iron. That means friction. Real accountability isn't comfortable. It asks hard questions. It doesn't let you off the hook. It tells you the truth when you don't want to hear it. But it also stands with you. It prays for you. It doesn't walk away when you fail. Find that kind of brother. Be that kind of brother." },
         { type: "question", question: "Do you have a friend who sharpens you -- who challenges you toward godliness? If not, what's stopping you from finding one?" },
         { type: "question", question: "What would real accountability look like in your life -- what questions would you want someone to ask you?" },
@@ -1735,7 +1735,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 17,
       title: "Honoring Women",
       cards: [
-        { type: "verse", content: "\"Treat younger women as sisters, with absolute purity.\"\n\n-- 1 Timothy 5:2" },
+        { type: "verse", content: "\"Treat younger women as sisters, with absolute purity.\"\n\n-- 1 Timothy 5:2 (NIV)" },
         { type: "encouragement", content: "Paul's instruction is simple and radical: treat younger women as sisters. Not as objects. Not as conquests. Not as entertainment. As sisters -- with the same care, respect, and protection you'd want for your own sister. Purity isn't just about what you don't do. It's about how you see people. When you look at a girl, do you see a person made in the image of God, or do you see something for your own pleasure? The way you see people shapes the way you treat them." },
         { type: "question", question: "How does thinking of girls as sisters change how you look at them or talk about them?" },
         { type: "question", question: "In what ways has culture shaped how you see and treat women? How does that compare to what Scripture says?" },
@@ -1748,7 +1748,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 18,
       title: "What You're Really Hungry For",
       cards: [
-        { type: "verse", content: "\"Jesus answered, 'Everyone who drinks this water will be thirsty again, but whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life.'\n\n-- John 4:13-14" },
+        { type: "verse", content: "\"Jesus answered, 'Everyone who drinks this water will be thirsty again, but whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life.'\n\n-- John 4:13-14 (NIV)" },
         { type: "encouragement", content: "Lust promises to satisfy a real hunger -- for connection, for significance, for pleasure. But it never delivers. You always come back thirsty. Jesus said He is the living water. The hunger underneath your temptation is real -- but the thing you're reaching for isn't the right thing. Piper says it like this: the battle for purity is ultimately a battle for joy. You don't fight lust by hating pleasure -- you fight it by finding something better. And there is nothing better than Jesus." },
         { type: "question", question: "What deeper need -- connection, comfort, significance, escape -- is underneath your temptation toward lust?" },
         { type: "question", question: "How have you tried to fill that need with things other than Jesus? How has that worked out?" },
@@ -1761,7 +1761,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 19,
       title: "Freedom Is Possible",
       cards: [
-        { type: "verse", content: "\"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.\"\n\n-- Galatians 5:1" },
+        { type: "verse", content: "\"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.\"\n\n-- Galatians 5:1 (NIV)" },
         { type: "encouragement", content: "Jesus didn't die to make you a slightly better version of a slave. He died to set you free. Paul says stand firm in that freedom -- don't go back. Some of you have been fighting this battle so long you've started to believe you'll never be free. That's a lie. The same power that raised Jesus from the dead is at work in you (Romans 8:11). Freedom isn't the absence of temptation. It's the ability to say no to it. And that ability comes from Christ, not from you. You are not your sin. You are who Jesus says you are." },
         { type: "question", question: "Do you actually believe freedom from this struggle is possible for you? Why or why not?" },
         { type: "question", question: "What would your life look like -- your relationship with God, your confidence, your relationships -- if you were walking in freedom?" },
@@ -1774,7 +1774,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 20,
       title: "Keep Running",
       cards: [
-        { type: "verse", content: "\"Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith.\"\n\n-- Hebrews 12:1-2" },
+        { type: "verse", content: "\"Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith.\"\n\n-- Hebrews 12:1-2 (NIV)" },
         { type: "encouragement", content: "This is the whole thing right here. Throw off what hinders you. Run with perseverance. And fix your eyes on Jesus. Not on your performance. Not on your failures. Not on what other people think. On Jesus. He is the pioneer -- He ran this race first and finished it. He is the perfecter -- He will finish what He started in you. You are going to stumble. You are going to have hard days. But you keep getting up. You keep running. You keep your eyes on Him. That is what faithfulness looks like. Not perfection. Perseverance." },
         { type: "question", question: "What is the biggest thing that 'hinders' you in your pursuit of purity right now?" },
         { type: "question", question: "What does it mean practically to 'fix your eyes on Jesus' when you're in the middle of a hard moment?" },
@@ -1790,7 +1790,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 6,
       title: "The Strength of Humility",
       cards: [
-        { type: "verse", content: "\"God opposes the proud but shows favor to the humble.\"\n\n-- James 4:6" },
+        { type: "verse", content: "\"God opposes the proud but shows favor to the humble.\"\n\n-- James 4:6 (NIV)" },
         { type: "encouragement", content: "James says God opposes the proud. That's a terrifying statement. The man who is puffed up with his own strength is fighting against God. But the man who is humble -- who knows his strength comes from God -- receives God's favor. Humility is not weakness. It's the most accurate view of reality: you are a creature, God is the Creator. Jesus, the most powerful person who ever lived, said 'I am gentle and humble in heart.' Humility is the posture of the strong man who knows where his strength comes from." },
         { type: "question", question: "Where does pride show up most in your life?" },
         { type: "question", question: "What is the difference between confidence and arrogance?" },
@@ -1803,7 +1803,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 7,
       title: "Strength Under Pressure",
       cards: [
-        { type: "verse", content: "\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\"\n\n-- James 1:2-3" },
+        { type: "verse", content: "\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\"\n\n-- James 1:2-3 (NIV)" },
         { type: "encouragement", content: "James says trials produce perseverance. Pressure reveals and builds character. The man who has never been tested doesn't know what he's made of. The man who has been through the fire and come out the other side knows something about himself -- and about God -- that can't be learned any other way. Jesus was tested in the wilderness for forty days. He was tested in the garden of Gethsemane. He was tested on the cross. He passed every test. His strength under pressure is available to you." },
         { type: "question", question: "What trial or pressure are you currently facing?" },
         { type: "question", question: "What has a past trial revealed about your character -- good or bad?" },
@@ -1816,7 +1816,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 8,
       title: "The Strength to Forgive",
       cards: [
-        { type: "verse", content: "\"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.\"\n\n-- Ephesians 4:32" },
+        { type: "verse", content: "\"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.\"\n\n-- Ephesians 4:32 (NIV)" },
         { type: "encouragement", content: "Forgiveness is one of the strongest things a man can do. It's not weakness -- it takes enormous strength to release someone who has wronged you. Paul says forgive as God forgave you. That's the standard: unconditional, undeserved, costly. Jesus forgave the people who were crucifying Him while they were doing it. That's not weakness. That's the most powerful act of love in human history. The man who can forgive is the man who is free -- free from bitterness, free from the past, free to move forward." },
         { type: "question", question: "Is there someone you're holding unforgiveness toward?" },
         { type: "question", question: "Why does forgiveness require strength rather than weakness?" },
@@ -1829,7 +1829,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 9,
       title: "Strength in Community",
       cards: [
-        { type: "verse", content: "\"Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up.\"\n\n-- Ecclesiastes 4:9-10" },
+        { type: "verse", content: "\"Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up.\"\n\n-- Ecclesiastes 4:9-10 (NIV)" },
         { type: "encouragement", content: "Solomon says two are better than one. The man who tries to be strong alone is the man who falls with no one to help him up. Strength in isolation is fragile. Strength in community is durable. Jesus didn't go through His ministry alone -- He had twelve men around Him. He shared meals, traveled together, prayed together. Even in the garden, He asked His disciples to watch with Him. You were not designed to be strong alone. Find your brothers." },
         { type: "question", question: "Do you have men in your life who know your real struggles and can help you up when you fall?" },
         { type: "question", question: "What keeps you from being vulnerable with other men?" },
@@ -1842,7 +1842,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 10,
       title: "Strength and Self-Control",
       cards: [
-        { type: "verse", content: "\"Better a patient person than a warrior, one with self-control than one who takes a city.\"\n\n-- Proverbs 16:32" },
+        { type: "verse", content: "\"Better a patient person than a warrior, one with self-control than one who takes a city.\"\n\n-- Proverbs 16:32 (NIV)" },
         { type: "encouragement", content: "Solomon says self-control is more powerful than military conquest. The man who can control himself is stronger than the man who can defeat an army. Self-control is the foundation of all other strength. Without it, your physical strength becomes dangerous, your intelligence becomes manipulation, your passion becomes destruction. Jesus had complete self-control. He could have called ten thousand angels. He chose not to. That restraint was not weakness -- it was the most powerful choice ever made." },
         { type: "question", question: "Where is your self-control weakest right now?" },
         { type: "question", question: "How does a lack of self-control undermine your other strengths?" },
@@ -1855,7 +1855,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 11,
       title: "Strength to Serve",
       cards: [
-        { type: "verse", content: "\"For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.\"\n\n-- Mark 10:45" },
+        { type: "verse", content: "\"For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.\"\n\n-- Mark 10:45 (NIV)" },
         { type: "encouragement", content: "Jesus came to serve. The King of the universe washed feet. He healed the sick, fed the hungry, touched the untouchable. He gave His life. That's the model for strength: not strength that demands to be served, but strength that chooses to serve. The man who uses his strength to serve others is the man who reflects the character of Jesus. The man who uses his strength to demand service from others has missed the point entirely." },
         { type: "question", question: "How do you currently use your strength -- to serve others or to get what you want?" },
         { type: "question", question: "Who is one person in your life you could serve more intentionally?" },
@@ -1868,7 +1868,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 12,
       title: "Strength After Failure",
       cards: [
-        { type: "verse", content: "\"For though the righteous fall seven times, they rise again.\"\n\n-- Proverbs 24:16" },
+        { type: "verse", content: "\"For though the righteous fall seven times, they rise again.\"\n\n-- Proverbs 24:16 (NIV)" },
         { type: "encouragement", content: "The righteous man falls seven times and gets back up. That's not a statement about how many times you can fail -- it's a statement about resilience. The strong man is not the man who never falls. He's the man who always gets back up. Peter denied Jesus three times. Jesus restored him and gave him a mission. Paul persecuted Christians. Jesus transformed him into the greatest missionary who ever lived. Your failure is not the end of your story. Get back up." },
         { type: "question", question: "What failure in your life has made you most afraid to try again?" },
         { type: "question", question: "How do you typically respond to failure -- do you get back up, or do you stay down?" },
@@ -1881,7 +1881,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 13,
       title: "Strength in Prayer",
       cards: [
-        { type: "verse", content: "\"I can do all this through him who gives me strength.\"\n\n-- Philippians 4:13" },
+        { type: "verse", content: "\"I can do all this through him who gives me strength.\"\n\n-- Philippians 4:13 (NIV)" },
         { type: "encouragement", content: "Paul says he can do all things through Christ who strengthens him. This verse is often quoted out of context -- Paul is not talking about athletic achievement. He's talking about contentment in any circumstance: plenty or want, freedom or prison. The strength he's describing comes through Christ, not through himself. Prayer is the channel through which that strength flows. The man who prays is the man who is connected to the source of all strength. The man who doesn't pray is fighting alone." },
         { type: "question", question: "What does your prayer life look like right now -- is it a source of strength or an afterthought?" },
         { type: "question", question: "What situation are you facing right now that you need Christ's strength for?" },
@@ -1894,7 +1894,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 14,
       title: "The Strength of Patience",
       cards: [
-        { type: "verse", content: "\"Be completely humble and gentle; be patient, bearing with one another in love.\"\n\n-- Ephesians 4:2" },
+        { type: "verse", content: "\"Be completely humble and gentle; be patient, bearing with one another in love.\"\n\n-- Ephesians 4:2 (NIV)" },
         { type: "encouragement", content: "Patience is a form of strength. It's the ability to endure difficulty, frustration, or delay without losing your composure. Paul says be patient, bearing with one another in love. That word 'bearing' means carrying a weight. Patience is carrying the weight of other people's imperfections without dropping them. Jesus was patient with His disciples -- with their slowness to understand, their failures, their arguments about who was greatest. He bore with them in love. That's the model." },
         { type: "question", question: "Where is your patience most tested -- with people, with circumstances, or with God's timing?" },
         { type: "question", question: "What does impatience reveal about what you're trusting in?" },
@@ -1907,7 +1907,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 15,
       title: "Strength and Integrity",
       cards: [
-        { type: "verse", content: "\"The man of integrity walks securely, but he who takes crooked paths will be found out.\"\n\n-- Proverbs 10:9" },
+        { type: "verse", content: "\"The man of integrity walks securely, but he who takes crooked paths will be found out.\"\n\n-- Proverbs 10:9 (NIV)" },
         { type: "encouragement", content: "Solomon says the man of integrity walks securely. There's a strength that comes from having nothing to hide. No double life, no secrets, no fear of being found out. The man who lives with integrity is the man who can look anyone in the eye. Jesus walked with complete security -- He had nothing to hide, nothing to fear, nothing to prove. That security is one of the most attractive qualities a man can have. It comes from integrity." },
         { type: "question", question: "Is there a gap between who you are in public and who you are in private?" },
         { type: "question", question: "How does integrity produce security and strength?" },
@@ -1920,7 +1920,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 16,
       title: "Strength to Lead",
       cards: [
-        { type: "verse", content: "\"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.\"\n\n-- Joshua 1:9" },
+        { type: "verse", content: "\"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.\"\n\n-- Joshua 1:9 (NIV)" },
         { type: "encouragement", content: "Leadership requires strength. Not the strength of dominance, but the strength of direction. The man who leads well is the man who goes first -- who makes the hard call, who sets the tone, who takes responsibility. God told Joshua to be strong and courageous because leadership is hard. It requires going into territory you've never been in before. But God's promise is the same: I will be with you. You don't have to lead perfectly. You have to lead faithfully." },
         { type: "question", question: "Where are you currently called to lead -- a team, a family, a friend group?" },
         { type: "question", question: "What is the biggest challenge you face in leading well?" },
@@ -1933,7 +1933,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 17,
       title: "Strength and Generosity",
       cards: [
-        { type: "verse", content: "\"Command them to do good, to be rich in good deeds, and to be generous and willing to share.\"\n\n-- 1 Timothy 6:18" },
+        { type: "verse", content: "\"Command them to do good, to be rich in good deeds, and to be generous and willing to share.\"\n\n-- 1 Timothy 6:18 (NIV)" },
         { type: "encouragement", content: "Generosity is a form of strength. The stingy man is the fearful man -- he hoards because he's afraid there won't be enough. The generous man is the trusting man -- he gives because he believes God will provide. Paul tells Timothy to command the wealthy to be generous. Jesus gave everything. He said where your treasure is, your heart will be. The strong man is generous because he's not controlled by his possessions. He holds them loosely." },
         { type: "question", question: "Are you generous with your money, your time, and your energy?" },
         { type: "question", question: "What does stinginess reveal about what you're trusting in?" },
@@ -1946,7 +1946,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 18,
       title: "Strength in Suffering",
       cards: [
-        { type: "verse", content: "\"For our light and momentary troubles are achieving for us an eternal glory that far outweighs them all.\"\n\n-- 2 Corinthians 4:17" },
+        { type: "verse", content: "\"For our light and momentary troubles are achieving for us an eternal glory that far outweighs them all.\"\n\n-- 2 Corinthians 4:17 (NIV)" },
         { type: "encouragement", content: "Paul calls his troubles 'light and momentary' -- and he was talking about beatings, shipwrecks, and imprisonment. His ability to minimize his suffering wasn't denial. It was perspective. He could see the eternal weight of glory on the other side. That perspective is what produces strength in suffering. Jesus endured the cross for the joy set before Him. He could see past the suffering to the resurrection. That same perspective is available to you. Your suffering is not wasted. It's achieving something eternal." },
         { type: "question", question: "What suffering are you currently enduring?" },
         { type: "question", question: "How does an eternal perspective change how you experience present suffering?" },
@@ -1959,7 +1959,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 19,
       title: "Strength to Finish",
       cards: [
-        { type: "verse", content: "\"I have fought the good fight, I have finished the race, I have kept the faith.\"\n\n-- 2 Timothy 4:7" },
+        { type: "verse", content: "\"I have fought the good fight, I have finished the race, I have kept the faith.\"\n\n-- 2 Timothy 4:7 (NIV)" },
         { type: "encouragement", content: "Paul finished. He didn't just start well -- he finished. That's the goal. Not to be impressive at the beginning, not to have a great reputation in the middle, but to finish. The strength to finish is different from the strength to start. It's the strength of perseverance, of faithfulness, of refusing to quit when everything in you wants to stop. Jesus finished. He said 'It is finished' from the cross. He didn't give up. He completed the mission. That's the model." },
         { type: "question", question: "Are you building the kind of strength that will help you finish well?" },
         { type: "question", question: "What does 'finishing well' look like for you in your faith, your relationships, your work?" },
@@ -1972,7 +1972,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 20,
       title: "Strength That Glorifies God",
       cards: [
-        { type: "verse", content: "\"So whether you eat or drink or whatever you do, do it all for the glory of God.\"\n\n-- 1 Corinthians 10:31" },
+        { type: "verse", content: "\"So whether you eat or drink or whatever you do, do it all for the glory of God.\"\n\n-- 1 Corinthians 10:31 (NIV)" },
         { type: "encouragement", content: "Paul says do everything for the glory of God. That includes how you use your strength. Your physical strength, your mental strength, your emotional strength -- all of it is a gift from God, and all of it can be used to glorify Him. The man who uses his strength for his own glory is wasting it. The man who uses his strength for God's glory is living the life he was made for. Jesus used every ounce of His strength for the Father's glory. That's the model. That's the goal." },
         { type: "question", question: "Are you using your strength for your own glory or for God's?" },
         { type: "question", question: "How has this series changed how you think about strength?" },
