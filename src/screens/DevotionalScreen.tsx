@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { ArrowLeft, ChevronRight, ChevronLeft, MessageSquare, CheckCircle } from 'lucide-react';
 import { MERGED_TOPICS } from '../data/merged-topics';
-import { DevotionalCard } from '../data/devotionals';
+import type { DevotionalCard } from '../data/devotionals';
 import {
   markDayComplete, saveAnswers, getAnswersForDay,
   recordStreakActivity, getTopicProgress, getMentor,
@@ -51,7 +51,6 @@ export default function DevotionalScreen() {
   const isLast = cardIndex === cards.length - 1;
 
   // Track question index
-  const questionCards = cards.filter((c) => c.type === 'question');
   const questionIndex = cards
     .slice(0, cardIndex + 1)
     .filter((c) => c.type === 'question').length - 1;

@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Share2, X } from 'lucide-react';
-import { getAllAnswers, DayAnswers, getMentor } from '../lib/storage';
+import { getAllAnswers, getMentor } from '../lib/storage';
+import type { DayAnswers } from '../lib/storage';
 
 export default function JournalScreen() {
   const [entries, setEntries] = useState<DayAnswers[]>([]);
