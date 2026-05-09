@@ -160,6 +160,20 @@ export default function HomeScreen() {
             );
           })}
         </div>
+
+        {/* Disclaimer */}
+        <p style={{
+          fontSize: 11,
+          color: 'var(--text-muted)',
+          lineHeight: 1.65,
+          textAlign: 'center',
+          paddingTop: 16,
+          paddingBottom: 24,
+          borderTop: '1px solid var(--border)',
+          marginTop: 8,
+        }}>
+          The devotional content in this app was developed with AI assistance, shaped around biblical truth and the real challenges young men face. The vision, structure, and heart behind it are my own.
+        </p>
       </div>
     </div>
   );
