@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import { ArrowLeft, ChevronRight, ChevronLeft, MessageSquare, CheckCircle } from 'lucide-react';
+import { ArrowLeft, ChevronRight, ChevronLeft, MessageSquare, CheckCircle, Flame } from 'lucide-react';
 import { MERGED_TOPICS } from '../data/merged-topics';
 import type { DevotionalCard } from '../data/devotionals';
 import {
@@ -48,7 +48,6 @@ export default function DevotionalScreen() {
   const cards = devotionalDay.cards;
   const currentCard = cards[cardIndex];
   const isFirst = cardIndex === 0;
-  const isLast = cardIndex === cards.length - 1;
 
   // Track question index
   const questionIndex = cards
@@ -78,7 +77,7 @@ export default function DevotionalScreen() {
     if (doneCount === topic.days.length) {
       setShowCelebration(true);
     } else {
-      navigate(`/topic/${topic.id}`);
+      navigate(`/devotions/topic/${topic.id}`);
     }
   };
 
@@ -110,7 +109,7 @@ export default function DevotionalScreen() {
       <div style={{ padding: '16px 16px 12px', flexShrink: 0 }}>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
           <button
-            onClick={() => navigate(`/topic/${topic.id}`)}
+            onClick={() => navigate(`/devotions/topic/${topic.id}`)}
             style={{ display: 'flex', alignItems: 'center', gap: 4, color: 'var(--text-muted)', fontSize: 14, background: 'none', border: 'none', cursor: 'pointer' }}
           >
             <ArrowLeft size={18} />
@@ -126,7 +125,7 @@ export default function DevotionalScreen() {
         </div>
         <div style={{ marginTop: 10 }}>
           <p style={{ fontSize: 11, color: 'var(--primary)', fontWeight: 800, textTransform: 'uppercase', letterSpacing: 1 }}>
-            {topic.title} . Day {dayNum}
+            {topic.title} · Day {dayNum}
           </p>
           <p style={{ fontSize: 16, fontWeight: 800, color: 'var(--text)', marginTop: 2 }}>
             {devotionalDay.title}
@@ -150,7 +149,7 @@ export default function DevotionalScreen() {
           <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
             <button className="btn-primary" onClick={handleComplete}>
               <CheckCircle size={18} />
-              Mark Complete
+              Mark Complete &amp; Continue
             </button>
             <button
               className="btn-secondary"
@@ -177,14 +176,14 @@ export default function DevotionalScreen() {
               style={{ flex: 2 }}
               onClick={() => setCardIndex((i) => i + 1)}
             >
-              {isLast ? 'Finish' : 'Next'}
+              Next
               <ChevronRight size={18} />
             </button>
           </div>
         )}
       </div>
 
-      {/* Celebration overlay */}
+      {/* Topic-complete celebration overlay */}
       {showCelebration && (
         <div style={{
           position: 'absolute', inset: 0, background: 'rgba(0,0,0,0.92)',
@@ -192,7 +191,7 @@ export default function DevotionalScreen() {
           justifyContent: 'center', padding: 32, zIndex: 100,
         }}>
           <div className="animate-scale" style={{ textAlign: 'center' }}>
-            <div style={{ fontSize: 72, marginBottom: 16 }}></div>
+            <div style={{ fontSize: 72, marginBottom: 16 }}>🔥</div>
             <h2 style={{ fontSize: 26, fontWeight: 900, color: 'var(--primary)', marginBottom: 8 }}>
               Topic Complete!
             </h2>
@@ -201,13 +200,13 @@ export default function DevotionalScreen() {
             </p>
             {streak > 0 && (
               <p style={{ fontSize: 14, color: 'var(--text-muted)', marginBottom: 16 }}>
-                 {streak}-day streak
+                🔥 {streak}-day streak
               </p>
             )}
             <p style={{ fontSize: 13, color: 'var(--text-muted)', fontStyle: 'italic', marginBottom: 32, lineHeight: 1.6 }}>
-              "Well done, good and faithful servant!" -- Matthew 25:23
+              "Well done, good and faithful servant!" — Matthew 25:23
             </p>
-            <button className="btn-primary" onClick={() => navigate('/')}>
+            <button className="btn-primary" onClick={() => navigate('/devotions')}>
               Back to Topics
             </button>
           </div>
@@ -232,7 +231,7 @@ function CardView({
     return (
       <div className="card animate-fade" style={{ borderLeftWidth: 4, borderLeftColor: 'var(--primary)', padding: 20 }}>
         <p style={{ fontSize: 10, fontWeight: 800, letterSpacing: 2, color: 'var(--primary)', textTransform: 'uppercase', marginBottom: 16 }}>
-           Scripture
+          📖 Scripture
         </p>
         <p style={{ fontSize: 18, lineHeight: 1.7, fontStyle: 'italic', color: 'var(--text)', whiteSpace: 'pre-line' }}>
           {card.content}
@@ -245,7 +244,7 @@ function CardView({
     return (
       <div className="card animate-fade" style={{ padding: 20 }}>
         <p style={{ fontSize: 10, fontWeight: 800, letterSpacing: 2, color: 'var(--primary)', textTransform: 'uppercase', marginBottom: 16 }}>
-           Word for Today
+          💪 Word for Today
         </p>
         <p style={{ fontSize: 16, lineHeight: 1.75, color: 'var(--text)' }}>
           {card.content}
@@ -259,7 +258,7 @@ function CardView({
       <div className="animate-fade" style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
         <div className="card" style={{ padding: 20 }}>
           <p style={{ fontSize: 10, fontWeight: 800, letterSpacing: 2, color: 'var(--primary)', textTransform: 'uppercase', marginBottom: 12 }}>
-             Reflect
+            🤔 Reflect
           </p>
           <p style={{ fontSize: 16, fontWeight: 700, color: 'var(--text)', lineHeight: 1.5 }}>
             {card.question}
@@ -281,7 +280,7 @@ function CardView({
     return (
       <div className="card animate-fade" style={{ borderLeftWidth: 4, borderLeftColor: 'var(--warning)', padding: 20 }}>
         <p style={{ fontSize: 10, fontWeight: 800, letterSpacing: 2, color: 'var(--warning)', textTransform: 'uppercase', marginBottom: 16 }}>
-           Call to Action
+          ⚡ Call to Action
         </p>
         <p style={{ fontSize: 16, lineHeight: 1.75, color: 'var(--text)' }}>
           {card.content}
@@ -291,18 +290,76 @@ function CardView({
   }
 
   if (card.type === 'complete') {
-    return (
-      <div className="card animate-fade" style={{ textAlign: 'center', padding: 32 }}>
-        <div style={{ fontSize: 56, marginBottom: 16 }}></div>
-        <h3 style={{ fontSize: 22, fontWeight: 900, color: 'var(--text)', marginBottom: 8 }}>
-          Day Complete!
-        </h3>
-        <p style={{ fontSize: 14, color: 'var(--text-muted)', lineHeight: 1.6 }}>
-          Great work. Your reflections are saved. You can text them to your mentor below.
-        </p>
-      </div>
-    );
+    return <DayCompleteCard />;
   }
 
   return null;
+}
+
+function DayCompleteCard() {
+  const [pulse, setPulse] = useState(false);
+
+  useEffect(() => {
+    // Trigger pulse animation on mount
+    const t1 = setTimeout(() => setPulse(true), 100);
+    const t2 = setTimeout(() => setPulse(false), 700);
+    const t3 = setTimeout(() => setPulse(true), 900);
+    const t4 = setTimeout(() => setPulse(false), 1500);
+    return () => { clearTimeout(t1); clearTimeout(t2); clearTimeout(t3); clearTimeout(t4); };
+  }, []);
+
+  return (
+    <div className="card animate-fade" style={{ textAlign: 'center', padding: '40px 24px' }}>
+      {/* Flame icon with pulse */}
+      <div style={{
+        display: 'flex',
+        justifyContent: 'center',
+        marginBottom: 20,
+        transition: 'transform 0.3s ease, opacity 0.3s ease',
+        transform: pulse ? 'scale(1.25)' : 'scale(1)',
+        opacity: pulse ? 1 : 0.85,
+      }}>
+        <div style={{
+          width: 80,
+          height: 80,
+          borderRadius: '50%',
+          background: 'radial-gradient(circle, rgba(192,57,43,0.3) 0%, rgba(192,57,43,0.05) 70%)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          border: '2px solid var(--primary)',
+        }}>
+          <Flame size={40} color="var(--primary)" />
+        </div>
+      </div>
+
+      {/* Checkmark badge */}
+      <div style={{ display: 'flex', justifyContent: 'center', marginBottom: 16 }}>
+        <div style={{
+          display: 'flex',
+          alignItems: 'center',
+          gap: 6,
+          background: 'rgba(39,174,96,0.15)',
+          border: '1px solid var(--success)',
+          borderRadius: 20,
+          padding: '6px 14px',
+        }}>
+          <CheckCircle size={16} color="var(--success)" />
+          <span style={{ fontSize: 13, fontWeight: 800, color: 'var(--success)', letterSpacing: 0.5 }}>
+            Day Complete
+          </span>
+        </div>
+      </div>
+
+      <h3 style={{ fontSize: 22, fontWeight: 900, color: 'var(--text)', marginBottom: 10 }}>
+        Well done.
+      </h3>
+      <p style={{ fontSize: 15, color: 'var(--text-muted)', lineHeight: 1.65, marginBottom: 20 }}>
+        Your reflections are saved. You can send them to your mentor, or mark this day complete and keep going.
+      </p>
+      <p style={{ fontSize: 13, fontStyle: 'italic', color: 'var(--primary)', lineHeight: 1.6 }}>
+        "As iron sharpens iron, so one person sharpens another." — Proverbs 27:17 (NIV)
+      </p>
+    </div>
+  );
 }
