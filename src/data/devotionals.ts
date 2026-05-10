@@ -105,7 +105,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
         title: "Strength That Comes from God",
         cards: [
           { type: "verse", content: "\"The Lord is my strength and my shield; my heart trusts in him, and he helps me.\"\n\n-- Psalm 28:7 (NIV)" },
-          { type: "encouragement", content: "David didn't say 'I am strong.' He said 'The Lord is my strength.' That's a completely different statement. The man who says 'I am strong' is one bad day away from collapse. The man who says 'The Lord is my strength' has a foundation that doesn't move. Jesus said 'Apart from me you can do nothing.' That's not an insult -- it's an invitation. Your strength is not the problem. The source of your strength is. When you draw from God, you have access to something that never runs out." },
+          { type: "encouragement", content: "'The Lord is my strength', David says. David recognizes that any strength he has isn't of his own, but from God. A man who believes he's strong enough on his own lives to prove himself to others. The man who says 'The Lord is my strength' builds his life on an unshakable foundation. Your strength isn't the problem, it's the source. When your strength comes from God, you have access to something that never runs out." },
           { type: "question", question: "Where do you typically draw your strength from -- yourself, other people, or God?" },
           { type: "question", question: "What happens when you try to be strong in your own power?" },
           { type: "question", question: "How does trusting God as your strength change how you face hard situations?" },
@@ -118,7 +118,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
         title: "Strength to Protect",
         cards: [
           { type: "verse", content: "\"Speak up for those who cannot speak for themselves, for the rights of all who are destitute.\"\n\n-- Proverbs 31:8 (NIV)" },
-          { type: "encouragement", content: "God gave you strength for a reason: to protect and serve those who are weaker. This is not strength for domination -- it's strength for protection. Jesus used His power to heal the sick, defend the accused, and lift up the broken. He never used His strength to intimidate or control. The strongest man in the room is the one who uses his strength to make others feel safe, not threatened. Who in your life needs you to show up for them?" },
+          { type: "encouragement", content: "The world views strength as a tool to gain power. To dominate over others. Jesus, on the other hand, had all the strength in the world at his fingertips and only ever used it to serve, heal, defend, encourage, and teach. He never used his strength as a show of power, even to the point of death on a cross. The strongest man in the room is the one who uses his strength to serve others rather than himself." },
           { type: "question", question: "Who in your life is weaker or more vulnerable and needs your protection?" },
           { type: "question", question: "Have you ever used your strength or influence to intimidate or control someone?" },
           { type: "question", question: "How does Jesus' use of power -- always for others, never for Himself -- challenge how you use yours?" },
@@ -131,7 +131,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
         title: "Courage to Stand Alone",
         cards: [
           { type: "verse", content: "\"Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.\"\n\n-- Joshua 1:9 (NIV)" },
-          { type: "encouragement", content: "God told Joshua to be strong and courageous four times in one chapter. Why? Because Joshua was terrified. He was stepping into Moses' shoes, leading a nation into enemy territory. God's answer wasn't a battle plan -- it was a promise: I will be with you. The courage to stand alone doesn't come from confidence in yourself. It comes from confidence in who is with you. Jesus stood alone against the religious establishment, the political powers, and death itself. He wasn't fearless. He was faithful." },
+          { type: "encouragement", content: "In this one chapter, God told Joshua to be strong and courageous four different times. Joshua was taking the charge, leading God's people into enemy territory... he was terrified. God didn't settle Joshua with a battle plan. He did so with a promise to never leave him or forsake him. The promise of God's presence. The courage to stand alone doesn't come from confidence in yourself, rather confidence in God's never-ending presence." },
           { type: "question", question: "When have you felt pressured to go along with the crowd against your values?" },
           { type: "question", question: "What does it look like to stand alone for what is right in your specific context?" },
           { type: "question", question: "How does God's promise 'I will be with you' give you the courage to stand alone?" },
@@ -144,7 +144,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
         title: "Endurance in the Grind",
         cards: [
           { type: "verse", content: "\"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\"\n\n-- Galatians 6:9 (NIV)" },
-          { type: "encouragement", content: "Strength is not just about dramatic moments of courage. It's about the daily grind of not giving up. Paul says don't grow weary in doing good -- there's a harvest coming. The man who shows up every day, who does the work when no one is watching, who keeps going when he doesn't feel like it -- that man is building something. Jesus endured the cross for the joy set before Him. He kept going. That same endurance is available to you through the Spirit." },
+          { type: "encouragement", content: "Strength isn't about dramatic moments of courage and might. Strength is the daily grind of not giving up. Paul knew that Christians would grow tired of doing good with (seemingly) little to no results at times. That's why he reminds us that if we don't give up, if we keep pressing in, we'll see the harvest... all that God is doing in and through us. Jesus endured the cross to see God's people saved. That same endurance is available to you through the Holy Spirit." },
           { type: "question", question: "What is something you feel like giving up on right now?" },
           { type: "question", question: "Why is endurance often harder than a single dramatic act of courage?" },
           { type: "question", question: "How does the promise of a harvest change how you approach the daily grind?" },
@@ -157,7 +157,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
         title: "Strength in Weakness",
         cards: [
           { type: "verse", content: "\"But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me.\"\n\n-- 2 Corinthians 12:9 (NIV)" },
-          { type: "encouragement", content: "Paul had a thorn in the flesh -- some weakness he begged God to remove. God said no. And then He said something remarkable: my power is made perfect in weakness. The man who admits his weakness is the man through whom God can work most powerfully. The world says hide your weakness. God says your weakness is where I show up. Jesus, the Son of God, died on a cross -- the ultimate image of weakness. And through that weakness, He conquered death. Don't hide your weakness. Bring it to God." },
+          { type: "encouragement", content: "The world says hide your weakness. God says your weakness is where I show up. The man who admits his weakness is the man who truly sees what God can do in and through him. Jesus went to the cross, the ultimate weakness. Yet, through that weakness, He conquered death. Don't hide your weakness, bring it to God instead and watch him use it for your good." },
           { type: "question", question: "What weakness do you try hardest to hide from others?" },
           { type: "question", question: "Why is it so hard to admit weakness? What are you afraid of?" },
           { type: "question", question: "How does God's promise to work through weakness change how you see your limitations?" },

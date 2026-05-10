@@ -1791,7 +1791,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "The Strength of Humility",
       cards: [
         { type: "verse", content: "\"God opposes the proud but shows favor to the humble.\"\n\n-- James 4:6 (NIV)" },
-        { type: "encouragement", content: "James says God opposes the proud. That's a terrifying statement. The man who is puffed up with his own strength is fighting against God. But the man who is humble -- who knows his strength comes from God -- receives God's favor. Humility is not weakness. It's the most accurate view of reality: you are a creature, God is the Creator. Jesus, the most powerful person who ever lived, said 'I am gentle and humble in heart.' Humility is the posture of the strong man who knows where his strength comes from." },
+        { type: "encouragement", content: "Three days ago you saw how your confidence rests in God's strength and not your own. Today you'll see that recognizing this strength from God also allows you to receive his favor. Humility is not weakness, it's the most accurate view of reality. You are weak, He is strong. You are created, He is creator. Even Jesus, being fully God said 'I am gentle and humble in heart'. Humility is what you see when a man knows where is strength truly comes from." },
         { type: "question", question: "Where does pride show up most in your life?" },
         { type: "question", question: "What is the difference between confidence and arrogance?" },
         { type: "question", question: "How does humility actually make you stronger, not weaker?" },
@@ -1804,7 +1804,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Strength Under Pressure",
       cards: [
         { type: "verse", content: "\"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.\"\n\n-- James 1:2-3 (NIV)" },
-        { type: "encouragement", content: "James says trials produce perseverance. Pressure reveals and builds character. The man who has never been tested doesn't know what he's made of. The man who has been through the fire and come out the other side knows something about himself -- and about God -- that can't be learned any other way. Jesus was tested in the wilderness for forty days. He was tested in the garden of Gethsemane. He was tested on the cross. He passed every test. His strength under pressure is available to you." },
+        { type: "encouragement", content: "True strength isn't tested by physical means, it's tested by the pressures of life. James reminds us that these pressures, or trials, should be seen as a blessing because they provide us opportunities to see just how strong our faith in Jesus has become. They show what you're really made of. The man who has been through the fire and comes out the other side knows something about himself and about God. Will you try to force your way to circumstantial relief, or will you look to Jesus and be satisfied, regardless of your circumstances." },
         { type: "question", question: "What trial or pressure are you currently facing?" },
         { type: "question", question: "What has a past trial revealed about your character -- good or bad?" },
         { type: "question", question: "How does knowing trials produce perseverance change how you face them?" },
@@ -1817,7 +1817,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "The Strength to Forgive",
       cards: [
         { type: "verse", content: "\"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.\"\n\n-- Ephesians 4:32 (NIV)" },
-        { type: "encouragement", content: "Forgiveness is one of the strongest things a man can do. It's not weakness -- it takes enormous strength to release someone who has wronged you. Paul says forgive as God forgave you. That's the standard: unconditional, undeserved, costly. Jesus forgave the people who were crucifying Him while they were doing it. That's not weakness. That's the most powerful act of love in human history. The man who can forgive is the man who is free -- free from bitterness, free from the past, free to move forward." },
+        { type: "encouragement", content: "It takes incredible strength to release someone who has wronged you. Paul says forgive as God forgave you. Do they deserve it? Did they earn it? NO!... but neither did you and Jesus suffered and died so that you'd be forgiven. That's the unconditional, undeserved, and costly standard we are called to live by. Jesus even forgave the people who were crucifying Him while it was all happening. That's not weakness, that's the most powerful act of love in human history. Forgiveness is freedom. Freedom from bitterness, resentment, and the past." },
         { type: "question", question: "Is there someone you're holding unforgiveness toward?" },
         { type: "question", question: "Why does forgiveness require strength rather than weakness?" },
         { type: "question", question: "How does God's forgiveness of you give you the capacity to forgive others?" },
@@ -1830,7 +1830,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Strength in Community",
       cards: [
         { type: "verse", content: "\"Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up.\"\n\n-- Ecclesiastes 4:9-10 (NIV)" },
-        { type: "encouragement", content: "Solomon says two are better than one. The man who tries to be strong alone is the man who falls with no one to help him up. Strength in isolation is fragile. Strength in community is durable. Jesus didn't go through His ministry alone -- He had twelve men around Him. He shared meals, traveled together, prayed together. Even in the garden, He asked His disciples to watch with Him. You were not designed to be strong alone. Find your brothers." },
+        { type: "encouragement", content: "The strength of a strand is multiplied just by adding another strand. The man who tries to be strong and isolated is the man who falls with no one to help him up. There is strength in community. Even Jesus didn't go through his ministry alone. He had twelve men who shared meals with Him, traveled with Him, and prayed with Him. You aren't designed to be strong alone." },
         { type: "question", question: "Do you have men in your life who know your real struggles and can help you up when you fall?" },
         { type: "question", question: "What keeps you from being vulnerable with other men?" },
         { type: "question", question: "How does Jesus' model of community challenge your tendency toward isolation?" },
@@ -1843,7 +1843,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Strength and Self-Control",
       cards: [
         { type: "verse", content: "\"Better a patient person than a warrior, one with self-control than one who takes a city.\"\n\n-- Proverbs 16:32 (NIV)" },
-        { type: "encouragement", content: "Solomon says self-control is more powerful than military conquest. The man who can control himself is stronger than the man who can defeat an army. Self-control is the foundation of all other strength. Without it, your physical strength becomes dangerous, your intelligence becomes manipulation, your passion becomes destruction. Jesus had complete self-control. He could have called ten thousand angels. He chose not to. That restraint was not weakness -- it was the most powerful choice ever made." },
+        { type: "encouragement", content: "Solomon points out that self-control is more powerful than military conquest. Self-control is the foundation of all other strength. Without it, physical strength becomes dangerous, intelligence becomes manipulation, and passion becomes destructive. Jesus could have called ten thousand angels to help him, but he didn't. That was not weakness, it was a powerful choice rooted in self-control." },
         { type: "question", question: "Where is your self-control weakest right now?" },
         { type: "question", question: "How does a lack of self-control undermine your other strengths?" },
         { type: "question", question: "How does Jesus' restraint -- choosing not to use His power -- challenge how you use yours?" },
@@ -1856,7 +1856,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Strength to Serve",
       cards: [
         { type: "verse", content: "\"For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.\"\n\n-- Mark 10:45 (NIV)" },
-        { type: "encouragement", content: "Jesus came to serve. The King of the universe washed feet. He healed the sick, fed the hungry, touched the untouchable. He gave His life. That's the model for strength: not strength that demands to be served, but strength that chooses to serve. The man who uses his strength to serve others is the man who reflects the character of Jesus. The man who uses his strength to demand service from others has missed the point entirely." },
+        { type: "encouragement", content: "Jesus, the king of the universe, came to serve. He washed feet, healed the sick, fed the hungry, touched the untouchable. He gave his life. Strength doesn't demand to be served, it chooses to serve instead. Doing so reflects the character of Jesus. If you use your strength to demand service from others, you've missed the impact of your strength entirely and inevitably lose the strength you once thought you had." },
         { type: "question", question: "How do you currently use your strength -- to serve others or to get what you want?" },
         { type: "question", question: "Who is one person in your life you could serve more intentionally?" },
         { type: "question", question: "How does Jesus' example of servant leadership challenge how you think about strength?" },
@@ -1869,7 +1869,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Strength After Failure",
       cards: [
         { type: "verse", content: "\"For though the righteous fall seven times, they rise again.\"\n\n-- Proverbs 24:16 (NIV)" },
-        { type: "encouragement", content: "The righteous man falls seven times and gets back up. That's not a statement about how many times you can fail -- it's a statement about resilience. The strong man is not the man who never falls. He's the man who always gets back up. Peter denied Jesus three times. Jesus restored him and gave him a mission. Paul persecuted Christians. Jesus transformed him into the greatest missionary who ever lived. Your failure is not the end of your story. Get back up." },
+        { type: "encouragement", content: "Strength isn't about perfection. In fact, it's difficult to see one's own strength without falling because resilience is strength. Even after denying Jesus three times, Peter is restored and given a mission. Paul was on his way to persecute Christians when Jesus radically changed his heart. Your failure is not the end of your story. It's the catalyst. Get back up. Keep going." },
         { type: "question", question: "What failure in your life has made you most afraid to try again?" },
         { type: "question", question: "How do you typically respond to failure -- do you get back up, or do you stay down?" },
         { type: "question", question: "How does Jesus' restoration of Peter give you hope after your own failures?" },
@@ -1882,7 +1882,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Strength in Prayer",
       cards: [
         { type: "verse", content: "\"I can do all this through him who gives me strength.\"\n\n-- Philippians 4:13 (NIV)" },
-        { type: "encouragement", content: "Paul says he can do all things through Christ who strengthens him. This verse is often quoted out of context -- Paul is not talking about athletic achievement. He's talking about contentment in any circumstance: plenty or want, freedom or prison. The strength he's describing comes through Christ, not through himself. Prayer is the channel through which that strength flows. The man who prays is the man who is connected to the source of all strength. The man who doesn't pray is fighting alone." },
+        { type: "encouragement", content: "This verse is often quoted out of context. This isn't a verse about athletic achievement. It's about contentment in any circumstance. Whether you have plenty or are in want, imprisoned or free. That strength comes through Christ, not yourself. This strength flows through prayer, the connection to the source of all strength." },
         { type: "question", question: "What does your prayer life look like right now -- is it a source of strength or an afterthought?" },
         { type: "question", question: "What situation are you facing right now that you need Christ's strength for?" },
         { type: "question", question: "How does prayer connect you to the strength Paul is describing?" },
@@ -1895,7 +1895,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "The Strength of Patience",
       cards: [
         { type: "verse", content: "\"Be completely humble and gentle; be patient, bearing with one another in love.\"\n\n-- Ephesians 4:2 (NIV)" },
-        { type: "encouragement", content: "Patience is a form of strength. It's the ability to endure difficulty, frustration, or delay without losing your composure. Paul says be patient, bearing with one another in love. That word 'bearing' means carrying a weight. Patience is carrying the weight of other people's imperfections without dropping them. Jesus was patient with His disciples -- with their slowness to understand, their failures, their arguments about who was greatest. He bore with them in love. That's the model." },
+        { type: "encouragement", content: "Patience is a form of strength. It's the ability to endure difficulty, frustration, or delay without losing your cool. Paul says be patient, bearing with one another in love. That word 'bearing' means carrying a weight. Patience is carrying the weight of other people's imperfections without dropping them. Jesus was patient with His disciples; with their slowness to understand, their failures, their arguments about who was greatest. He bore with them in love and he does the same for you too." },
         { type: "question", question: "Where is your patience most tested -- with people, with circumstances, or with God's timing?" },
         { type: "question", question: "What does impatience reveal about what you're trusting in?" },
         { type: "question", question: "How does Jesus' patience with His disciples challenge how you treat the people around you?" },
@@ -1908,11 +1908,11 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Strength and Integrity",
       cards: [
         { type: "verse", content: "\"The man of integrity walks securely, but he who takes crooked paths will be found out.\"\n\n-- Proverbs 10:9 (NIV)" },
-        { type: "encouragement", content: "Solomon says the man of integrity walks securely. There's a strength that comes from having nothing to hide. No double life, no secrets, no fear of being found out. The man who lives with integrity is the man who can look anyone in the eye. Jesus walked with complete security -- He had nothing to hide, nothing to fear, nothing to prove. That security is one of the most attractive qualities a man can have. It comes from integrity." },
+        { type: "encouragement", content: "There's incredible strength that comes from having integrity. Nothing to hide. No double life, secrets, or fear of being found out. You might try to hide who you are in different settings, but that lacks integrity and wisdom. If you can't be vulnerably you in front of certain people, are they really the type of people you want to surround yourself with? Integrity doesn't compromise like that and you don't have to either." },
         { type: "question", question: "Is there a gap between who you are in public and who you are in private?" },
         { type: "question", question: "How does integrity produce security and strength?" },
         { type: "question", question: "What is one area where you need to close the gap between your public and private self?" },
-        { type: "action", content: "Do one thing today that you would do the same way whether or not anyone was watching." },
+        { type: "action", content: "What steps do you need to take to live with integrity? Talk about this with a friend or mentor." },
         { type: "complete" },
       ],
     },
@@ -1920,8 +1920,8 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       day: 16,
       title: "Strength to Lead",
       cards: [
-        { type: "verse", content: "\"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.\"\n\n-- Joshua 1:9 (NIV)" },
-        { type: "encouragement", content: "Leadership requires strength. Not the strength of dominance, but the strength of direction. The man who leads well is the man who goes first -- who makes the hard call, who sets the tone, who takes responsibility. God told Joshua to be strong and courageous because leadership is hard. It requires going into territory you've never been in before. But God's promise is the same: I will be with you. You don't have to lead perfectly. You have to lead faithfully." },
+        { type: "verse", content: "\"So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.\"\n\n-- Isaiah 41:10 (NIV)" },
+        { type: "encouragement", content: "God's promise is that He is with you and He'll strengthen you. Whether you are leading a team, a friend group, or your family, He promises to help you. The right hand is a symbol of strength and God says He will hold you up with that strength. Perhaps you aren't leading anything today, but you feel like you should. God gives you the strength you need to step into that with confidence knowing it's his strength that goes with you." },
         { type: "question", question: "Where are you currently called to lead -- a team, a family, a friend group?" },
         { type: "question", question: "What is the biggest challenge you face in leading well?" },
         { type: "question", question: "How does God's promise 'I will be with you' give you the strength to lead?" },
@@ -1934,11 +1934,11 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Strength and Generosity",
       cards: [
         { type: "verse", content: "\"Command them to do good, to be rich in good deeds, and to be generous and willing to share.\"\n\n-- 1 Timothy 6:18 (NIV)" },
-        { type: "encouragement", content: "Generosity is a form of strength. The stingy man is the fearful man -- he hoards because he's afraid there won't be enough. The generous man is the trusting man -- he gives because he believes God will provide. Paul tells Timothy to command the wealthy to be generous. Jesus gave everything. He said where your treasure is, your heart will be. The strong man is generous because he's not controlled by his possessions. He holds them loosely." },
+        { type: "encouragement", content: "There is great strength in generosity. A stingy man is a fearful man, always keeping for himself, worried there won't be enough. The generous man trusts that God will provide. Jesus had all the wealth in the universe, but he gave it all up and lowered himself in order to save us. He said that where your treasure is, your heart will be. There is a mighty strength in not being controlled by your possessions... hold them loosely." },
         { type: "question", question: "Are you generous with your money, your time, and your energy?" },
         { type: "question", question: "What does stinginess reveal about what you're trusting in?" },
         { type: "question", question: "How does generosity become an act of strength and trust in God?" },
-        { type: "action", content: "Give something away this week that costs you something. Practice the strength of generosity." },
+        { type: "action", content: "Practice generosity. Set up a regular tithe to your church or serve in the kids ministry a couple times per month." },
         { type: "complete" },
       ],
     },
@@ -1947,7 +1947,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Strength in Suffering",
       cards: [
         { type: "verse", content: "\"For our light and momentary troubles are achieving for us an eternal glory that far outweighs them all.\"\n\n-- 2 Corinthians 4:17 (NIV)" },
-        { type: "encouragement", content: "Paul calls his troubles 'light and momentary' -- and he was talking about beatings, shipwrecks, and imprisonment. His ability to minimize his suffering wasn't denial. It was perspective. He could see the eternal weight of glory on the other side. That perspective is what produces strength in suffering. Jesus endured the cross for the joy set before Him. He could see past the suffering to the resurrection. That same perspective is available to you. Your suffering is not wasted. It's achieving something eternal." },
+        { type: "encouragement", content: "Paul refers to his troubles as 'light and momentary'. The troubles he was talking about were beatings, shipwrecks, and imprisonment. This wasn't about denial, it was perspective. He could see the eternal impact of all the was doing, the glory of heaven on the other side of it all. That perspective produced great strength in suffering. Jesus could see past the suffering he endured on the cross. He saw his resurrection and union with the Father. He saw salvation and God's glory for all eternity. That same perspective is available to you. Your suffering isn't wasted, it's building something eternal." },
         { type: "question", question: "What suffering are you currently enduring?" },
         { type: "question", question: "How does an eternal perspective change how you experience present suffering?" },
         { type: "question", question: "How does Jesus' endurance of the cross give you strength in your own suffering?" },
@@ -1960,7 +1960,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Strength to Finish",
       cards: [
         { type: "verse", content: "\"I have fought the good fight, I have finished the race, I have kept the faith.\"\n\n-- 2 Timothy 4:7 (NIV)" },
-        { type: "encouragement", content: "Paul finished. He didn't just start well -- he finished. That's the goal. Not to be impressive at the beginning, not to have a great reputation in the middle, but to finish. The strength to finish is different from the strength to start. It's the strength of perseverance, of faithfulness, of refusing to quit when everything in you wants to stop. Jesus finished. He said 'It is finished' from the cross. He didn't give up. He completed the mission. That's the model." },
+        { type: "encouragement", content: "Paul finished well. He didn't start off so great, but he finished well. That's the goal. It's not so much how we start. That would simply be a competition of who started worse off than the other. Strength to finish well comes from perseverance, faithfulness, and refusing to quit when everything in you wants to stop. On the cross, Jesus said \\\"It is finished\\\". He completed the mission. All he came to do was done, and it was done for you."It is finished". He completed the mission. All he came to do was done, and it was done for you." },
         { type: "question", question: "Are you building the kind of strength that will help you finish well?" },
         { type: "question", question: "What does 'finishing well' look like for you in your faith, your relationships, your work?" },
         { type: "question", question: "How does Jesus' completion of His mission inspire you to finish yours?" },
@@ -1973,7 +1973,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Strength That Glorifies God",
       cards: [
         { type: "verse", content: "\"So whether you eat or drink or whatever you do, do it all for the glory of God.\"\n\n-- 1 Corinthians 10:31 (NIV)" },
-        { type: "encouragement", content: "Paul says do everything for the glory of God. That includes how you use your strength. Your physical strength, your mental strength, your emotional strength -- all of it is a gift from God, and all of it can be used to glorify Him. The man who uses his strength for his own glory is wasting it. The man who uses his strength for God's glory is living the life he was made for. Jesus used every ounce of His strength for the Father's glory. That's the model. That's the goal." },
+        { type: "encouragement", content: "Paul says do everything for the glory of God. That includes how you use your strength. Your physical strength, your mental strength, your emotional strength... all of it is a gift from God, and all of it can be used to glorify Him. To use your strength for your own glory is waste. Your life is meant to glorify God and you can use your strength to do just that. Jesus used every bit of his strength to glorify God... you can too." },
         { type: "question", question: "Are you using your strength for your own glory or for God's?" },
         { type: "question", question: "How has this series changed how you think about strength?" },
         { type: "question", question: "What is one area where you want to use your strength more intentionally for God's glory?" },
