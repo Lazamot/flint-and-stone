@@ -7,7 +7,7 @@ export default function BibleStudiesScreen() {
     <div style={styles.container}>
       <div style={styles.header}>
         <button style={styles.backBtn} onClick={() => navigate('/')}>
-          &lt;- Back
+          ← Home
         </button>
         <h1 style={styles.title}>Bible Studies</h1>
       </div>
@@ -54,6 +54,25 @@ export default function BibleStudiesScreen() {
             ))}
           </div>
         </div>
+
+        {/* Back to Home button */}
+        <button
+          onClick={() => navigate('/')}
+          style={{
+            width: '100%',
+            padding: '14px',
+            background: 'rgba(180,30,30,0.1)',
+            border: '1px solid rgba(180,30,30,0.25)',
+            borderRadius: 12,
+            color: '#b41e1e',
+            fontSize: 15,
+            fontWeight: 700,
+            cursor: 'pointer',
+            letterSpacing: 0.3,
+          }}
+        >
+          ← Back to Home
+        </button>
       </div>
     </div>
   );
@@ -79,9 +98,12 @@ const styles: Record<string, React.CSSProperties> = {
     border: 'none',
     color: '#b41e1e',
     fontSize: 15,
-    fontWeight: 600,
+    fontWeight: 700,
     cursor: 'pointer',
-    padding: '4px 0',
+    padding: '8px 4px',
+    display: 'flex',
+    alignItems: 'center',
+    gap: 4,
   },
   title: {
     fontSize: 22,
