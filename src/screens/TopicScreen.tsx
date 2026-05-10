@@ -34,11 +34,11 @@ export default function TopicScreen() {
       {/* Header */}
       <div style={{ padding: '16px 16px 0', flexShrink: 0 }}>
         <button
-          onClick={() => navigate('/')}
-          style={{ display: 'flex', alignItems: 'center', gap: 6, color: 'var(--primary)', fontSize: 15, fontWeight: 700, marginBottom: 16, background: 'none', border: 'none', cursor: 'pointer', padding: '4px 0' }}
+          onClick={() => navigate('/devotions')}
+          style={{ display: 'flex', alignItems: 'center', gap: 6, color: 'var(--text-muted)', fontSize: 14, fontWeight: 600, marginBottom: 16, background: 'none', border: 'none', cursor: 'pointer', padding: '4px 0' }}
         >
           <ArrowLeft size={18} />
-          Home
+          Back
         </button>
         <h1 style={{ fontSize: 26, fontWeight: 900, color: 'var(--text)' }}>{topic.title}</h1>
         <p style={{ fontSize: 14, color: 'var(--text-muted)', marginTop: 4, marginBottom: 16, lineHeight: 1.5 }}>

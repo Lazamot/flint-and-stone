@@ -56,6 +56,14 @@ export default function HomeScreen() {
   return (
     <div className="screen">
       <div className="screen-scroll" style={{ padding: '20px 16px 16px' }}>
+        {/* Back to Home */}
+        <button
+          onClick={() => navigate('/')}
+          style={{ display: 'flex', alignItems: 'center', gap: 6, color: 'var(--text-muted)', fontSize: 14, fontWeight: 600, marginBottom: 16, background: 'none', border: 'none', cursor: 'pointer', padding: '4px 0' }}
+        >
+          &#8592; Home
+        </button>
+
         {/* Header */}
         <div style={{ marginBottom: 20 }}>
           <h1 style={{ fontSize: 28, fontWeight: 900, letterSpacing: -0.5, color: 'var(--text)' }}>
