@@ -32,7 +32,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
         title: "Why Purity Matters",
         cards: [
           { type: "verse", content: "\"Blessed are the pure in heart, for they will see God.\"\n\n-- Matthew 5:8 (NIV)" },
-          { type: "encouragement", content: "Jesus didn't say \"blessed are the rule-followers\" or \"blessed are the ones who white-knuckle their way through temptation.\" He said blessed are the pure in heart. This is about the inside -- who you are when no one is watching. And the reward isn't a trophy or a pat on the back. It's God Himself. Purity isn't a list of things you don't do. It's a heart that wants Jesus more than anything else." },
+          { type: "encouragement", content: "Jesus says you are blessed when we have a pure heart. To be blessed is to be happy and here, Jesus is saying 'happy are those who have a pure heart'. You see, it's not about rules or looking like you've got it all together. It's about who you are on the inside, when no one is watching. Purity isn't about what you don't do, it's a heart that wants the joy of Jesus more than the pleasure of impurity." },
           { type: "question", question: "When you think about purity, does it feel like a burden or a gift? Why?" },
           { type: "question", question: "What would it look like for your heart -- not just your actions -- to be pure?" },
           { type: "question", question: "Is there something in your life right now competing with Jesus for first place?" },
@@ -45,7 +45,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
         title: "The Trap of Lust",
         cards: [
           { type: "verse", content: "\"But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.\"\n\n-- Matthew 5:28 (NIV)" },
-          { type: "encouragement", content: "Jesus didn't soften this. He went straight to the heart. Lust isn't just a physical problem -- it's a worship problem. When you lust, you're treating another person as an object for your pleasure instead of an image-bearer of God. And here's what Piper says that cuts deep: lust is a failure to treasure Christ above all things. The battle for purity is won or lost in what you treasure. Jesus is better than anything lust promises." },
+          { type: "encouragement", content: "Jesus speaks boldly about lust. He says lust isn't just a physical problem, it's a worship problem. When you lust, you're treating someone as an object for your pleasure, not as a child of God. John Piper says: lust is a failure to treasure Christ above all things. The battle for purity is won or lost in what you treasure. Jesus is better than anything lust promises." },
           { type: "question", question: "When are you most vulnerable to temptation -- what time, place, or emotional state?" },
           { type: "question", question: "How does giving in to lust affect your relationship with God and with others?" },
           { type: "question", question: "Who is someone you trust enough to be honest with about this struggle?" },
@@ -58,7 +58,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
         title: "Flee -- Don't Fight",
         cards: [
           { type: "verse", content: "\"Flee from sexual immorality. All other sins a person commits are outside the body, but whoever sins sexually, sins against their own body. Do you not know that your bodies are temples of the Holy Spirit?\"\n\n-- 1 Corinthians 6:18-19 (NIV)" },
-          { type: "encouragement", content: "Paul doesn't say fight it. He says flee. There's a reason for that. Some battles aren't won by standing your ground -- they're won by running. And notice why: your body is a temple of the Holy Spirit. Jesus bought you with His blood. You belong to Him. That changes everything. You're not just trying to be a good person. You're honoring the God who lives in you." },
+          { type: "encouragement", content: "Paul's charge isn't to fight against lust. Probably because he was well aware of the likelihood of winning that fight. Instead, Paul calls you to flee, to run for your life because it depends on it. This you can do because God's given you the Holy Spirit, He bought you with the blood of Jesus and desires your purity even more than you do. This changes everything. You don't have to fight to be a good person, you can use the power inside of you to be who God has called you to be." },
           { type: "question", question: "What is a situation you need to \"flee\" from right now, not just manage?" },
           { type: "question", question: "How does knowing the Holy Spirit lives in you change how you see your body and your choices?" },
           { type: "question", question: "What is your escape plan for the next time you are tempted?" },
@@ -71,7 +71,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
         title: "Renew Your Mind",
         cards: [
           { type: "verse", content: "\"Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is -- his good, pleasing and perfect will.\"\n\n-- Romans 12:2 (NIV)" },
-          { type: "encouragement", content: "You can't just empty your mind of junk and expect it to stay clean. You have to replace it with something better. The world is constantly feeding you a vision of what a man is -- and it's a lie. Jesus offers a different vision: a man who is strong enough to be self-controlled, secure enough to not need approval, and free enough to love others without using them. That vision only gets into your head through the Word. Fill your mind with truth, and the lies lose their grip." },
+          { type: "encouragement", content: "Your mind isn't simply renewed because you wish it to be. If you fill your mind with junk, then junk is what you get. Garbage in - Garbage out. If you renew your mind with the Word of God, then holiness is what you get. Purity in - Purity out. The world works effortlessly to fill your mind with a vision of what a man is and it's a lie. Jesus shows us that a man can be strong enough to be self-controlled, secure enough to not need everyone's approval, and free enough to love others without using them. So, fill your mind with truth and the lies will flee from you." },
           { type: "question", question: "What is the world's version of manhood telling you about sex and purity?" },
           { type: "question", question: "What truth from Scripture do you need to replace that lie with?" },
           { type: "question", question: "How much time are you spending in the Word compared to screens this week?" },
@@ -84,7 +84,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
         title: "Grace for the Failure",
         cards: [
           { type: "verse", content: "\"If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.\"\n\n-- 1 John 1:9 (NIV)" },
-          { type: "encouragement", content: "You will fail. That's not an excuse -- it's the truth. And when you do, the enemy will tell you that you're too far gone, that God is done with you, that you might as well give up. Don't believe him. Jesus went to the cross knowing every sin you would ever commit -- including the ones you're most ashamed of. His blood is enough. Confession isn't crawling back to God in defeat. It's running back to a Father who already sees you coming and is ready to restore you. Get up. Keep going." },
+          { type: "encouragement", content: "You will fail. Plain and simple. That's not an excuse, it's the truth. And when you do, the enemy will tell you that you're too far gone, you've wasted your efforts, and you have to start over at the beginning. He'll tell you that God's done with you and you should just give up. Don't believe him. Jesus knew every sin you'd ever commit and still went to the cross to save you. His blood is enough. Confession isn't crawling back to God in defeat, it's running back to a Father who loves you and is ready to restore you. Get up. Keep going." },
           { type: "question", question: "Is there a failure you're still carrying shame over that you haven't brought to Jesus?" },
           { type: "question", question: "Why is it sometimes harder to accept forgiveness than to earn it?" },
           { type: "question", question: "How does the gospel -- Jesus dying for your sin -- change how you respond to failure?" },

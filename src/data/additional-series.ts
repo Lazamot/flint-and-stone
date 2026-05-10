@@ -1593,7 +1593,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Take Every Thought Captive",
       cards: [
         { type: "verse", content: "\"We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ.\"\n\n-- 2 Corinthians 10:5 (NIV)" },
-        { type: "encouragement", content: "Your mind is a battlefield -- and Paul says you're not helpless on it. You have weapons. The Word of God, prayer, the Spirit of Christ in you. Every thought that comes against the knowledge of God -- every lie, every fantasy, every accusation -- can be taken captive. That doesn't mean it won't come. It means you don't have to obey it. You take it prisoner. You bring it to Christ. And you let Him deal with it." },
+        { type: "encouragement", content: "You're at war. It's a war for your joy, your peace, your faith. Paul says you've got the most powerful weapons to fight this war. The Word of God, Prayer, the Holy Spirit. Every thought that comes against the knowledge of God, every lie, fantasy, and accusation can be taken prisoner. This doesn't mean the thoughts won't come, it essentially guarantees they will. But you don't need to obey them. You can take every thought captive. Bring it to Christ and let him deal with it." },
         { type: "question", question: "What is a thought pattern that keeps pulling you toward sin? What lie is underneath it?" },
         { type: "question", question: "What does it look like practically to 'take a thought captive' in the moment of temptation?" },
         { type: "question", question: "What truth from Scripture can you use as a weapon against that specific lie?" },
@@ -1606,7 +1606,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Guard Your Gates",
       cards: [
         { type: "verse", content: "\"Above all else, guard your heart, for everything you do flows from it.\"\n\n-- Proverbs 4:23 (NIV)" },
-        { type: "encouragement", content: "Solomon says above all else -- not as one thing among many, but as the priority. Guard your heart. Why? Because everything flows from it. Your actions, your words, your desires -- they all start inside. The world wants to pour garbage into your heart through your eyes and ears. You have a responsibility to guard the gates. Not because you're afraid, but because you know what's at stake. What you feed grows. What you starve dies." },
+        { type: "encouragement", content: "Solomon says something really clear here: 'Above ALL else'. This isn't just something we do along with everything else, it's actually the most important of all we do. 'Above all else, guard your heart'. Guard the gates. Set up sentinels of scripture, prayer, and accountability. Not because you're afraid, but because you know the enemy is coming for you and you won't be caught with a weak entry point to your heart. After all, 'everything flows from it'. So guard what you see and hear. What you feed grows. What you starve dies." },
         { type: "question", question: "What are you regularly letting into your heart through screens, music, or conversations?" },
         { type: "question", question: "How has what you've consumed recently shaped your thoughts or desires?" },
         { type: "question", question: "What is one gate you need to guard more carefully this week?" },
@@ -1619,7 +1619,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "The Power of Accountability",
       cards: [
         { type: "verse", content: "\"Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.\"\n\n-- James 5:16 (NIV)" },
-        { type: "encouragement", content: "Sin thrives in secrecy. It loses power when it's brought into the light. James doesn't say confess to a priest or to God alone -- he says confess to each other. There's something that happens in the soul when you say it out loud to another person who knows you and loves you anyway. The shame loses its grip. The lie that you're the only one loses its power. You need a brother who will tell you the truth, pray for you, and not let you quit." },
+        { type: "encouragement", content: "Something happens when you bring your sin into the light. Sin thrives in secrecy, telling a trusted friend or mentor extinguishes its power. Shame loses its grip, the lie that you're the only one who struggles loses its power, and grace is experienced in real time when you step out in honesty before your brothers in Christ. You need them. You need them to pray over you, share truth with you, and never let you quit." },
         { type: "question", question: "Is there a sin you've been keeping secret that you need to bring into the light?" },
         { type: "question", question: "Do you have someone in your life you can be completely honest with? If not, why not?" },
         { type: "question", question: "What is the difference between accountability that helps and accountability that just produces shame?" },
@@ -1632,7 +1632,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "When You Fall",
       cards: [
         { type: "verse", content: "\"For though the righteous fall seven times, they rise again, but the wicked stumble when calamity strikes.\"\n\n-- Proverbs 24:16 (NIV)" },
-        { type: "encouragement", content: "The righteous man isn't the one who never falls. He's the one who keeps getting up. That's the difference. The enemy wants you to believe that falling means you're done, that you're not really a Christian, that you might as well give up. Don't believe him. Jesus knew you would fall when He went to the cross. He went anyway. Your failures don't surprise Him. What He's watching for is whether you'll get back up and come back to Him. Get up." },
+        { type: "encouragement", content: "The righteous man isn't the one who never falls. He's the one who keeps getting up. That's the difference. The enemy wants you to believe that falling means you're done, that you're not really a Christian, that you might as well give up. Don't believe him. Jesus knew you would fall when He went to the cross. He went anyway. Your failures don't surprise Him. What He's watching for is whether you'll get back up and come back to Him. Get up. Keep going." },
         { type: "question", question: "How do you typically respond after you fail -- do you run to God or away from Him?" },
         { type: "question", question: "What does it mean that the righteous man 'rises again'? What does that look like for you?" },
         { type: "question", question: "What lie does the enemy tell you after you fall that you need to reject?" },
@@ -1645,7 +1645,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "The Long Game",
       cards: [
         { type: "verse", content: "\"And let us not grow weary of doing good, for in due season we will reap, if we do not give up.\"\n\n-- Galatians 6:9 (NIV)" },
-        { type: "encouragement", content: "Purity isn't a sprint. It's a marathon. And the danger isn't just falling -- it's growing weary. Getting tired of fighting. Starting to wonder if it's worth it. Paul says don't give up, because there's a harvest coming. The work you're doing now -- the boundaries you're setting, the battles you're fighting, the habits you're building -- it's producing something. You may not see it yet. But you will. Stay in the fight." },
+        { type: "encouragement", content: "Purity doesn't happen over night. Nothing worth doing ever does. Failing is only half the danger, giving up early is the other half. Starting to wonder if this is all worth it. Paul reminds us to keep going because there's something good coming. The work you're doing now, the boundaries you're setting, the habits you're forming, the battles you're fighting, it's all producing something great. You may not see it today, but you will. Stay in it." },
         { type: "question", question: "Are you growing weary in this fight? What is making it feel hard to keep going?" },
         { type: "question", question: "What 'harvest' are you hoping for -- what does a life of purity look like for you in 5 or 10 years?" },
         { type: "question", question: "What is one thing you can do today to 'not give up'?" },
@@ -1658,7 +1658,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Identity Before Behavior",
       cards: [
         { type: "verse", content: "\"For you are all children of God through faith in Christ Jesus.\"\n\n-- Galatians 3:26 (NIV)" },
-        { type: "encouragement", content: "Here's what changes everything: you are not primarily a sinner trying to be good. You are a child of God who is learning to live like one. That's not just semantics -- it changes your whole approach to purity. You don't fight sin to earn God's love. You fight sin because you already have it. You're not trying to become someone God accepts. You're living out who you already are. That's a completely different motivation. And it's the only one that actually works long-term." },
+        { type: "encouragement", content: "This changes everything. You're not primarily a sinner trying to be good. You are a child of God who is learning to live like one. You don't fight sin to earn God's love. You fight sin because you already have it. You're not trying to become someone God accepts. You're living out who you already are. That's a completely different motivation, and it's the only one that actually works long-term." },
         { type: "question", question: "Do you think of yourself primarily as a sinner or as a child of God? How does that affect how you approach temptation?" },
         { type: "question", question: "How does knowing you are already loved and accepted by God change your motivation for purity?" },
         { type: "question", question: "What would it look like to fight temptation from a place of security rather than fear?" },
@@ -1671,7 +1671,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "The Cross and Your Sin",
       cards: [
         { type: "verse", content: "\"He himself bore our sins in his body on the cross, so that we might die to sins and live for righteousness; by his wounds you have been healed.\"\n\n-- 1 Peter 2:24 (NIV)" },
-        { type: "encouragement", content: "Jesus didn't just forgive your sin. He bore it. He took it into His own body on the cross. Every act of lust, every compromise, every failure -- He carried it. And He did it so that you could die to sin and live for righteousness. That's the gospel. Not just that you're forgiven, but that you're being transformed. The cross isn't just your get-out-of-jail-free card. It's the power source for your new life." },
+        { type: "encouragement", content: "Jesus didn't just forgive your sin. He took it into His own body on the cross. Every act of lust, every sin, every failure, he carried it. And He did it so that you could be free from sin and live for righteousness. That's the gospel. Not just forgiveness, but transformation. The cross removes the debt of your sin and progressively makes you more and more like Christ." },
         { type: "question", question: "When you think about what Jesus did on the cross for your specific sins, what do you feel?" },
         { type: "question", question: "How does the cross motivate you to fight for purity differently than just trying to follow rules?" },
         { type: "question", question: "What does it mean to 'die to sin' practically in your daily life?" },
@@ -1684,7 +1684,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Walking by the Spirit",
       cards: [
         { type: "verse", content: "\"So I say, walk by the Spirit, and you will not gratify the desires of the flesh.\"\n\n-- Galatians 5:16 (NIV)" },
-        { type: "encouragement", content: "Paul doesn't say 'try harder not to sin.' He says walk by the Spirit. There's a difference. Trying harder is white-knuckling it -- it's all about your willpower, and your willpower will eventually run out. Walking by the Spirit is staying connected to the power source. It's prayer, Scripture, community, worship -- the things that keep you plugged in to God. When you're walking with the Spirit, the desires of the flesh lose their power. Not because you're stronger, but because He is." },
+        { type: "encouragement", content: "Paul doesn't say 'try harder not to sin.' That only works for so long. Instead, he says 'walk by the Spirit'. There's a difference. Trying harder is all about your willpower, and your willpower will eventually run out. Walking by the Spirit is staying connected to our Father who loves you. It's prayer, Scripture, community, worship. It's all the things that keep you engaged with God. When you're walking with the Spirit, the desires of the flesh lose their power. Not because you're stronger, but because He is." },
         { type: "question", question: "What does 'walking by the Spirit' look like in your daily routine?" },
         { type: "question", question: "When do you feel most disconnected from the Spirit? What leads to that?" },
         { type: "question", question: "What is one spiritual discipline you could add or strengthen this week to stay connected?" },
@@ -1697,7 +1697,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Covenant Eyes",
       cards: [
         { type: "verse", content: "\"I made a covenant with my eyes not to look lustfully at a young woman.\"\n\n-- Job 31:1 (NIV)" },
-        { type: "encouragement", content: "Job made a covenant -- a binding promise -- with his own eyes. He decided in advance, before the temptation came, what he would and wouldn't look at. That's wisdom. Most guys try to make the decision in the moment, when their emotions are high and their willpower is low. That's a losing strategy. The battle is won before it starts -- in the decisions you make when you're not tempted. What covenants do you need to make?" },
+        { type: "encouragement", content: "Job made a covenant. Not in the heat of the moment when he needed to make a decision to give in or stay pure, but before it ever happened. I've been guilty of trying to live in the moment and practice purity 'when I need to'. That's a losing strategy. The battle is lost before it starts. Don't wait until emotions are high and willpower is low. Decide now to keep your eyes pure no matter what." },
         { type: "question", question: "What specific visual temptations do you need to make a covenant about?" },
         { type: "question", question: "What decisions can you make now, before temptation comes, that will make it easier to stay pure?" },
         { type: "question", question: "Who can hold you accountable to the covenants you make?" },
@@ -1710,7 +1710,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Pure in Heart",
       cards: [
         { type: "verse", content: "\"Create in me a pure heart, O God, and renew a steadfast spirit within me.\"\n\n-- Psalm 51:10 (NIV)" },
-        { type: "encouragement", content: "David wrote this after the worst failure of his life -- adultery with Bathsheba, and then having her husband killed to cover it up. And what does he ask for? A pure heart. Not just forgiveness for what he did, but transformation of who he is. He knows the problem isn't just his actions -- it's his heart. And he knows he can't fix his own heart. Only God can. That's the prayer. Not 'help me do better.' But 'create in me.' Let God do the work." },
+        { type: "encouragement", content: "David wrote this after committing adultery with Bathsheba and then having her husband killed to cover it up. But he didn't merely ask God to forgive him, he asked God to fix the problem, his heart. David understood it's not about doing, but about being. That's the prayer. Not 'help me do better.' But 'create in me.' Doing depends on you. Creating a new heart depends on Him." },
         { type: "question", question: "What does it mean to have a 'pure heart' versus just clean behavior?" },
         { type: "question", question: "Is there something in your heart -- a desire, an attitude, a pattern -- that only God can change?" },
         { type: "question", question: "What would it look like to pray David's prayer as your own today?" },
@@ -1723,7 +1723,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "The Brotherhood of Accountability",
       cards: [
         { type: "verse", content: "\"As iron sharpens iron, so one person sharpens another.\"\n\n-- Proverbs 27:17 (NIV)" },
-        { type: "encouragement", content: "You were not made to fight this battle alone. God designed you to need other men -- not just for fun, but for sharpening. Iron sharpens iron. That means friction. Real accountability isn't comfortable. It asks hard questions. It doesn't let you off the hook. It tells you the truth when you don't want to hear it. But it also stands with you. It prays for you. It doesn't walk away when you fail. Find that kind of brother. Be that kind of brother." },
+        { type: "encouragement", content: "You were not made to go through life alone. God designed you to need other men, not just for fun, but for sharpening. Iron sharpens iron. Ever see iron sharpening iron? It requires friction. Real accountability isn't comfortable. It asks hard questions. It doesn't let you off the hook. It tells you the truth when you don't want to hear it. But it also stands with you, prays for you, and doesn't walk away when you fail. Find that kind of brother and be that kind of brother." },
         { type: "question", question: "Do you have a friend who sharpens you -- who challenges you toward godliness? If not, what's stopping you from finding one?" },
         { type: "question", question: "What would real accountability look like in your life -- what questions would you want someone to ask you?" },
         { type: "question", question: "Are you being that kind of friend to anyone else?" },
@@ -1736,7 +1736,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Honoring Women",
       cards: [
         { type: "verse", content: "\"Treat younger women as sisters, with absolute purity.\"\n\n-- 1 Timothy 5:2 (NIV)" },
-        { type: "encouragement", content: "Paul's instruction is simple and radical: treat younger women as sisters. Not as objects. Not as conquests. Not as entertainment. As sisters -- with the same care, respect, and protection you'd want for your own sister. Purity isn't just about what you don't do. It's about how you see people. When you look at a girl, do you see a person made in the image of God, or do you see something for your own pleasure? The way you see people shapes the way you treat them." },
+        { type: "encouragement", content: "Paul's words are simple yet widely impactful: treat younger women as sisters. Not as objects. Not as missions to accomplish. Not as entertainment. As sisters. Treat them with the same care, respect, and protection you'd want for your own sister. Purity isn't just about what you don't do. It's about how you see others. When you look at a girl, do you see a sister made in the image of God, or do you see something for your own pleasure? The way you see others shapes the way you treat them." },
         { type: "question", question: "How does thinking of girls as sisters change how you look at them or talk about them?" },
         { type: "question", question: "In what ways has culture shaped how you see and treat women? How does that compare to what Scripture says?" },
         { type: "question", question: "Is there a girl you've treated as less than she deserves? What would it look like to change that?" },
@@ -1749,7 +1749,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "What You're Really Hungry For",
       cards: [
         { type: "verse", content: "\"Jesus answered, 'Everyone who drinks this water will be thirsty again, but whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life.'\n\n-- John 4:13-14 (NIV)" },
-        { type: "encouragement", content: "Lust promises to satisfy a real hunger -- for connection, for significance, for pleasure. But it never delivers. You always come back thirsty. Jesus said He is the living water. The hunger underneath your temptation is real -- but the thing you're reaching for isn't the right thing. Piper says it like this: the battle for purity is ultimately a battle for joy. You don't fight lust by hating pleasure -- you fight it by finding something better. And there is nothing better than Jesus." },
+        { type: "encouragement", content: "Lust promises to satisfy a real hunger for connection, significance, and pleasure, but it never really satisfies. You always come back thirsty. Jesus said He is the living water. The desire for connection, significance, and pleasure are real, but lust doesn't have the ability to meet these desires fully. Piper says it like this: the battle for purity is ultimately a battle for joy. You don't fight lust by hating pleasure, you fight it by finding something better. And there is nothing better than Jesus." },
         { type: "question", question: "What deeper need -- connection, comfort, significance, escape -- is underneath your temptation toward lust?" },
         { type: "question", question: "How have you tried to fill that need with things other than Jesus? How has that worked out?" },
         { type: "question", question: "What would it look like to bring that hunger to Jesus instead of to a screen or a fantasy?" },
@@ -1762,7 +1762,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Freedom Is Possible",
       cards: [
         { type: "verse", content: "\"It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.\"\n\n-- Galatians 5:1 (NIV)" },
-        { type: "encouragement", content: "Jesus didn't die to make you a slightly better version of a slave. He died to set you free. Paul says stand firm in that freedom -- don't go back. Some of you have been fighting this battle so long you've started to believe you'll never be free. That's a lie. The same power that raised Jesus from the dead is at work in you (Romans 8:11). Freedom isn't the absence of temptation. It's the ability to say no to it. And that ability comes from Christ, not from you. You are not your sin. You are who Jesus says you are." },
+        { type: "encouragement", content: "Jesus didn't die so that you'd be a slave to sin. He died to free you from the slavery of it. Paul calls us to stand firm in that freedom saying 'don't go back!' You might have been fighting this battle for so long you're beginning to think it'll never end. That's not true. The power of Christ lives in you. Freedom isn't the absence of temptation, it's the ability to say no to it. That ability comes from Christ in you, your hope of glory." },
         { type: "question", question: "Do you actually believe freedom from this struggle is possible for you? Why or why not?" },
         { type: "question", question: "What would your life look like -- your relationship with God, your confidence, your relationships -- if you were walking in freedom?" },
         { type: "question", question: "What is one lie you've believed about yourself in this area that you need to replace with what God says?" },
@@ -1775,7 +1775,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Keep Running",
       cards: [
         { type: "verse", content: "\"Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith.\"\n\n-- Hebrews 12:1-2 (NIV)" },
-        { type: "encouragement", content: "This is the whole thing right here. Throw off what hinders you. Run with perseverance. And fix your eyes on Jesus. Not on your performance. Not on your failures. Not on what other people think. On Jesus. He is the pioneer -- He ran this race first and finished it. He is the perfecter -- He will finish what He started in you. You are going to stumble. You are going to have hard days. But you keep getting up. You keep running. You keep your eyes on Him. That is what faithfulness looks like. Not perfection. Perseverance." },
+        { type: "encouragement", content: "This is the crux of everything. Throw off what hinders you. Run with perseverance, fix your eyes on Jesus. Not on your performance, not on your perfection or your failures. Not on what other people think. Fix your eyes on Jesus. He is the pioneer. He ran this race first and finished it. He is the perfecter. He will finish what He started in you. You are going to stumble. You are going to have hard days. But you keep getting up. You keep running. You keep your eyes on Him. That is what faithfulness looks like. Not perfection, rather, perseverance." },
         { type: "question", question: "What is the biggest thing that 'hinders' you in your pursuit of purity right now?" },
         { type: "question", question: "What does it mean practically to 'fix your eyes on Jesus' when you're in the middle of a hard moment?" },
         { type: "question", question: "Looking back at these 20 days, what is the most important thing you've learned or been challenged by?" },
