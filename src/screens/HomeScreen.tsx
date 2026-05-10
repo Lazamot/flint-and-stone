@@ -206,7 +206,7 @@ export default function HomeScreen() {
           borderTop: '1px solid var(--border)',
           marginTop: 8,
         }}>
-          The devotional content in this app was developed with AI assistance, shaped around biblical truth and the real challenges young men face. The vision, structure, and heart behind it are my own.
+          The daily devotional content in this app is my own original writing. The reflection questions and calls to action were developed with AI assistance. The vision, structure, and heart behind this app are my own.
         </p>
       </div>
     </div>
