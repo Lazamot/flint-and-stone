@@ -32,7 +32,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
         title: "Why Purity Matters",
         cards: [
           { type: "verse", content: "\"Blessed are the pure in heart, for they will see God.\"\n\n-- Matthew 5:8 (NIV)" },
-          { type: "encouragement", content: "Jesus says you are blessed when we have a pure heart. To be blessed is to be happy and here, Jesus is saying 'happy are those who have a pure heart'. You see, it's not about rules or looking like you've got it all together. It's about who you are on the inside, when no one is watching. Purity isn't about what you don't do, it's a heart that wants the joy of Jesus more than the pleasure of impurity." },
+          { type: "encouragement", content: "Jesus says you are blessed when you have a pure heart. To be blessed is to be happy and here, Jesus is saying 'happy are those who have a pure heart'. You see, it's not about rules or looking like you've got it all together. It's about who you are on the inside, when no one is watching. Purity isn't about what you don't do, it's a heart that wants the joy of Jesus more than the pleasure of impurity." },
           { type: "question", question: "When you think about purity, does it feel like a burden or a gift? Why?" },
           { type: "question", question: "What would it look like for your heart -- not just your actions -- to be pure?" },
           { type: "question", question: "Is there something in your life right now competing with Jesus for first place?" },
