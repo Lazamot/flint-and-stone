@@ -1960,7 +1960,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Strength to Finish",
       cards: [
         { type: "verse", content: "\"I have fought the good fight, I have finished the race, I have kept the faith.\"\n\n-- 2 Timothy 4:7 (NIV)" },
-        { type: "encouragement", content: "Paul finished well. He didn't start off so great, but he finished well. That's the goal. It's not so much how we start. That would simply be a competition of who started worse off than the other. Strength to finish well comes from perseverance, faithfulness, and refusing to quit when everything in you wants to stop. On the cross, Jesus said \\\"It is finished\\\". He completed the mission. All he came to do was done, and it was done for you."It is finished". He completed the mission. All he came to do was done, and it was done for you." },
+          { type: "encouragement", content: "Paul finished well. He didn't start off so great, but he finished well. That's the goal. It's not so much how we start. That would simply be a competition of who started worse off than the other. Strength to finish well comes from perseverance, faithfulness, and refusing to quit when everything in you wants to stop. On the cross, Jesus said \"It is finished\". He completed the mission. All he came to do was done, and it was done for you." },
         { type: "question", question: "Are you building the kind of strength that will help you finish well?" },
         { type: "question", question: "What does 'finishing well' look like for you in your faith, your relationships, your work?" },
         { type: "question", question: "How does Jesus' completion of His mission inspire you to finish yours?" },
