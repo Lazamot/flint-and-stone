@@ -129,3 +129,25 @@ export function hasOnboarded(): boolean {
 export function setOnboarded(): void {
   save(ONBOARDING_KEY, true);
 }
+
+// --- Seen Topic Days (for "New Days" badge) ---
+const SEEN_DAYS_KEY = 'fs_seen_days';
+
+export function getSeenDays(): Record<string, number> {
+  return load<Record<string, number>>(SEEN_DAYS_KEY, {});
+}
+
+// Call when user opens a topic to record how many days it had at that moment
+export function markTopicSeen(topicId: string, totalDays: number): void {
+  const seen = getSeenDays();
+  seen[topicId] = totalDays;
+  save(SEEN_DAYS_KEY, seen);
+}
+
+// Returns true if topic has more days than when the user last opened it
+export function hasNewDays(topicId: string, currentTotal: number): boolean {
+  const seen = getSeenDays();
+  const lastSeen = seen[topicId];
+  if (lastSeen === undefined) return false;
+  return currentTotal > lastSeen;
+}

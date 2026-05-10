@@ -2,7 +2,7 @@ import { useEffect, useState, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Flame, Share2 } from 'lucide-react';
 import { MERGED_TOPICS } from '../data/merged-topics';
-import { getTopicProgress, getStreak } from '../lib/storage';
+import { getTopicProgress, getStreak, getSeenDays, markTopicSeen, hasNewDays } from '../lib/storage';
 import type { StreakData } from '../lib/storage';
 import { getVerseOfTheDay } from '../data/verses-of-day';
 
@@ -24,6 +24,7 @@ export default function HomeScreen() {
   const navigate = useNavigate();
   const [progressMap, setProgressMap] = useState<Record<string, number>>({});
   const [streak, setStreak] = useState<StreakData>({ current: 0, longest: 0, lastDate: '' });
+  const [seenDays, setSeenDays] = useState<Record<string, number>>({});
   const verse = getVerseOfTheDay();
 
   const loadData = useCallback(() => {
@@ -33,6 +34,7 @@ export default function HomeScreen() {
     }
     setProgressMap(map);
     setStreak(getStreak());
+    setSeenDays(getSeenDays());
   }, []);
 
   useEffect(() => {
@@ -120,10 +122,16 @@ export default function HomeScreen() {
             const pct = Math.round((progress / total) * 100);
             const isComplete = progress === total;
 
+            const showNewBadge = hasNewDays(topic.id, total) || (seenDays[topic.id] !== undefined && total > seenDays[topic.id]);
+
             return (
               <button
                 key={topic.id}
-                onClick={() => navigate(`/devotions/topic/${topic.id}`)}
+                onClick={() => {
+                  markTopicSeen(topic.id, total);
+                  setSeenDays((prev) => ({ ...prev, [topic.id]: total }));
+                  navigate(`/devotions/topic/${topic.id}`);
+                }}
                 style={{
                   background: 'var(--surface)',
                   border: `1px solid ${isComplete ? 'var(--success)' : 'var(--border)'}`,
@@ -135,8 +143,26 @@ export default function HomeScreen() {
                   display: 'flex',
                   flexDirection: 'column',
                   gap: 8,
+                  position: 'relative',
                 }}
               >
+                {showNewBadge && (
+                  <div style={{
+                    position: 'absolute',
+                    top: 10,
+                    right: 10,
+                    background: 'var(--primary)',
+                    color: '#fff',
+                    fontSize: 9,
+                    fontWeight: 800,
+                    letterSpacing: 0.8,
+                    textTransform: 'uppercase',
+                    padding: '3px 7px',
+                    borderRadius: 20,
+                  }}>
+                    New Days
+                  </div>
+                )}
                 <div style={{
                   width: 44, height: 44, borderRadius: 12,
                   background: isComplete ? 'var(--success)' : 'var(--primary)',
