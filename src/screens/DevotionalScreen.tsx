@@ -374,6 +374,9 @@ function DayCompleteCard() {
         <br />
         <span style={{ fontStyle: 'normal', fontWeight: 700 }}>— Proverbs 27:17 (NIV)</span>
       </p>
+      <p style={{ fontSize: 12, color: 'var(--text-muted)', marginTop: 16, opacity: 0.7, fontStyle: 'italic' }}>
+        More days coming — check back for updates.
+      </p>
     </div>
   );
 }

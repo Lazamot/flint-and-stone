@@ -206,7 +206,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "The Friend Who Sticks Closer Than a Brother",
       cards: [
         { type: "verse", content: "\"A man of many companions may come to ruin, but there is a friend who sticks closer than a brother.\"\n\n-- Proverbs 18:24 (NIV)" },
-        { type: "encouragement", content: "Solomon distinguishes between many companions and the friend who sticks closer than a brother. You can have a lot of acquaintances and still be deeply alone. What you need is the friend who sticks -- who shows up when things fall apart, who doesn't disappear when you fail, who is still there at 2am. Jesus is that friend. He said 'I will never leave you or forsake you.' And He calls you to be that kind of friend to others." },
+        { type: "encouragement", content: "Popularity. The pursuit of acceptance and admiration from a group of people you accept and admire... but at what cost? What we need is not a group of followers, but two or three trusted friends who stick around through thick and thin. Brothers in Christ who choose relationship with one another and are willing to endure the rollercoaster of life together. Is there room for more? Yes. Jesus had twelve disciples, but of those twelve he had three that he kept closer than the rest. God's placed other men around you, don't miss the blessing of deep friendship." },
         { type: "question", question: "Do you have a friend who sticks closer than a brother? Or do you have many companions but no deep friendship?" },
         { type: "question", question: "What does it take to build that kind of friendship?" },
         { type: "question", question: "How does Jesus being the ultimate friend who sticks closer than a brother change how you pursue friendship?" },
@@ -219,7 +219,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Speaking Truth in Love",
       cards: [
         { type: "verse", content: "\"Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ.\"\n\n-- Ephesians 4:15 (NIV)" },
-        { type: "encouragement", content: "Paul says speak the truth in love. Not truth without love -- that's harshness. Not love without truth -- that's flattery. Truth in love. The brother who loves you enough to tell you the truth is one of the greatest gifts in your life. And being that brother for someone else is one of the most loving things you can do. Jesus always spoke truth in love. He was direct without being cruel, honest without being harsh. That's the model." },
+        { type: "encouragement", content: "Speak the truth in love. Truth without love is harsh. Love without truth is flattery. The brother who loves you enough to tell you the truth is one of the greatest gifts in your life. And being that brother for someone else is one of the most loving things you can do. Jesus always spoke truth in love and His truth sets you free. Speaking the truth in love has the same power to set those around you free." },
         { type: "question", question: "Do you have brothers who speak truth to you in love? Do you receive it well?" },
         { type: "question", question: "Are you willing to speak truth to a brother when he needs to hear it?" },
         { type: "question", question: "How do you balance truth and love in your friendships?" },
@@ -232,7 +232,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Forgiveness in Brotherhood",
       cards: [
         { type: "verse", content: "\"Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.\"\n\n-- Colossians 3:13 (NIV)" },
-        { type: "encouragement", content: "Paul says forgive as the Lord forgave you. That's the standard: unconditional, undeserved, costly. Brotherhood will produce conflict. Brothers will let you down, say the wrong thing, fail you. The question is what you do with it. The man who holds grudges destroys his friendships. The man who forgives builds something lasting. Jesus forgave people who were killing Him. That's the model. Brotherhood without forgiveness doesn't last." },
+        { type: "encouragement", content: "Brothers will let you down, say the wrong thing, fail you. The question is what you do with it. You can hold a grudge and destroy the friendship, or you can forgive and build a lasting relationship. Jesus forgave people who were killing Him. Paul tells us to forgive as the Lord forgave you. He hung on the cross knowing full well all that you'd ever say and do and still he chose to forgive you. Brotherhood without forgiveness isn't real. It's demanding and self-serving... and that doesn't last." },
         { type: "question", question: "Is there a brother you're holding unforgiveness toward?" },
         { type: "question", question: "What makes it hard to forgive a friend who has let you down?" },
         { type: "question", question: "How does God's forgiveness of you give you the capacity to forgive others?" },
@@ -245,7 +245,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Brotherhood in the Hard Times",
       cards: [
         { type: "verse", content: "\"A friend loves at all times, and a brother is born for a time of adversity.\"\n\n-- Proverbs 17:17 (NIV)" },
-        { type: "encouragement", content: "Solomon says a brother is born for a time of adversity. The real test of brotherhood is not the good times -- it's the hard times. The friend who shows up when things fall apart, who doesn't disappear when you're struggling, who sits with you in the darkness -- that's the brother. Jesus showed up for His disciples in their darkest moments. He appeared to them after the resurrection when they were hiding in fear. He showed up for Thomas in his doubt. That's brotherhood." },
+        { type: "encouragement", content: "Solomon says a brother is born for a time of adversity. The real test of brotherhood is not the good times, it's the hard times. The friend who shows up when things fall apart, who doesn't disappear when you're struggling, who sits with you in the darkness... that's the brother. Jesus showed up for His disciples in their darkest moments. He appeared to them after the resurrection when they were hiding in fear. He showed up for Thomas in his doubt. He shows up for you too and places other men in your life who show up for you." },
         { type: "question", question: "Who has shown up for you in a hard time? Have you thanked them?" },
         { type: "question", question: "Are you the kind of friend who shows up in adversity, or do you tend to disappear?" },
         { type: "question", question: "How does Jesus showing up for His disciples in their darkest moments inspire how you show up for yours?" },
@@ -258,7 +258,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Brotherhood and Encouragement",
       cards: [
         { type: "verse", content: "\"Therefore encourage one another and build each other up, just as in fact you are doing.\"\n\n-- 1 Thessalonians 5:11 (NIV)" },
-        { type: "encouragement", content: "Paul says encourage one another and build each other up. The word 'encourage' literally means to put courage into someone. Brotherhood is about giving each other courage for the journey. The man who is surrounded by brothers who believe in him, who speak life over him, who remind him of who he is in Christ -- that man is going to go further than the man who is alone. Be that brother. Give courage generously." },
+        { type: "encouragement", content: "The word 'encourage' literally means to put courage into someone. Brotherhood is about giving each other courage for the journey of life. Brothers in Christ believe the best in each other, speak life over each other, and remind each other of their identity in Christ. That gives the courage to continue living for God's glory even when things are at their hardest. Be the kind of man who encourages generously." },
         { type: "question", question: "Who in your life needs encouragement right now?" },
         { type: "question", question: "When did someone's encouragement make a real difference in your life?" },
         { type: "question", question: "How does giving encouragement generously reflect the character of Jesus?" },
@@ -271,7 +271,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Brotherhood and Accountability for Purity",
       cards: [
         { type: "verse", content: "\"Flee the evil desires of youth and pursue righteousness, faith, love and peace, along with those who call on the Lord out of a pure heart.\"\n\n-- 2 Timothy 2:22 (NIV)" },
-        { type: "encouragement", content: "Paul tells Timothy to flee evil desires -- but notice the second part: pursue righteousness along with those who call on the Lord. You don't flee alone. You run together. Brotherhood is one of the most powerful tools in the fight for purity. The man who is fighting alone is the man who is most vulnerable. The man who has brothers who know his struggle, who check in, who pray for him -- that man has a fighting chance. You need brothers in this fight." },
+        { type: "encouragement", content: "Notice the second part of this familiar verse: pursue righteousness along with those who call on the Lord. This isn't a solo mission, it's a unit moving together. Brotherhood is one of the most powerful tools in the fight for purity. When you choose to go it alone you become most vulnerable to giving in to temptation. But when you lean on your brothers, those who know your struggle, who check in, and pray for you, you have more than a fighting chance. You have brothers running with you; away from evil and towards righteousness." },
         { type: "question", question: "Do you have brothers who know your specific struggles with purity?" },
         { type: "question", question: "What keeps you from being honest with other men about these struggles?" },
         { type: "question", question: "How does Paul's command to pursue righteousness 'along with' others change how you fight?" },
@@ -284,7 +284,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Brotherhood and Shared Mission",
       cards: [
         { type: "verse", content: "\"After this the Lord appointed seventy-two others and sent them out two by two ahead of him to every town and place where he was about to go.\"\n\n-- Luke 10:1 (NIV)" },
-        { type: "encouragement", content: "Jesus sent His disciples out two by two. Not alone -- together. There's something about shared mission that deepens brotherhood. When you're working toward something together, fighting for something together, serving together -- the bond goes deeper. The men who have been through something together have a different kind of brotherhood. Find a mission to pursue with your brothers. Serve together. Fight together. Build something together." },
+        { type: "encouragement", content: "Jesus sent his disciples out two by two, together, not alone. There's something about accomplishing a mission together that deepens brotherhood. When you're working toward something together, fighting for something together, serving together or enduring together, the bond simply goes deeper. Not to mention, the mission is way more fun when a band of brothers comes together. Don't make the mistake of believing you can walk this life alone. It's not how God intended you to live." },
         { type: "question", question: "Do you have brothers who share a mission with you, something you're working toward together?" },
         { type: "question", question: "How does shared mission deepen brotherhood?" },
         { type: "question", question: "How does Jesus sending disciples out in pairs challenge how you pursue mission?" },
@@ -297,11 +297,11 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Brotherhood and Mentorship",
       cards: [
         { type: "verse", content: "\"And the things you have heard me say in the presence of many witnesses entrust to reliable people who will also be qualified to teach others.\"\n\n-- 2 Timothy 2:2 (NIV)" },
-        { type: "encouragement", content: "Paul tells Timothy to invest in reliable men who will invest in others. That's four generations of brotherhood in one verse. Brotherhood is not just horizontal -- it's also vertical. You need older men who pour into you, and you need to pour into younger men. The man who has a mentor and is being a mentor is the man who is fully engaged in the brotherhood. Jesus invested three years in twelve men. That investment changed the world." },
+        { type: "encouragement", content: "Brotherhood isn't only peer to peer. You need older men pouring into you and you need younger men you are pouring into. This process of encouraging one another in the word of God, holding each other accountable, refining theology to know who God really is; it's shared in brotherhood and passed on from mentor to mentee. Creating men, young and old, who teach other men, all they have learned. This is one of your greatest contributions to God's kingdom." },
         { type: "question", question: "Do you have an older man who mentors you and speaks into your life?" },
         { type: "question", question: "Is there a younger man you could invest in and pour into?" },
         { type: "question", question: "How does the model of Paul-Timothy-faithful men-others challenge how you think about brotherhood?" },
-        { type: "action", content: "Identify one older man you could ask to mentor you. Reach out this week." },
+        { type: "action", content: "Identify one older man you could ask to mentor you. Reach out this week. Already have a mentor? Send them a quick thank you text with 2 or 3 things you've learned from them." },
         { type: "complete" },
       ],
     },
@@ -310,7 +310,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Brotherhood and Prayer",
       cards: [
         { type: "verse", content: "\"Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by my Father in heaven. For where two or three gather in my name, there am I with them.\"\n\n-- Matthew 18:19-20 (NIV)" },
-        { type: "encouragement", content: "Jesus says where two or three gather in His name, He is there. There's something powerful about praying together. The man who prays alone is powerful. The man who prays with brothers is more powerful. Brotherhood should include prayer -- not just hanging out, not just doing activities together, but actually praying together. Jesus prayed with His disciples. He invited them into His prayer life. That's the model." },
+        { type: "encouragement", content: "Jesus says where two or three gather in His name, He is there. There's something powerful about praying together. Jesus prayed with His disciples and invited them into His prayer life. There's incredible power when men come together to pray. Your brotherhood is about more than hanging out and knowing each other. It's about spending time in prayer together, lifting up what weighs your hearts down and all you want to see happen in and through your lives." },
         { type: "question", question: "Do you pray with your brothers, or is prayer something you only do alone?" },
         { type: "question", question: "What would it look like to make prayer a regular part of your brotherhood?" },
         { type: "question", question: "How does Jesus' promise of His presence when two or three gather motivate you to pray with others?" },
@@ -323,7 +323,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Brotherhood and Conflict",
       cards: [
         { type: "verse", content: "\"If your brother or sister sins, go and point out their fault, just between the two of you. If they listen to you, you have won them over.\"\n\n-- Matthew 18:15 (NIV)" },
-        { type: "encouragement", content: "Jesus gives a clear process for conflict in brotherhood: go directly to the person, just between the two of you. Not gossip, not passive aggression, not avoidance -- direct, private, honest conversation. Most friendships are destroyed not by conflict but by the failure to handle conflict well. The man who can go directly to his brother, speak the truth in love, and work through it -- that man builds lasting brotherhood." },
+        { type: "encouragement", content: "We are all sinners. When sinners get together their sin affects those around them. Inevitably, there will be some form of conflict to resolve between you and the ones closest to you. Will that be the end of it all, or will that be an opportunity to strengthen the relationship? Jesus tells us to simply address things with our brother. One on one. Privately. With lots of grace and understanding. With a mind set on giving the benefit of the doubt and a heart already set in forgiveness." },
         { type: "question", question: "How do you typically handle conflict in friendships, do you go directly, or do you avoid?" },
         { type: "question", question: "Is there a conflict with a brother that you've been avoiding?" },
         { type: "question", question: "How does Jesus' process for conflict resolution change how you handle disagreements?" },
@@ -336,7 +336,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Brotherhood and Celebration",
       cards: [
         { type: "verse", content: "\"Rejoice with those who rejoice; mourn with those who mourn.\"\n\n-- Romans 12:15 (NIV)" },
-        { type: "encouragement", content: "Paul says rejoice with those who rejoice. Brotherhood is not just about showing up in the hard times -- it's about celebrating in the good times. The man who can genuinely celebrate his brother's success without jealousy is the man who has a secure identity. The man who mourns with his brother in loss is the man who has real love. Both are essential. Brotherhood covers the full range of human experience." },
+        { type: "encouragement", content: "It can often be easier to mourn with someone than to celebrate their success. It takes a man who's secure in his identity in Christ to rejoice with those who rejoice. It means acknowledging that someone is experiencing a level of joy you wish was yours to experience. Yet rejoicing with those who rejoice is celebrating as though the success of others actually is your own. That's the kind of love Jesus calls us to live by. That's what it looks like to truly show up for your brother." },
         { type: "question", question: "Are you able to genuinely celebrate your brothers' successes without jealousy?" },
         { type: "question", question: "Are you present with your brothers in their losses and grief?" },
         { type: "question", question: "How does a secure identity in Christ free you from jealousy and enable genuine celebration?" },
@@ -349,7 +349,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Brotherhood and Generosity",
       cards: [
         { type: "verse", content: "\"All the believers were together and had everything in common. They sold property and possessions to give to anyone who had need.\"\n\n-- Acts 2:44-45 (NIV)" },
-        { type: "encouragement", content: "The early church shared everything. That's radical. Brotherhood in the early church was not just emotional support -- it was material generosity. The man who has more than he needs and his brother has less than he needs -- that's a problem that brotherhood is supposed to solve. Generosity is one of the marks of genuine community. Jesus gave everything. Brotherhood is a reflection of that generosity." },
+        { type: "encouragement", content: "Generosity is one of the marks of selfless community. Sharing what you have with others isn't only about material things. Think about your talents, your gifts, your natural abilities that may not be so natural to all. You can be generous with all of those along with your material possessions and reflect the love that the early church had for one another. Yes, it was radical, but they had no lack and their gospel impact spread to others daily." },
         { type: "question", question: "Are you generous with your brothers, with your time, your resources, your energy?" },
         { type: "question", question: "What would it look like to have the kind of community described in Acts 2?" },
         { type: "question", question: "How does Jesus' generosity inspire you to be generous with your brothers?" },
@@ -362,10 +362,10 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Brotherhood and Vulnerability",
       cards: [
         { type: "verse", content: "\"Wounds from a friend can be trusted, but an enemy multiplies kisses.\"\n\n-- Proverbs 27:6 (NIV)" },
-        { type: "encouragement", content: "Solomon says wounds from a friend can be trusted. The friend who tells you the hard truth is more trustworthy than the enemy who flatters you. Real brotherhood requires vulnerability -- the willingness to be known, to be challenged, to be wounded by truth. The man who is never vulnerable never experiences real brotherhood. He has companions but not brothers. Vulnerability is the price of real community. It's worth it." },
-        { type: "question", question: "How vulnerable are you with your brothers? Do they really know you?" },
-        { type: "question", question: "What is the cost of never being vulnerable? What do you miss out on?" },
-        { type: "question", question: "How does Jesus' vulnerability, weeping at Lazarus' tomb, sweating blood in Gethsemane, give you permission to be vulnerable?" },
+        { type: "encouragement", content: "Sharing truth can be hard. In Ephesians, Paul reminds us to share the truth in love and here, Solomon tells us that sharing that truth in love is what makes a friend a true friend. Do you love your brothers? Then you'll tell them the truth, the hard truth, but you'll do it with love and grace, because you care about them. On the flip side, accepting the truth delivered by your brother is equally important. Work through the heated feeling of being called out and be the type of man who's strong enough to genuinely be grateful to hear what few are willing to say." },
+        { type: "question", question: "How does it typically feel when a friend shares hard truth with you?" },
+        { type: "question", question: "What does it look like to genuinely be grateful to hear hard truth?" },
+        { type: "question", question: "Why do you think Solomon means by \"an enemy multiplies kisses.\"?" },
         { type: "action", content: "Share something real and vulnerable with one brother this week. Go deeper than you normally would." },
         { type: "complete" },
       ],
@@ -375,7 +375,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "Brotherhood and the Long Haul",
       cards: [
         { type: "verse", content: "\"Jonathan became one in spirit with David, and he loved him as himself.\"\n\n-- 1 Samuel 18:1 (NIV)" },
-        { type: "encouragement", content: "Jonathan and David's friendship is one of the greatest in the Bible. Jonathan loved David as himself. He protected him, sacrificed for him, and remained faithful even when it cost him everything. That kind of brotherhood doesn't happen overnight. It's built over years of showing up, being honest, going through hard things together. The long-haul brotherhood is one of the greatest gifts a man can have. Invest in it." },
+        { type: "encouragement", content: "Jonathan and David's friendship is one of the greatest in the Bible. Jonathan loved David as himself. He protected him, sacrificed for him, and remained faithful even when it cost him everything. That kind of brotherhood doesn't happen overnight. It's built over years of showing up, being honest, going through hard things together. It's one of the greatest gifts a man can have. Give this gift... Receive this gift." },
         { type: "question", question: "Do you have a friendship that has lasted through hard seasons and years?" },
         { type: "question", question: "What does it take to build a Jonathan-and-David kind of friendship?" },
         { type: "question", question: "How does Jonathan's sacrifice for David reflect the character of Jesus?" },
@@ -388,7 +388,7 @@ export const ADDITIONAL_DAYS: Record<string, DevotionalDay[]> = {
       title: "The Brotherhood Jesus Builds",
       cards: [
         { type: "verse", content: "\"By this everyone will know that you are my disciples, if you love one another.\"\n\n-- John 13:35 (NIV)" },
-        { type: "encouragement", content: "Jesus says the world will know you are His disciples by how you love one another. Brotherhood is not just good for you -- it's a witness to the world. When men love each other with the love of Christ -- honest, sacrificial, forgiving, loyal -- it's a picture of the gospel. The world is watching. The brotherhood you build is not just for your benefit. It's a testimony to the reality of Jesus. Build it well." },
+        { type: "encouragement", content: "Jesus says that the world will know who belongs to Him by how they love one another. Brotherhood goes beyond the immediate relationships. It testifies to the world what the love of Christ looks like... imperfectly, but effectively. It shows that love can be honest, sacrificial, forgiving, and loyal. It's a true picture of the gospel." },
         { type: "question", question: "How does your brotherhood reflect the love of Christ to the world around you?" },
         { type: "question", question: "How has this series changed how you think about brotherhood?" },
         { type: "question", question: "What is one thing you want to change about how you pursue and invest in brotherhood?" },
