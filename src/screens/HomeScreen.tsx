@@ -6,19 +6,12 @@ import { getTopicProgress, getStreak, getSeenDays, markTopicSeen, hasNewDays } f
 import type { StreakData } from '../lib/storage';
 import { getVerseOfTheDay } from '../data/verses-of-day';
 
-// Topic icon initials (first letter of each topic, displayed in colored circle)
-const TOPIC_INITIALS: Record<string, string> = {
-  purity: 'P',
-  strength: 'S',
-  identity: 'I',
-  brotherhood: 'B',
-  anger: 'A',
-  integrity: 'IN',
-  discipline: 'D',
-  fear: 'F',
-  forgiveness: 'FG',
-  leadership: 'L',
-};
+// Flame SVG icon used for all topic cards
+const FlameIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+    <path d="M12 2C12 2 7 8 7 13a5 5 0 0 0 10 0c0-3-2-5-2-5s0 3-3 3c0 0 2-5 0-9z" />
+  </svg>
+);
 
 export default function HomeScreen() {
   const navigate = useNavigate();
@@ -175,11 +168,8 @@ export default function HomeScreen() {
                   width: 44, height: 44, borderRadius: 12,
                   background: isComplete ? 'var(--success)' : 'var(--primary)',
                   display: 'flex', alignItems: 'center', justifyContent: 'center',
-                  fontSize: 22,
                 }}>
-                  <span style={{ fontSize: 16, fontWeight: 900, color: '#fff', letterSpacing: -0.5 }}>
-                  {TOPIC_INITIALS[topic.id] ?? topic.title.charAt(0)}
-                </span>
+                  <FlameIcon />
                 </div>
                 <p style={{ fontSize: 14, fontWeight: 800, color: 'var(--text)', lineHeight: 1.3 }}>
                   {topic.title}
