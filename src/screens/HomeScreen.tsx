@@ -118,17 +118,19 @@ export default function HomeScreen() {
         </h2>
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12, paddingBottom: 16 }}>
           {MERGED_TOPICS.map((topic) => {
+            const isReleased = topic.released;
             const progress = progressMap[topic.id] ?? 0;
             const total = topic.days.length;
             const pct = Math.round((progress / total) * 100);
-            const isComplete = progress === total;
+            const isComplete = isReleased && progress === total;
 
-            const showNewBadge = hasNewDays(topic.id, total) || (seenDays[topic.id] !== undefined && total > seenDays[topic.id]);
+            const showNewBadge = isReleased && (hasNewDays(topic.id, total) || (seenDays[topic.id] !== undefined && total > seenDays[topic.id]));
 
             return (
               <button
                 key={topic.id}
                 onClick={() => {
+                  if (!isReleased) return;
                   markTopicSeen(topic.id, total);
                   setSeenDays((prev) => ({ ...prev, [topic.id]: total }));
                   navigate(`/devotions/topic/${topic.id}`);
@@ -139,14 +141,32 @@ export default function HomeScreen() {
                   borderRadius: 16,
                   padding: 16,
                   textAlign: 'left',
-                  cursor: 'pointer',
+                  cursor: isReleased ? 'pointer' : 'default',
                   transition: 'opacity 0.15s',
                   display: 'flex',
                   flexDirection: 'column',
                   gap: 8,
                   position: 'relative',
+                  opacity: isReleased ? 1 : 0.5,
                 }}
               >
+                {!isReleased && (
+                  <div style={{
+                    position: 'absolute',
+                    top: 10,
+                    right: 10,
+                    background: 'var(--border)',
+                    color: 'var(--text-muted)',
+                    fontSize: 9,
+                    fontWeight: 800,
+                    letterSpacing: 0.8,
+                    textTransform: 'uppercase',
+                    padding: '3px 7px',
+                    borderRadius: 20,
+                  }}>
+                    Coming Soon
+                  </div>
+                )}
                 {showNewBadge && (
                   <div style={{
                     position: 'absolute',
@@ -166,7 +186,7 @@ export default function HomeScreen() {
                 )}
                 <div style={{
                   width: 44, height: 44, borderRadius: 12,
-                  background: isComplete ? 'var(--success)' : 'var(--primary)',
+                  background: isComplete ? 'var(--success)' : isReleased ? 'var(--primary)' : 'var(--border)',
                   display: 'flex', alignItems: 'center', justifyContent: 'center',
                 }}>
                   <FlameIcon />
@@ -175,11 +195,13 @@ export default function HomeScreen() {
                   {topic.title}
                 </p>
                 <p style={{ fontSize: 11, color: isComplete ? 'var(--success)' : 'var(--text-muted)', fontWeight: 600 }}>
-                  {isComplete ? 'v Complete!' : `${progress} / ${total} days`}
+                  {!isReleased ? 'Coming soon' : isComplete ? 'v Complete!' : `${progress} / ${total} days`}
                 </p>
-                <div className="progress-bar" style={{ width: '100%' }}>
-                  <div className="progress-fill" style={{ width: `${pct}%`, background: isComplete ? 'var(--success)' : 'var(--primary)' }} />
-                </div>
+                {isReleased && (
+                  <div className="progress-bar" style={{ width: '100%' }}>
+                    <div className="progress-fill" style={{ width: `${pct}%`, background: isComplete ? 'var(--success)' : 'var(--primary)' }} />
+                  </div>
+                )}
               </button>
             );
           })}
