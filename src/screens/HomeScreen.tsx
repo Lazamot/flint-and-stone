@@ -147,7 +147,7 @@ export default function HomeScreen() {
                   flexDirection: 'column',
                   gap: 8,
                   position: 'relative',
-                  opacity: isReleased ? 1 : 0.5,
+                  opacity: isReleased ? 1 : 0.65,
                 }}
               >
                 {!isReleased && (
@@ -155,8 +155,8 @@ export default function HomeScreen() {
                     position: 'absolute',
                     top: 10,
                     right: 10,
-                    background: 'var(--border)',
-                    color: 'var(--text-muted)',
+                    background: '#555',
+                    color: '#fff',
                     fontSize: 9,
                     fontWeight: 800,
                     letterSpacing: 0.8,
