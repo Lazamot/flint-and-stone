@@ -89,6 +89,11 @@ export default function SettingsScreen() {
               <span style={{ fontSize: 14, color: 'var(--text-muted)' }}>Version</span>
               <span style={{ fontSize: 14, fontWeight: 700 }}>1.0</span>
             </div>
+            <div style={{ height: 1, background: 'var(--border)' }} />
+            <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+              <span style={{ fontSize: 14, color: 'var(--text-muted)' }}>Scripture</span>
+              <span style={{ fontSize: 14, fontWeight: 700 }}>NIV</span>
+            </div>
           </div>
         </div>
 

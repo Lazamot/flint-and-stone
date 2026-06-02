@@ -207,19 +207,6 @@ export default function HomeScreen() {
           })}
         </div>
 
-        {/* Disclaimer */}
-        <p style={{
-          fontSize: 11,
-          color: 'var(--text-muted)',
-          lineHeight: 1.65,
-          textAlign: 'center',
-          paddingTop: 16,
-          paddingBottom: 24,
-          borderTop: '1px solid var(--border)',
-          marginTop: 8,
-        }}>
-          This app was built with the help of Manus AI. All Bible verses are from the New International Version (NIV).
-        </p>
       </div>
     </div>
   );
