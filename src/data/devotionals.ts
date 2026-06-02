@@ -17,6 +17,7 @@ export interface DevotionalTopic {
   title: string;
   description: string;
   icon: string;
+  released: boolean;
   days: DevotionalDay[];
 }
 
@@ -26,6 +27,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
     title: 'Purity',
     description: 'Navigating temptations and keeping your mind and heart clean.',
     icon: 'shield',
+    released: true,
     days: [
       {
         day: 1,
@@ -97,6 +99,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
   {
     id: 'strength',
     title: 'True Strength',
+    released: true,
     description: 'Redefining what it means to be a strong man.',
     icon: 'fitness-center',
     days: [
@@ -170,6 +173,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
   {
     id: 'identity',
     title: 'Identity',
+    released: true,
     description: 'Figure out who you are and what you were made for.',
     icon: 'person',
     days: [
@@ -243,6 +247,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
   {
     id: 'brotherhood',
     title: 'Brotherhood',
+    released: true,
     description: 'The power of real friendships and accountability.',
     icon: 'group',
     days: [
@@ -316,6 +321,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
   {
     id: 'anger',
     title: 'Anger',
+    released: true,
     description: 'Learning to feel deeply without losing control.',
     icon: 'bolt',
     days: [
@@ -389,6 +395,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
 {
     id: 'integrity',
     title: 'Integrity',
+    released: false,
     description: 'Being the same man in the dark as you are in the light.',
     icon: 'verified',
     days: [
@@ -462,6 +469,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
   {
     id: 'discipline',
     title: 'Discipline',
+    released: false,
     description: 'Doing what needs to be done, whether you feel like it or not.',
     icon: 'military-tech',
     days: [
@@ -535,6 +543,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
   {
     id: 'fear',
     title: 'Fear & Courage',
+    released: false,
     description: 'Facing what scares you and walking through it anyway.',
     icon: 'whatshot',
     days: [
@@ -608,6 +617,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
   {
     id: 'forgiveness',
     title: 'Forgiveness',
+    released: false,
     description: 'Releasing the weight of bitterness and choosing freedom.',
     icon: 'healing',
     days: [
@@ -681,6 +691,7 @@ export const DEVOTIONAL_TOPICS: DevotionalTopic[] = [
   {
     id: 'leadership',
     title: 'Leadership',
+    released: false,
     description: 'Learning to lead yourself before you can lead others.',
     icon: 'star',
     days: [
