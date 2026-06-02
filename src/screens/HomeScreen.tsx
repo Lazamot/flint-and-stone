@@ -218,7 +218,7 @@ export default function HomeScreen() {
           borderTop: '1px solid var(--border)',
           marginTop: 8,
         }}>
-          This app was built with the help of Manus AI. The devotional content, vision, and heart behind it are my own. Reflection questions and calls to action were developed with AI assistance. All Bible verses are from the New International Version (NIV).
+          This app was built with the help of Manus AI. All Bible verses are from the New International Version (NIV).
         </p>
       </div>
     </div>
