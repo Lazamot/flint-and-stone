@@ -1,15 +1,17 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { saveMentor, setOnboarded } from '../lib/storage';
+import { saveMentor, setOnboarded, saveUserName } from '../lib/storage';
 
 export default function OnboardingScreen() {
   const navigate = useNavigate();
-  const [name, setName] = useState('');
+  const [userName, setUserName] = useState('');
+  const [mentorName, setMentorName] = useState('');
   const [phone, setPhone] = useState('');
 
   const handleGo = () => {
-    if (name.trim() || phone.trim()) {
-      saveMentor({ name: name.trim(), phone: phone.trim() });
+    if (userName.trim()) saveUserName(userName.trim());
+    if (mentorName.trim() || phone.trim()) {
+      saveMentor({ name: mentorName.trim(), phone: phone.trim() });
     }
     setOnboarded();
     navigate('/devotions', { replace: true });
@@ -56,13 +58,24 @@ export default function OnboardingScreen() {
       <div style={{ display: 'flex', flexDirection: 'column', gap: 12, marginBottom: 24 }}>
         <div>
           <label style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1, color: 'var(--text-muted)', textTransform: 'uppercase', display: 'block', marginBottom: 6 }}>
+            Your Name
+          </label>
+          <input
+            type="text"
+            placeholder="e.g. James"
+            value={userName}
+            onChange={(e) => setUserName(e.target.value)}
+          />
+        </div>
+        <div>
+          <label style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1, color: 'var(--text-muted)', textTransform: 'uppercase', display: 'block', marginBottom: 6 }}>
             Mentor's Name
           </label>
           <input
             type="text"
             placeholder="e.g. Coach Davis"
-            value={name}
-            onChange={(e) => setName(e.target.value)}
+            value={mentorName}
+            onChange={(e) => setMentorName(e.target.value)}
           />
         </div>
         <div>

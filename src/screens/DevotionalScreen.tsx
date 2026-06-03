@@ -5,7 +5,7 @@ import { MERGED_TOPICS } from '../data/merged-topics';
 import type { DevotionalCard } from '../data/devotionals';
 import {
   markDayComplete, saveAnswers, getAnswersForDay,
-  recordStreakActivity, getTopicProgress, getMentor,
+  recordStreakActivity, getTopicProgress, getMentor, getUserName,
 } from '../lib/storage';
 
 export default function DevotionalScreen() {
@@ -21,6 +21,7 @@ export default function DevotionalScreen() {
   const [showCelebration, setShowCelebration] = useState(false);
   const [mentorName, setMentorName] = useState('');
   const [streak, setStreak] = useState(0);
+  const [userName, setUserName] = useState('');
   const inputRef = useRef<HTMLTextAreaElement>(null);
 
   useEffect(() => {
@@ -34,6 +35,7 @@ export default function DevotionalScreen() {
     }
     const mentor = getMentor();
     setMentorName(mentor.name);
+    setUserName(getUserName());
   }, [topicId, dayNum, devotionalDay]);
 
   if (!topic || !devotionalDay) {
@@ -136,6 +138,7 @@ export default function DevotionalScreen() {
           answer={questionIndex >= 0 ? (answers[questionIndex] ?? '') : ''}
           onAnswerChange={updateAnswer}
           inputRef={inputRef}
+          userName={userName}
         />
       </div>
 
@@ -189,7 +192,7 @@ export default function DevotionalScreen() {
               Topic Complete!
             </h2>
             <p style={{ fontSize: 16, color: 'var(--text)', marginBottom: 8, fontWeight: 700 }}>
-              You finished {topic.title}.
+              {userName ? `You finished ${topic.title}, ${userName}.` : `You finished ${topic.title}.`}
             </p>
             {streak > 0 && (
               <p style={{ fontSize: 14, color: 'var(--text-muted)', marginBottom: 16 }}>
@@ -214,11 +217,13 @@ function CardView({
   answer,
   onAnswerChange,
   inputRef,
+  userName,
 }: {
   card: DevotionalCard;
   answer: string;
   onAnswerChange: (val: string) => void;
   inputRef: React.RefObject<HTMLTextAreaElement | null>;
+  userName: string;
 }) {
   if (card.type === 'verse') {
     return (
@@ -305,13 +310,13 @@ function CardView({
   }
 
   if (card.type === 'complete') {
-    return <DayCompleteCard />;
+    return <DayCompleteCard userName={userName} />;
   }
 
   return null;
 }
 
-function DayCompleteCard() {
+function DayCompleteCard({ userName }: { userName: string }) {
   const [pulse, setPulse] = useState(false);
 
   useEffect(() => {
@@ -364,7 +369,7 @@ function DayCompleteCard() {
       </div>
 
       <h3 style={{ fontSize: 24, fontWeight: 900, color: 'var(--text)', marginBottom: 12 }}>
-        Well done.
+        {userName ? `Well done, ${userName}.` : 'Well done.'}
       </h3>
       <p style={{ fontSize: 15, color: 'var(--text-muted)', lineHeight: 1.7, marginBottom: 24 }}>
         Your reflections are saved. Send them to your mentor or mark this day complete and keep going.

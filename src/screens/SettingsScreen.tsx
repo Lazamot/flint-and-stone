@@ -1,19 +1,22 @@
 import { useState, useEffect } from 'react';
-import { getMentor, saveMentor } from '../lib/storage';
+import { getMentor, saveMentor, getUserName, saveUserName } from '../lib/storage';
 
 export default function SettingsScreen() {
-  const [name, setName] = useState('');
+  const [userName, setUserName] = useState('');
+  const [mentorName, setMentorName] = useState('');
   const [phone, setPhone] = useState('');
   const [saved, setSaved] = useState(false);
 
   useEffect(() => {
+    setUserName(getUserName());
     const mentor = getMentor();
-    setName(mentor.name);
+    setMentorName(mentor.name);
     setPhone(mentor.phone);
   }, []);
 
   const handleSave = () => {
-    saveMentor({ name: name.trim(), phone: phone.trim() });
+    saveUserName(userName.trim());
+    saveMentor({ name: mentorName.trim(), phone: phone.trim() });
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   };
@@ -22,6 +25,26 @@ export default function SettingsScreen() {
     <div className="screen">
       <div className="screen-scroll" style={{ padding: '20px 16px 32px' }}>
         <h1 style={{ fontSize: 28, fontWeight: 900, marginBottom: 24 }}>Settings</h1>
+
+        {/* Profile section */}
+        <div style={{ marginBottom: 32 }}>
+          <p style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1.5, color: 'var(--primary)', textTransform: 'uppercase', marginBottom: 12 }}>
+            Profile
+          </p>
+          <div className="card" style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
+            <div>
+              <label style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1, color: 'var(--text-muted)', textTransform: 'uppercase', display: 'block', marginBottom: 6 }}>
+                Your Name
+              </label>
+              <input
+                type="text"
+                placeholder="e.g. James"
+                value={userName}
+                onChange={(e) => setUserName(e.target.value)}
+              />
+            </div>
+          </div>
+        </div>
 
         {/* Mentor section */}
         <div style={{ marginBottom: 32 }}>
@@ -39,8 +62,8 @@ export default function SettingsScreen() {
               <input
                 type="text"
                 placeholder="e.g. Coach Davis"
-                value={name}
-                onChange={(e) => setName(e.target.value)}
+                value={mentorName}
+                onChange={(e) => setMentorName(e.target.value)}
               />
             </div>
             <div>
@@ -59,7 +82,7 @@ export default function SettingsScreen() {
               onClick={handleSave}
               style={{ background: saved ? 'var(--success)' : 'var(--primary)' }}
             >
-              {saved ? 'v Saved!' : 'Save Mentor Info'}
+              {saved ? 'v Saved!' : 'Save Settings'}
             </button>
           </div>
         </div>

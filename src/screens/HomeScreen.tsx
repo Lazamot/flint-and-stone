@@ -2,7 +2,7 @@ import { useEffect, useState, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Flame, Share2 } from 'lucide-react';
 import { MERGED_TOPICS } from '../data/merged-topics';
-import { getTopicProgress, getStreak, getSeenDays, markTopicSeen, hasNewDays } from '../lib/storage';
+import { getTopicProgress, getStreak, getSeenDays, markTopicSeen, hasNewDays, getUserName } from '../lib/storage';
 import type { StreakData } from '../lib/storage';
 import { getVerseOfTheDay } from '../data/verses-of-day';
 
@@ -13,11 +13,25 @@ const FlameIcon = () => (
   </svg>
 );
 
+function getGreeting(name: string): { line1: string; line2: string } {
+  const hour = new Date().getHours();
+  let timeOfDay: string;
+  if (hour < 12) timeOfDay = 'Good morning';
+  else if (hour < 17) timeOfDay = 'Good afternoon';
+  else timeOfDay = 'Good evening';
+
+  if (name) {
+    return { line1: `${timeOfDay},`, line2: name };
+  }
+  return { line1: 'Flint & Stone', line2: 'Daily Devotional' };
+}
+
 export default function HomeScreen() {
   const navigate = useNavigate();
   const [progressMap, setProgressMap] = useState<Record<string, number>>({});
   const [streak, setStreak] = useState<StreakData>({ current: 0, longest: 0, lastDate: '' });
   const [seenDays, setSeenDays] = useState<Record<string, number>>({});
+  const [userName, setUserName] = useState('');
   const verse = getVerseOfTheDay();
 
   const loadData = useCallback(() => {
@@ -28,6 +42,7 @@ export default function HomeScreen() {
     setProgressMap(map);
     setStreak(getStreak());
     setSeenDays(getSeenDays());
+    setUserName(getUserName());
   }, []);
 
   useEffect(() => {
@@ -46,6 +61,8 @@ export default function HomeScreen() {
     }
   };
 
+  const greeting = getGreeting(userName);
+
   return (
     <div className="screen">
       <div className="screen-scroll" style={{ padding: '20px 16px 16px' }}>
@@ -59,12 +76,25 @@ export default function HomeScreen() {
 
         {/* Header */}
         <div style={{ marginBottom: 20 }}>
-          <h1 style={{ fontSize: 28, fontWeight: 900, letterSpacing: -0.5, color: 'var(--text)' }}>
-            Flint <span style={{ color: 'var(--primary)' }}>&amp;</span> Stone
-          </h1>
-          <p style={{ fontSize: 12, color: 'var(--text-muted)', letterSpacing: 1, textTransform: 'uppercase', marginTop: 2 }}>
-            Daily Devotional
-          </p>
+          {userName ? (
+            <>
+              <p style={{ fontSize: 14, color: 'var(--text-muted)', fontWeight: 600, marginBottom: 2 }}>
+                {greeting.line1}
+              </p>
+              <h1 style={{ fontSize: 32, fontWeight: 900, letterSpacing: -0.5, color: 'var(--text)' }}>
+                {greeting.line2}
+              </h1>
+            </>
+          ) : (
+            <>
+              <h1 style={{ fontSize: 28, fontWeight: 900, letterSpacing: -0.5, color: 'var(--text)' }}>
+                Flint <span style={{ color: 'var(--primary)' }}>&amp;</span> Stone
+              </h1>
+              <p style={{ fontSize: 12, color: 'var(--text-muted)', letterSpacing: 1, textTransform: 'uppercase', marginTop: 2 }}>
+                Daily Devotional
+              </p>
+            </>
+          )}
         </div>
 
         {/* Streak Banner */}
@@ -73,7 +103,7 @@ export default function HomeScreen() {
             <Flame size={28} color="var(--primary)" />
             <div style={{ flex: 1 }}>
               <p style={{ fontWeight: 800, color: 'var(--primary)', fontSize: 16 }}>
-                {streak.current}-day streak
+                {userName ? `${userName}'s on a ${streak.current}-day streak` : `${streak.current}-day streak`}
               </p>
               {streak.longest > streak.current ? (
                 <p style={{ fontSize: 12, color: 'var(--text-muted)' }}>Best: {streak.longest} days</p>

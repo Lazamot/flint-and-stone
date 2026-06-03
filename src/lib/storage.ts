@@ -5,6 +5,7 @@ const ANSWERS_KEY = 'fs_answers';
 const STREAK_KEY = 'fs_streak';
 const MENTOR_KEY = 'fs_mentor';
 const ONBOARDING_KEY = 'fs_onboarded';
+const USER_NAME_KEY = 'fs_user_name';
 
 export interface DayProgress {
   topicId: string;
@@ -128,6 +129,15 @@ export function hasOnboarded(): boolean {
 
 export function setOnboarded(): void {
   save(ONBOARDING_KEY, true);
+}
+
+// --- User Name ---
+export function getUserName(): string {
+  return load<string>(USER_NAME_KEY, '');
+}
+
+export function saveUserName(name: string): void {
+  save(USER_NAME_KEY, name);
 }
 
 // --- Seen Topic Days (for "New Days" badge) ---
