@@ -1,11 +1,14 @@
 import { useState, useEffect } from 'react';
 import { getMentor, saveMentor, getUserName, saveUserName } from '../lib/storage';
+import { MERGED_TOPICS } from '../data/merged-topics';
 
 export default function SettingsScreen() {
   const [userName, setUserName] = useState('');
   const [mentorName, setMentorName] = useState('');
   const [phone, setPhone] = useState('');
   const [saved, setSaved] = useState(false);
+  const releasedTopics = MERGED_TOPICS.filter((t) => t.released);
+  const releasedDays = releasedTopics.reduce((sum, t) => sum + t.days.length, 0);
 
   useEffect(() => {
     setUserName(getUserName());
@@ -108,12 +111,12 @@ export default function SettingsScreen() {
             <div style={{ height: 1, background: 'var(--border)' }} />
             <div style={{ display: 'flex', justifyContent: 'space-between' }}>
               <span style={{ fontSize: 14, color: 'var(--text-muted)' }}>Topics</span>
-              <span style={{ fontSize: 14, fontWeight: 700 }}>10</span>
+              <span style={{ fontSize: 14, fontWeight: 700 }}>{releasedTopics.length}</span>
             </div>
             <div style={{ height: 1, background: 'var(--border)' }} />
             <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-              <span style={{ fontSize: 14, color: 'var(--text-muted)' }}>Total Days</span>
-              <span style={{ fontSize: 14, fontWeight: 700 }}>200</span>
+              <span style={{ fontSize: 14, color: 'var(--text-muted)' }}>Available Days</span>
+              <span style={{ fontSize: 14, fontWeight: 700 }}>{releasedDays}</span>
             </div>
             <div style={{ height: 1, background: 'var(--border)' }} />
             <div style={{ display: 'flex', justifyContent: 'space-between' }}>

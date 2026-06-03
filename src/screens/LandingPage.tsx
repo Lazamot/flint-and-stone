@@ -1,7 +1,10 @@
 import { useNavigate } from 'react-router-dom';
+import { MERGED_TOPICS } from '../data/merged-topics';
 
 export default function LandingPage() {
   const navigate = useNavigate();
+  const releasedTopics = MERGED_TOPICS.filter((t) => t.released);
+  const releasedDays = releasedTopics.reduce((sum, t) => sum + t.days.length, 0);
 
   return (
     <div style={styles.container}>
@@ -48,7 +51,7 @@ export default function LandingPage() {
           >
             <div style={styles.btnText}>
               <span style={styles.btnTitle}>Devotionals</span>
-              <span style={styles.btnSub}>10 topics . 200 days</span>
+              <span style={styles.btnSub}>{releasedTopics.length} topics · {releasedDays} days</span>
             </div>
             <span style={styles.btnArrow}></span>
           </button>
