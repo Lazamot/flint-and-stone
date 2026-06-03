@@ -103,7 +103,13 @@ export default function HomeScreen() {
             <Flame size={28} color="var(--primary)" />
             <div style={{ flex: 1 }}>
               <p style={{ fontWeight: 800, color: 'var(--primary)', fontSize: 16 }}>
-                {userName ? `${userName}${userName.endsWith('s') ? '\'' : '\'s'} on a ${streak.current}-day streak` : `${streak.current}-day streak`}
+                {userName ? (() => {
+                const n = userName.toLowerCase();
+                const sSound = n.endsWith('s') || n.endsWith('z') || n.endsWith('x') || n.endsWith('ce') || n.endsWith('se');
+                return sSound
+                  ? `${userName} is on a ${streak.current}-day streak`
+                  : `${userName}'s on a ${streak.current}-day streak`;
+              })() : `${streak.current}-day streak`}
               </p>
               {streak.longest > streak.current ? (
                 <p style={{ fontSize: 12, color: 'var(--text-muted)' }}>Best: {streak.longest} days</p>
