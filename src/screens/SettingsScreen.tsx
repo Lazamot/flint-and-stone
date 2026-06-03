@@ -43,6 +43,13 @@ export default function SettingsScreen() {
                 onChange={(e) => setUserName(e.target.value)}
               />
             </div>
+            <button
+              className="btn-primary"
+              onClick={handleSave}
+              style={{ background: saved ? 'var(--success)' : 'var(--primary)' }}
+            >
+              {saved ? 'v Saved!' : 'Save Name'}
+            </button>
           </div>
         </div>
 
