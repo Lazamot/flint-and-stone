@@ -103,7 +103,7 @@ export default function HomeScreen() {
             <Flame size={28} color="var(--primary)" />
             <div style={{ flex: 1 }}>
               <p style={{ fontWeight: 800, color: 'var(--primary)', fontSize: 16 }}>
-                {userName ? `${userName}'s on a ${streak.current}-day streak` : `${streak.current}-day streak`}
+                {userName ? `${userName}${userName.endsWith('s') ? '\'' : '\'s'} on a ${streak.current}-day streak` : `${streak.current}-day streak`}
               </p>
               {streak.longest > streak.current ? (
                 <p style={{ fontSize: 12, color: 'var(--text-muted)' }}>Best: {streak.longest} days</p>
