@@ -26,64 +26,65 @@ export default function SettingsScreen() {
       <div className="screen-scroll" style={{ padding: '20px 16px 32px' }}>
         <h1 style={{ fontSize: 28, fontWeight: 900, marginBottom: 24 }}>Settings</h1>
 
-        {/* Profile section */}
+        {/* Unified Profile + Mentor card */}
         <div style={{ marginBottom: 32 }}>
-          <p style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1.5, color: 'var(--primary)', textTransform: 'uppercase', marginBottom: 12 }}>
-            Profile
-          </p>
-          <div className="card" style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
-            <div>
-              <label style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1, color: 'var(--text-muted)', textTransform: 'uppercase', display: 'block', marginBottom: 6 }}>
-                Your Name
-              </label>
-              <input
-                type="text"
-                placeholder="e.g. James"
-                value={userName}
-                onChange={(e) => setUserName(e.target.value)}
-              />
-            </div>
-            <button
-              className="btn-primary"
-              onClick={handleSave}
-              style={{ background: saved ? 'var(--success)' : 'var(--primary)' }}
-            >
-              {saved ? 'v Saved!' : 'Save Name'}
-            </button>
-          </div>
-        </div>
+          <div className="card" style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
 
-        {/* Mentor section */}
-        <div style={{ marginBottom: 32 }}>
-          <p style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1.5, color: 'var(--primary)', textTransform: 'uppercase', marginBottom: 12 }}>
-            Mentor
-          </p>
-          <div className="card" style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
-            <p style={{ fontSize: 13, color: 'var(--text-muted)', lineHeight: 1.6 }}>
-              Your mentor's info is used to send your reflection answers via text after completing a devotional day.
-            </p>
+            {/* Profile section */}
             <div>
-              <label style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1, color: 'var(--text-muted)', textTransform: 'uppercase', display: 'block', marginBottom: 6 }}>
-                Mentor's Name
-              </label>
-              <input
-                type="text"
-                placeholder="e.g. Coach Davis"
-                value={mentorName}
-                onChange={(e) => setMentorName(e.target.value)}
-              />
+              <p style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1.5, color: 'var(--primary)', textTransform: 'uppercase', marginBottom: 12 }}>
+                Profile
+              </p>
+              <div>
+                <label style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1, color: 'var(--text-muted)', textTransform: 'uppercase', display: 'block', marginBottom: 6 }}>
+                  Your Name
+                </label>
+                <input
+                  type="text"
+                  placeholder="e.g. James"
+                  value={userName}
+                  onChange={(e) => setUserName(e.target.value)}
+                />
+              </div>
             </div>
+
+            <div style={{ height: 1, background: 'var(--border)' }} />
+
+            {/* Mentor section */}
             <div>
-              <label style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1, color: 'var(--text-muted)', textTransform: 'uppercase', display: 'block', marginBottom: 6 }}>
-                Mentor's Phone Number
-              </label>
-              <input
-                type="tel"
-                placeholder="e.g. 555-867-5309"
-                value={phone}
-                onChange={(e) => setPhone(e.target.value)}
-              />
+              <p style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1.5, color: 'var(--primary)', textTransform: 'uppercase', marginBottom: 8 }}>
+                Mentor
+              </p>
+              <p style={{ fontSize: 13, color: 'var(--text-muted)', lineHeight: 1.6, marginBottom: 12 }}>
+                Add a mentor — a coach, pastor, dad, or older brother — and send your reflection answers straight to them after each devotional.
+              </p>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
+                <div>
+                  <label style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1, color: 'var(--text-muted)', textTransform: 'uppercase', display: 'block', marginBottom: 6 }}>
+                    Mentor's Name
+                  </label>
+                  <input
+                    type="text"
+                    placeholder="e.g. Coach Davis"
+                    value={mentorName}
+                    onChange={(e) => setMentorName(e.target.value)}
+                  />
+                </div>
+                <div>
+                  <label style={{ fontSize: 11, fontWeight: 800, letterSpacing: 1, color: 'var(--text-muted)', textTransform: 'uppercase', display: 'block', marginBottom: 6 }}>
+                    Mentor's Phone Number
+                  </label>
+                  <input
+                    type="tel"
+                    placeholder="e.g. 555-867-5309"
+                    value={phone}
+                    onChange={(e) => setPhone(e.target.value)}
+                  />
+                </div>
+              </div>
             </div>
+
+            {/* Single save button */}
             <button
               className="btn-primary"
               onClick={handleSave}
