@@ -13,6 +13,7 @@ import DevotionalScreen from './screens/DevotionalScreen';
 import ProgressScreen from './screens/ProgressScreen';
 import JournalScreen from './screens/JournalScreen';
 import SettingsScreen from './screens/SettingsScreen';
+import PrivacyPolicyScreen from './screens/PrivacyPolicyScreen';
 
 // Paths that show the devotional tab bar
 const DEVOTIONAL_TAB_PATHS = [
@@ -100,6 +101,7 @@ function AppRoutes() {
     <Routes>
       <Route path="/" element={<LandingPage />} />
       <Route path="/bible-studies" element={<BibleStudiesScreen />} />
+      <Route path="/privacy" element={<PrivacyPolicyScreen />} />
     </Routes>
   );
 }
